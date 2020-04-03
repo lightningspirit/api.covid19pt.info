@@ -1,0 +1,98 @@
+{
+  "title": "Georgia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ge/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ge/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ge",
+    "name": {
+      "en": "Georgia",
+      "pt": "Geórgia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ge.png",
+    "coordinates": {
+      "latitude": 42,
+      "longitude": 43.5
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 134,
+        "perOneMillion": 34,
+        "today": 17,
+        "doublingTime": 8.59610716838811,
+        "growth": 0.1452991453
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 26,
+      "perOneMillion": 7,
+      "today": 3,
+      "doublingTime": 5.4928102627574305,
+      "growth": 0.1304347826
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:02.209Z",
+    "everyone": {
+      "females": 2054325,
+      "males": 1879463,
+      "total": 3933788
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 424970,
+        "males": 469193,
+        "total": 894163
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 538761,
+        "males": 549768,
+        "total": 1088529
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 541254,
+        "males": 478465,
+        "total": 1019719
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 359666,
+        "males": 255609,
+        "total": 615275
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 97984,
+        "males": 45873,
+        "total": 143857
+      }
+    ]
+  }
+}

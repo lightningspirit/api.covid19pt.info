@@ -1,0 +1,102 @@
+{
+  "title": "Finland",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/fi/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/fi/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "fi",
+    "name": {
+      "en": "Finland",
+      "pt": "Finlândia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fi.png",
+    "coordinates": {
+      "latitude": 64,
+      "longitude": 26
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 1518,
+        "perOneMillion": 275,
+        "today": 72,
+        "doublingTime": 13.121307144279795,
+        "growth": 0.0497925311
+      }
+    },
+    "deaths": {
+      "total": 19,
+      "perOneMillion": 3,
+      "today": 2,
+      "doublingTime": 4.5164201628649545,
+      "growth": 0.1176470588
+    },
+    "recovered": {
+      "total": 300,
+      "perOneMillion": 54,
+      "today": 290,
+      "doublingTime": 0.3615937211836245,
+      "growth": 29
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:01.612Z",
+    "everyone": {
+      "females": 2799306,
+      "males": 2726132,
+      "total": 5525438
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 563390,
+        "males": 591070,
+        "total": 1154460
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 636476,
+        "males": 672416,
+        "total": 1308892
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 650175,
+        "males": 663149,
+        "total": 1313324
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 648972,
+        "males": 581313,
+        "total": 1230285
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 178532,
+        "males": 99565,
+        "total": 278097
+      }
+    ]
+  }
+}

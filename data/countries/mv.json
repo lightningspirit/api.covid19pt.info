@@ -1,0 +1,98 @@
+{
+  "title": "Maldives",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mv/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mv/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mv",
+    "name": {
+      "en": "Maldives",
+      "pt": "Maldivas"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mv.png",
+    "coordinates": {
+      "latitude": 3.25,
+      "longitude": 73
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 19,
+        "perOneMillion": 49,
+        "today": 0,
+        "doublingTime": 19.9383796174223,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 13,
+      "perOneMillion": 34,
+      "today": 0,
+      "doublingTime": 8.139561058880743,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:06.511Z",
+    "everyone": {
+      "females": 192788,
+      "males": 193642,
+      "total": 386430
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 62192,
+        "males": 66853,
+        "total": 129045
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 70197,
+        "males": 69838,
+        "total": 140035
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 38619,
+        "males": 35564,
+        "total": 74183
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 12433,
+        "males": 11991,
+        "total": 24424
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1676,
+        "males": 1955,
+        "total": 3631
+      }
+    ]
+  }
+}

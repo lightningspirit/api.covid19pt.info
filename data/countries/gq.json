@@ -1,0 +1,98 @@
+{
+  "title": "Equatorial Guinea",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/gq/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/gq/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "gq",
+    "name": {
+      "en": "Equatorial Guinea",
+      "pt": "Guiné Equatorial"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gq.png",
+    "coordinates": {
+      "latitude": 2,
+      "longitude": 10
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 15,
+        "perOneMillion": 16,
+        "today": 0,
+        "doublingTime": 14.206699082890461,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 1,
+      "perOneMillion": 1,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:01.009Z",
+    "everyone": {
+      "females": 459463,
+      "males": 481860,
+      "total": 941323
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 217976,
+        "males": 221328,
+        "total": 439304
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 130640,
+        "males": 136712,
+        "total": 267352
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 69276,
+        "males": 77444,
+        "total": 146720
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 23628,
+        "males": 27648,
+        "total": 51276
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1877,
+        "males": 1623,
+        "total": 3500
+      }
+    ]
+  }
+}

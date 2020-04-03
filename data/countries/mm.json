@@ -1,0 +1,98 @@
+{
+  "title": "Myanmar",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mm/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mm/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mm",
+    "name": {
+      "en": "Myanmar",
+      "pt": "Mianmar"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mm.png",
+    "coordinates": {
+      "latitude": 22,
+      "longitude": 98
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 20,
+        "perOneMillion": 0,
+        "today": 5,
+        "doublingTime": 3.6213235013193086,
+        "growth": 0.3333333333
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:07.811Z",
+    "everyone": {
+      "females": 28284413,
+      "males": 27027315,
+      "total": 55311728
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 9090865,
+        "males": 9201023,
+        "total": 18291888
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 8525520,
+        "males": 8396421,
+        "total": 16921941
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 6506105,
+        "males": 5984373,
+        "total": 12490478
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 2708722,
+        "males": 2144766,
+        "total": 4853488
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 230181,
+        "males": 140822,
+        "total": 371003
+      }
+    ]
+  }
+}

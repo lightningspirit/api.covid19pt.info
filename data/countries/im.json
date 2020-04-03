@@ -1,0 +1,51 @@
+{
+  "title": "Isle of Man",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/im/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/im/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "im",
+    "name": {
+      "en": "Isle of Man",
+      "pt": "Isle of Man"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/im.png",
+    "coordinates": {
+      "latitude": 54.23,
+      "longitude": -4.55
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.625Z",
+    "cases": {
+      "confirmed": {
+        "total": 114,
+        "perOneMillion": 1341
+      },
+      "active": {
+        "total": 113
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 12
+    },
+    "recovered": {
+      "total": 0
+    },
+    "hospitalization": {
+      "critical": 0
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

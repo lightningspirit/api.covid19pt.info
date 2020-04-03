@@ -1,0 +1,98 @@
+{
+  "title": "Canada",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ca/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ca/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ca",
+    "name": {
+      "en": "Canada",
+      "pt": "Canadá"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ca.png",
+    "coordinates": {
+      "latitude": 60,
+      "longitude": -95
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 11284,
+        "perOneMillion": 303,
+        "today": 1724,
+        "doublingTime": 4.908405582094884,
+        "growth": 0.180334728
+      }
+    },
+    "deaths": {
+      "total": 139,
+      "perOneMillion": 4,
+      "today": 30,
+      "doublingTime": 4.119928868867721,
+      "growth": 0.2752293578
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:58.718Z",
+    "everyone": {
+      "females": 18735215,
+      "males": 18459811,
+      "total": 37195026
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3742888,
+        "males": 3933095,
+        "total": 7675983
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 4767108,
+        "males": 4843055,
+        "total": 9610163
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4771350,
+        "males": 4763282,
+        "total": 9534632
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3712589,
+        "males": 3504438,
+        "total": 7217027
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 905068,
+        "males": 591551,
+        "total": 1496619
+      }
+    ]
+  }
+}

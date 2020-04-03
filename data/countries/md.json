@@ -1,0 +1,102 @@
+{
+  "title": "Moldova, Republic of",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/md/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/md/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "md",
+    "name": {
+      "en": "Moldova, Republic of",
+      "pt": "Moldávia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/md.png",
+    "coordinates": {
+      "latitude": 47,
+      "longitude": 29
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 505,
+        "perOneMillion": 127,
+        "today": 82,
+        "doublingTime": 4.422909713802425,
+        "growth": 0.1938534279
+      }
+    },
+    "deaths": {
+      "total": 6,
+      "perOneMillion": 2,
+      "today": 1,
+      "doublingTime": 2.722043441920704,
+      "growth": 0.2
+    },
+    "recovered": {
+      "total": 23,
+      "perOneMillion": 6,
+      "today": 0,
+      "doublingTime": 0.7934239301113473,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:07.309Z",
+    "everyone": {
+      "females": 2076540,
+      "males": 1907988,
+      "total": 3984636
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 387300,
+        "males": 411800,
+        "total": 799000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 640200,
+        "males": 662200,
+        "total": 1302300
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 534400,
+        "males": 480700,
+        "total": 1015500
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 367780,
+        "males": 249780,
+        "total": 617500
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 54940,
+        "males": 21328,
+        "total": 76236
+      }
+    ]
+  }
+}

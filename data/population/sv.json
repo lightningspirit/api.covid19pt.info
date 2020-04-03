@@ -1,0 +1,61 @@
+{
+  "title": "Current Country Population",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/population/sv",
+      "title": "Current Country Population"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/population/",
+      "title": "Parent"
+    },
+    "country": {
+      "title": "Country info",
+      "templated": true,
+      "href": "https://api.covid19pt.info/v6/countries/sv/"
+    }
+  },
+  "date": "2020-04-02T20:52:22.213Z",
+  "everyone": {
+    "females": 3270106,
+    "males": 2856668,
+    "total": 6126774
+  },
+  "groups": [
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 984509,
+      "males": 1020570,
+      "total": 2005079
+    },
+    {
+      "type": "age-group",
+      "label": "20-39",
+      "females": 1029090,
+      "males": 892491,
+      "total": 1921581
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 692229,
+      "males": 519249,
+      "total": 1211478
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 354699,
+      "males": 256253,
+      "total": 610952
+    },
+    {
+      "type": "age-group",
+      "label": "80+",
+      "females": 68188,
+      "males": 48070,
+      "total": 116258
+    }
+  ]
+}

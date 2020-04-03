@@ -1,0 +1,51 @@
+{
+  "title": "Aruba",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/aw/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/aw/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "aw",
+    "name": {
+      "en": "Aruba",
+      "pt": "Aruba"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/aw.png",
+    "coordinates": {
+      "latitude": 12.5,
+      "longitude": -69.9667
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.625Z",
+    "cases": {
+      "confirmed": {
+        "total": 62,
+        "perOneMillion": 581
+      },
+      "active": {
+        "total": 61
+      }
+    },
+    "deaths": {
+      "total": 0,
+      "perOneMillion": null
+    },
+    "recovered": {
+      "total": 1
+    },
+    "hospitalization": {
+      "critical": 0
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

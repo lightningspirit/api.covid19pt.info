@@ -1,0 +1,41 @@
+{
+  "title": "Timor-Leste",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/tl/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/tl/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "tl",
+    "name": {
+      "en": "Timor-Leste",
+      "pt": "Timor-Leste"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tl.png",
+    "coordinates": {
+      "latitude": -8.55,
+      "longitude": 125.5167
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 1
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  }
+}

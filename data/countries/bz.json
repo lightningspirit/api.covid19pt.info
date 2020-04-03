@@ -1,0 +1,94 @@
+{
+  "title": "Belize",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/bz/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/bz/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "bz",
+    "name": {
+      "en": "Belize",
+      "pt": "Belize"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bz.png",
+    "coordinates": {
+      "latitude": 17.25,
+      "longitude": -88.75
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 3,
+        "perOneMillion": 8,
+        "today": 0,
+        "doublingTime": 7.272540897341713,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:57.310Z",
+    "everyone": {
+      "females": 195962,
+      "males": 193379,
+      "total": 389341
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 74526,
+        "males": 76183,
+        "total": 150709
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 65139,
+        "males": 63253,
+        "total": 128392
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 36226,
+        "males": 34680,
+        "total": 70906
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 11067,
+        "males": 10672,
+        "total": 21739
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1045,
+        "males": 856,
+        "total": 1901
+      }
+    ]
+  }
+}

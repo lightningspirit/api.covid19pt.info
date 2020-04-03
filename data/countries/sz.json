@@ -1,0 +1,94 @@
+{
+  "title": "Swaziland",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/sz/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/sz/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "sz",
+    "name": {
+      "en": "Swaziland",
+      "pt": "Essuatíni"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sz.png",
+    "coordinates": {
+      "latitude": -26.5,
+      "longitude": 31.5
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 9,
+        "perOneMillion": 7,
+        "today": 0,
+        "doublingTime": null,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:12.513Z",
+    "everyone": {
+      "females": 670036,
+      "males": 661234,
+      "total": 1331003
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 304800,
+        "males": 308200,
+        "total": 612800
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 226580,
+        "males": 233840,
+        "total": 460300
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 71410,
+        "males": 65830,
+        "total": 137260
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 39602,
+        "males": 27897,
+        "total": 67510
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 3377,
+        "males": 2017,
+        "total": 5393
+      }
+    ]
+  }
+}

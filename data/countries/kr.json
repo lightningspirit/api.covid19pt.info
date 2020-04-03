@@ -1,0 +1,102 @@
+{
+  "title": "S. Korea",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/kr/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/kr/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "kr",
+    "name": {
+      "en": "S. Korea",
+      "pt": "Coreia do Sul"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kr.png",
+    "coordinates": {
+      "latitude": 37,
+      "longitude": 127.5
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 9976,
+        "perOneMillion": 196,
+        "today": 89,
+        "doublingTime": 67.66940089243865,
+        "growth": 0.0090017194
+      }
+    },
+    "deaths": {
+      "total": 169,
+      "perOneMillion": 3,
+      "today": 4,
+      "doublingTime": 21.593001778940874,
+      "growth": 0.0242424242
+    },
+    "recovered": {
+      "total": 5828,
+      "perOneMillion": 115,
+      "today": 261,
+      "doublingTime": 18.062585930069552,
+      "growth": 0.0468834202
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:09.911Z",
+    "everyone": {
+      "females": 25573680,
+      "males": 25225225,
+      "total": 50794030
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4307000,
+        "males": 4610000,
+        "total": 8917000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 6342000,
+        "males": 6927000,
+        "total": 13268000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 7756000,
+        "males": 7752000,
+        "total": 15509000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4809000,
+        "males": 4214000,
+        "total": 9019000
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1142680,
+        "males": 540225,
+        "total": 1684030
+      }
+    ]
+  }
+}

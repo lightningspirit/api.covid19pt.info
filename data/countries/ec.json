@@ -1,0 +1,102 @@
+{
+  "title": "Ecuador",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ec/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ec/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ec",
+    "name": {
+      "en": "Ecuador",
+      "pt": "Equador"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ec.png",
+    "coordinates": {
+      "latitude": -2,
+      "longitude": -77.5
+    },
+    "continent": {
+      "en": "South America",
+      "pt": "América do Sul"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 3163,
+        "perOneMillion": 186,
+        "today": 415,
+        "doublingTime": 6.168273814645333,
+        "growth": 0.1510189229
+      }
+    },
+    "deaths": {
+      "total": 120,
+      "perOneMillion": 7,
+      "today": 27,
+      "doublingTime": 3.7231831218708478,
+      "growth": 0.2903225806
+    },
+    "recovered": {
+      "total": 65,
+      "perOneMillion": 4,
+      "today": 7,
+      "doublingTime": 0.4650688310663609,
+      "growth": 0.1206896552
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:00.809Z",
+    "everyone": {
+      "females": 8517873,
+      "males": 8497234,
+      "total": 17015107
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 2918836,
+        "males": 3046403,
+        "total": 5965239
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 2562322,
+        "males": 2588379,
+        "total": 5150701
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1734908,
+        "males": 1676691,
+        "total": 3411599
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 810626,
+        "males": 735736,
+        "total": 1546362
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 142660,
+        "males": 106005,
+        "total": 248665
+      }
+    ]
+  }
+}

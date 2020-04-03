@@ -1,0 +1,94 @@
+{
+  "title": "Malawi",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mw/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mw/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mw",
+    "name": {
+      "en": "Malawi",
+      "pt": "Malawi"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mw.png",
+    "coordinates": {
+      "latitude": -13.5,
+      "longitude": 34
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 3,
+        "perOneMillion": 0,
+        "today": 3,
+        "doublingTime": null,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:06.309Z",
+    "everyone": {
+      "females": 9661074,
+      "males": 9663532,
+      "total": 19324606
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5105535,
+        "males": 5187338,
+        "total": 10292873
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 2762751,
+        "males": 2763736,
+        "total": 5526487
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 967819,
+        "males": 1005597,
+        "total": 1973416
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 450262,
+        "males": 352732,
+        "total": 802994
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 45616,
+        "males": 27423,
+        "total": 73039
+      }
+    ]
+  }
+}

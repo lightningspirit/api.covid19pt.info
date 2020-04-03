@@ -1,0 +1,98 @@
+{
+  "title": "Niger",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ne/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ne/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ne",
+    "name": {
+      "en": "Niger",
+      "pt": "Níger"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ne.png",
+    "coordinates": {
+      "latitude": 16,
+      "longitude": 8
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 98,
+        "perOneMillion": 4,
+        "today": 24,
+        "doublingTime": 1.346894464890274,
+        "growth": 0.3243243243
+      }
+    },
+    "deaths": {
+      "total": 5,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": 1.6216092786643213,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:08.409Z",
+    "everyone": {
+      "females": 11511445,
+      "males": 11707692,
+      "total": 23220753
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 6754000,
+        "males": 6992000,
+        "total": 13748000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 2712700,
+        "males": 2574300,
+        "total": 5288000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1226200,
+        "males": 1297500,
+        "total": 2523000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 431750,
+        "males": 463600,
+        "total": 895200
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 24495,
+        "males": 17932,
+        "total": 42453
+      }
+    ]
+  }
+}

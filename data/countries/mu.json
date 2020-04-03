@@ -1,0 +1,98 @@
+{
+  "title": "Mauritius",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mu/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mu/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mu",
+    "name": {
+      "en": "Mauritius",
+      "pt": "Maurícia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mu.png",
+    "coordinates": {
+      "latitude": -20.2833,
+      "longitude": 57.55
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 169,
+        "perOneMillion": 132,
+        "today": 8,
+        "doublingTime": 6.782172120346727,
+        "growth": 0.049689441
+      }
+    },
+    "deaths": {
+      "total": 7,
+      "perOneMillion": 5,
+      "today": 1,
+      "doublingTime": 2.591404313321802,
+      "growth": 0.1666666667
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:07.011Z",
+    "everyone": {
+      "females": 648839,
+      "males": 628414,
+      "total": 1277253
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 147237,
+        "males": 152972,
+        "total": 300209
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 182084,
+        "males": 183423,
+        "total": 365507
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 173245,
+        "males": 170255,
+        "total": 343500
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 101357,
+        "males": 85166,
+        "total": 186523
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 14851,
+        "males": 7577,
+        "total": 22428
+      }
+    ]
+  }
+}

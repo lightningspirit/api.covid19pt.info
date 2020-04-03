@@ -1,0 +1,102 @@
+{
+  "title": "Azerbaijan",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/az/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/az/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "az",
+    "name": {
+      "en": "Azerbaijan",
+      "pt": "Azerbaijão"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/az.png",
+    "coordinates": {
+      "latitude": 40.5,
+      "longitude": 47.5
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 400,
+        "perOneMillion": 40,
+        "today": 41,
+        "doublingTime": 4.343755302954441,
+        "growth": 0.1142061281
+      }
+    },
+    "deaths": {
+      "total": 5,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": 14.206699082890461,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 26,
+      "perOneMillion": 3,
+      "today": 0,
+      "doublingTime": 5.064674264654162,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:56.715Z",
+    "everyone": {
+      "females": 5078483,
+      "males": 5033087,
+      "total": 10111570
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1331910,
+        "males": 1528949,
+        "total": 2860859
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1634471,
+        "males": 1651914,
+        "total": 3286385
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1277911,
+        "males": 1168929,
+        "total": 2446840
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 540930,
+        "males": 435602,
+        "total": 976532
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 85584,
+        "males": 46681,
+        "total": 132265
+      }
+    ]
+  }
+}

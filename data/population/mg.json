@@ -1,0 +1,61 @@
+{
+  "title": "Current Country Population",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/population/mg",
+      "title": "Current Country Population"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/population/",
+      "title": "Parent"
+    },
+    "country": {
+      "title": "Country info",
+      "templated": true,
+      "href": "https://api.covid19pt.info/v6/countries/mg/"
+    }
+  },
+  "date": "2020-04-02T20:52:27.511Z",
+  "everyone": {
+    "females": 13491866,
+    "males": 13422649,
+    "total": 26914515
+  },
+  "groups": [
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 6618193,
+      "males": 6723008,
+      "total": 13341201
+    },
+    {
+      "type": "age-group",
+      "label": "20-39",
+      "females": 3839047,
+      "males": 3821767,
+      "total": 7660814
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 1872059,
+      "males": 1814238,
+      "total": 3686297
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 619868,
+      "males": 539761,
+      "total": 1159629
+    },
+    {
+      "type": "age-group",
+      "label": "80+",
+      "females": 52251,
+      "males": 41444,
+      "total": 93695
+    }
+  ]
+}

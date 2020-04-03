@@ -1,0 +1,98 @@
+{
+  "title": "Latvia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/lv/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/lv/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "lv",
+    "name": {
+      "en": "Latvia",
+      "pt": "Letônia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lv.png",
+    "coordinates": {
+      "latitude": 57,
+      "longitude": 25
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 458,
+        "perOneMillion": 241,
+        "today": 12,
+        "doublingTime": 8.452656588363409,
+        "growth": 0.0269058296
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 31,
+      "perOneMillion": 16,
+      "today": 30,
+      "doublingTime": 0.3562071871080222,
+      "growth": 30
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:05.407Z",
+    "everyone": {
+      "females": 1023963,
+      "males": 873117,
+      "total": 1897080
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 179965,
+        "males": 189556,
+        "total": 369521
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 227166,
+        "males": 239054,
+        "total": 466220
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 263731,
+        "males": 238256,
+        "total": 501987
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 236810,
+        "males": 145773,
+        "total": 382583
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 70506,
+        "males": 23239,
+        "total": 93745
+      }
+    ]
+  }
+}

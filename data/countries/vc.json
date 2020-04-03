@@ -1,0 +1,98 @@
+{
+  "title": "Saint Vincent and the Grenadines",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/vc/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/vc/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "vc",
+    "name": {
+      "en": "Saint Vincent and the Grenadines",
+      "pt": "São Vicente e Granadinas"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/vc.png",
+    "coordinates": {
+      "latitude": 13.25,
+      "longitude": -61.2
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 2,
+        "perOneMillion": 18,
+        "today": 1,
+        "doublingTime": 3.8017840169239308,
+        "growth": 1
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 1,
+      "perOneMillion": 9,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:12.213Z",
+    "everyone": {
+      "females": 54154,
+      "males": 54976,
+      "total": 109109
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 16162,
+        "males": 16539,
+        "total": 32710
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 16228,
+        "males": 16537,
+        "total": 32760
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 12528,
+        "males": 13143,
+        "total": 25650
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5762,
+        "males": 5589,
+        "total": 11348
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1087,
+        "males": 744,
+        "total": 1831
+      }
+    ]
+  }
+}

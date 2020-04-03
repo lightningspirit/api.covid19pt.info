@@ -1,0 +1,51 @@
+{
+  "title": "St. Barth",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/bl/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/bl/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "bl",
+    "name": {
+      "en": "St. Barth",
+      "pt": "St. Barth"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bl.png",
+    "coordinates": {
+      "latitude": 17.89,
+      "longitude": -62.82
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.630Z",
+    "cases": {
+      "confirmed": {
+        "total": 6,
+        "perOneMillion": 607
+      },
+      "active": {
+        "total": 5
+      }
+    },
+    "deaths": {
+      "total": 0,
+      "perOneMillion": null
+    },
+    "recovered": {
+      "total": 1
+    },
+    "hospitalization": {
+      "critical": 0
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

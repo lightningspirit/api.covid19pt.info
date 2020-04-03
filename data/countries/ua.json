@@ -1,0 +1,102 @@
+{
+  "title": "Ukraine",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ua/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ua/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ua",
+    "name": {
+      "en": "Ukraine",
+      "pt": "Ucrânia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ua.png",
+    "coordinates": {
+      "latitude": 49,
+      "longitude": 32
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 897,
+        "perOneMillion": 21,
+        "today": 103,
+        "doublingTime": 3.714726803304472,
+        "growth": 0.1297229219
+      }
+    },
+    "deaths": {
+      "total": 22,
+      "perOneMillion": 1,
+      "today": 2,
+      "doublingTime": 3.8182862753965217,
+      "growth": 0.1
+    },
+    "recovered": {
+      "total": 19,
+      "perOneMillion": 0,
+      "today": 6,
+      "doublingTime": 2.5744211270846207,
+      "growth": 0.4615384615
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:14.314Z",
+    "everyone": {
+      "females": 23202053,
+      "males": 20021660,
+      "total": 43213123
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4149000,
+        "males": 4401000,
+        "total": 8549000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 5712000,
+        "males": 5886000,
+        "total": 11592000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 6180000,
+        "males": 5450000,
+        "total": 11624000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4942000,
+        "males": 2986700,
+        "total": 7930000
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1159053,
+        "males": 429760,
+        "total": 1588123
+      }
+    ]
+  }
+}

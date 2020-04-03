@@ -1,0 +1,102 @@
+{
+  "title": "Cuba",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/cu/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/cu/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "cu",
+    "name": {
+      "en": "Cuba",
+      "pt": "Cuba"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cu.png",
+    "coordinates": {
+      "latitude": 21.5,
+      "longitude": -80
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 233,
+        "perOneMillion": 21,
+        "today": 21,
+        "doublingTime": 5.125374951700365,
+        "growth": 0.0990566038
+      }
+    },
+    "deaths": {
+      "total": 6,
+      "perOneMillion": 1,
+      "today": 0,
+      "doublingTime": 4.4965561057686045,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 13,
+      "perOneMillion": 1,
+      "today": 1,
+      "doublingTime": 2.5195888422693997,
+      "growth": 0.0833333333
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:59.908Z",
+    "everyone": {
+      "females": 5610890,
+      "males": 5651990,
+      "total": 11262880
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1092333,
+        "males": 1161617,
+        "total": 2253950
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1322408,
+        "males": 1406104,
+        "total": 2728512
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1760656,
+        "males": 1777766,
+        "total": 3538422
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 952648,
+        "males": 894262,
+        "total": 1846910
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 248782,
+        "males": 177480,
+        "total": 426262
+      }
+    ]
+  }
+}

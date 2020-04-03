@@ -1,0 +1,98 @@
+{
+  "title": "Zambia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/zm/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/zm/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "zm",
+    "name": {
+      "en": "Zambia",
+      "pt": "Zâmbia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/zm.png",
+    "coordinates": {
+      "latitude": -15,
+      "longitude": 30
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 39,
+        "perOneMillion": 2,
+        "today": 3,
+        "doublingTime": 10.118592802933664,
+        "growth": 0.0833333333
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 0,
+      "today": 1,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:15.414Z",
+    "everyone": {
+      "females": 9120362,
+      "males": 9075448,
+      "total": 18192524
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4898000,
+        "males": 4961000,
+        "total": 9856000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 2538200,
+        "males": 2517900,
+        "total": 5056000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 976300,
+        "males": 988100,
+        "total": 1964800
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 359500,
+        "males": 276170,
+        "total": 635500
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 38752,
+        "males": 26968,
+        "total": 65724
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Jordan",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/jo/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/jo/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "jo",
+    "name": {
+      "en": "Jordan",
+      "pt": "Jordânia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/jo.png",
+    "coordinates": {
+      "latitude": 31,
+      "longitude": 36
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 299,
+        "perOneMillion": 37,
+        "today": 21,
+        "doublingTime": 17.662532084906285,
+        "growth": 0.0755395683
+      }
+    },
+    "deaths": {
+      "total": 5,
+      "perOneMillion": 1,
+      "today": 0,
+      "doublingTime": 1.6216092786643213,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 45,
+      "perOneMillion": 6,
+      "today": 9,
+      "doublingTime": 3.6416690509572334,
+      "growth": 0.25
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:04.711Z",
+    "everyone": {
+      "females": 3896251,
+      "males": 4086916,
+      "total": 7983167
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1649911,
+        "males": 1720957,
+        "total": 3370868
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1187874,
+        "males": 1246546,
+        "total": 2434420
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 681868,
+        "males": 754973,
+        "total": 1436841
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 202521,
+        "males": 187987,
+        "total": 390508
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 23940,
+        "males": 19389,
+        "total": 43329
+      }
+    ]
+  }
+}

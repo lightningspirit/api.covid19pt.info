@@ -1,0 +1,98 @@
+{
+  "title": "Cabo Verde",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/cv/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/cv/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "cv",
+    "name": {
+      "en": "Cabo Verde",
+      "pt": "Cabo Verde"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cv.png",
+    "coordinates": {
+      "latitude": 16,
+      "longitude": -24
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 6,
+        "perOneMillion": 11,
+        "today": 0,
+        "doublingTime": 17.672987685129698,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 2,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:58.411Z",
+    "everyone": {
+      "females": 274198,
+      "males": 268197,
+      "total": 542395
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 96460,
+        "males": 99058,
+        "total": 195518
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 95497,
+        "males": 98813,
+        "total": 194310
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 49566,
+        "males": 45612,
+        "total": 95178
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 17889,
+        "males": 11721,
+        "total": 29610
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 3695,
+        "males": 2310,
+        "total": 6005
+      }
+    ]
+  }
+}

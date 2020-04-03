@@ -1,0 +1,51 @@
+{
+  "title": "Holy See (Vatican City State)",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/va/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/va/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "va",
+    "name": {
+      "en": "Holy See (Vatican City State)",
+      "pt": "Holy See (Vatican City State)"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/va.png",
+    "coordinates": {
+      "latitude": 41.9,
+      "longitude": 12.45
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.630Z",
+    "cases": {
+      "confirmed": {
+        "total": 7,
+        "perOneMillion": 8739
+      },
+      "active": {
+        "total": 7
+      }
+    },
+    "deaths": {
+      "total": 0,
+      "perOneMillion": null
+    },
+    "recovered": {
+      "total": 0
+    },
+    "hospitalization": {
+      "critical": 0
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

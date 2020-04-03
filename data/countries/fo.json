@@ -1,0 +1,51 @@
+{
+  "title": "Faroe Islands",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/fo/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/fo/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "fo",
+    "name": {
+      "en": "Faroe Islands",
+      "pt": "Faroe Islands"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fo.png",
+    "coordinates": {
+      "latitude": 62,
+      "longitude": -7
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.624Z",
+    "cases": {
+      "confirmed": {
+        "total": 179,
+        "perOneMillion": 3663
+      },
+      "active": {
+        "total": 88
+      }
+    },
+    "deaths": {
+      "total": 0,
+      "perOneMillion": null
+    },
+    "recovered": {
+      "total": 91
+    },
+    "hospitalization": {
+      "critical": 1
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

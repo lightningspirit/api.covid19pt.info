@@ -1,0 +1,61 @@
+{
+  "title": "Current Country Population",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/population/lt",
+      "title": "Current Country Population"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/population/",
+      "title": "Parent"
+    },
+    "country": {
+      "title": "Country info",
+      "templated": true,
+      "href": "https://api.covid19pt.info/v6/countries/lt/"
+    }
+  },
+  "date": "2020-04-02T20:52:27.211Z",
+  "everyone": {
+    "females": 1498070,
+    "males": 1270534,
+    "total": 2768604
+  },
+  "groups": [
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 262025,
+      "males": 275285,
+      "total": 537310
+    },
+    {
+      "type": "age-group",
+      "label": "20-39",
+      "females": 336299,
+      "males": 353423,
+      "total": 689722
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 398129,
+      "males": 353101,
+      "total": 751230
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 329900,
+      "males": 203060,
+      "total": 532960
+    },
+    {
+      "type": "age-group",
+      "label": "80+",
+      "females": 104123,
+      "males": 30776,
+      "total": 134899
+    }
+  ]
+}

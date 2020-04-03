@@ -1,0 +1,102 @@
+{
+  "title": "Tanzania, United Republic of",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/tz/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/tz/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "tz",
+    "name": {
+      "en": "Tanzania, United Republic of",
+      "pt": "Tanzânia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tz.png",
+    "coordinates": {
+      "latitude": -6,
+      "longitude": 35
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 20,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 8.799691591193142,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 2,
+      "perOneMillion": 0,
+      "today": 1,
+      "doublingTime": 3.8017840169239308,
+      "growth": 1
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:13.016Z",
+    "everyone": {
+      "females": 30209765,
+      "males": 29899422,
+      "total": 60112842
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 15996000,
+        "males": 16197000,
+        "total": 32192000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 8182000,
+        "males": 7879000,
+        "total": 16063000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3541000,
+        "males": 3540000,
+        "total": 7082000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1326400,
+        "males": 1161200,
+        "total": 2488300
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 137565,
+        "males": 116122,
+        "total": 253642
+      }
+    ]
+  }
+}

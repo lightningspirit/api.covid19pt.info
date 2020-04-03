@@ -1,0 +1,102 @@
+{
+  "title": "Lebanon",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/lb/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/lb/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "lb",
+    "name": {
+      "en": "Lebanon",
+      "pt": "Líbano"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lb.png",
+    "coordinates": {
+      "latitude": 33.8333,
+      "longitude": 35.8333
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 494,
+        "perOneMillion": 85,
+        "today": 15,
+        "doublingTime": 19.01283893925666,
+        "growth": 0.0313152401
+      }
+    },
+    "deaths": {
+      "total": 16,
+      "perOneMillion": 3,
+      "today": 2,
+      "doublingTime": 4.956814415509414,
+      "growth": 0.1428571429
+    },
+    "recovered": {
+      "total": 46,
+      "perOneMillion": 8,
+      "today": 3,
+      "doublingTime": 7.946184175789904,
+      "growth": 0.0697674419
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:05.512Z",
+    "everyone": {
+      "females": 2891224,
+      "males": 2917557,
+      "total": 5808781
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 825419,
+        "males": 831490,
+        "total": 1656909
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1022300,
+        "males": 935546,
+        "total": 1957846
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 557548,
+        "males": 670876,
+        "total": 1228424
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 299709,
+        "males": 309383,
+        "total": 609092
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 60706,
+        "males": 43221,
+        "total": 103927
+      }
+    ]
+  }
+}

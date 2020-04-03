@@ -1,0 +1,98 @@
+{
+  "title": "Syrian Arab Republic",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/sy/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/sy/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "sy",
+    "name": {
+      "en": "Syrian Arab Republic",
+      "pt": "Síria"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sy.png",
+    "coordinates": {
+      "latitude": 35,
+      "longitude": 38
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 16,
+        "perOneMillion": 1,
+        "today": 6,
+        "doublingTime": 2.624839580547739,
+        "growth": 0.6
+      }
+    },
+    "deaths": {
+      "total": 2,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": 3.8017840169239308,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:12.821Z",
+    "everyone": {
+      "females": 10265438,
+      "males": 10315601,
+      "total": 20579338
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4276000,
+        "males": 4477000,
+        "total": 8752000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 3081000,
+        "males": 3155000,
+        "total": 6234000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1741900,
+        "males": 1632200,
+        "total": 3376000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 658200,
+        "males": 581800,
+        "total": 1239300
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 77538,
+        "males": 43941,
+        "total": 121438
+      }
+    ]
+  }
+}

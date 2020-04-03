@@ -1,0 +1,61 @@
+{
+  "title": "Current Country Population",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/population/sd",
+      "title": "Current Country Population"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/population/",
+      "title": "Parent"
+    },
+    "country": {
+      "title": "Country info",
+      "templated": true,
+      "href": "https://api.covid19pt.info/v6/countries/sd/"
+    }
+  },
+  "date": "2020-04-02T20:52:33.610Z",
+  "everyone": {
+    "females": 21908942,
+    "males": 22076275,
+    "total": 43982304
+  },
+  "groups": [
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 10378000,
+      "males": 10705000,
+      "total": 21081000
+    },
+    {
+      "type": "age-group",
+      "label": "20-39",
+      "females": 6330000,
+      "males": 6401000,
+      "total": 12731000
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 3195000,
+      "males": 3095000,
+      "total": 6287000
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 1092700,
+      "males": 986300,
+      "total": 2080900
+    },
+    {
+      "type": "age-group",
+      "label": "80+",
+      "females": 100542,
+      "males": 78875,
+      "total": 179504
+    }
+  ]
+}

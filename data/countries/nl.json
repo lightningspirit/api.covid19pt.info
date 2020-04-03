@@ -1,0 +1,102 @@
+{
+  "title": "Netherlands",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/nl/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/nl/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "nl",
+    "name": {
+      "en": "Netherlands",
+      "pt": "Países Baixos"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/nl.png",
+    "coordinates": {
+      "latitude": 52.5,
+      "longitude": 5.75
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 14788,
+        "perOneMillion": 870,
+        "today": 1092,
+        "doublingTime": 8.454572154303234,
+        "growth": 0.0797313084
+      }
+    },
+    "deaths": {
+      "total": 1341,
+      "perOneMillion": 79,
+      "today": 166,
+      "doublingTime": 4.669561949593842,
+      "growth": 0.1412765957
+    },
+    "recovered": {
+      "total": 260,
+      "perOneMillion": 15,
+      "today": 0,
+      "doublingTime": 0.31174830391651653,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:13.415Z",
+    "everyone": {
+      "females": 8550850,
+      "males": 8451726,
+      "total": 17002576
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1716408,
+        "males": 1811260,
+        "total": 3527668
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1932874,
+        "males": 2000138,
+        "total": 3933012
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 2247879,
+        "males": 2260237,
+        "total": 4508116
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1821347,
+        "males": 1733719,
+        "total": 3555066
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 458972,
+        "males": 277876,
+        "total": 736848
+      }
+    ]
+  }
+}

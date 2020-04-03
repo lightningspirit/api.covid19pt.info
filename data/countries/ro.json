@@ -1,0 +1,41 @@
+{
+  "title": "Romania",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ro/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ro/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ro",
+    "name": {
+      "en": "Romania",
+      "pt": "Roménia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ro.png",
+    "coordinates": {
+      "latitude": 46,
+      "longitude": 25
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 2738
+      }
+    },
+    "deaths": {
+      "total": 115
+    },
+    "recovered": {
+      "total": 267
+    },
+    "events": []
+  }
+}

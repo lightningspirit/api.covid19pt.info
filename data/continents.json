@@ -1,0 +1,782 @@
+[
+  {
+    "iso2": "af",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "al",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "dz",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ao",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ag",
+    "continent": "North America"
+  },
+  {
+    "iso2": "eg",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ar",
+    "continent": "South America"
+  },
+  {
+    "iso2": "am",
+    "continent": "Asia"
+  },
+  {
+    "continent": "North America"
+  },
+  {
+    "iso2": "au",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "at",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "az",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "bh",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "bd",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "bb",
+    "continent": "North America"
+  },
+  {
+    "iso2": "by",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "be",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "bz",
+    "continent": "North America"
+  },
+  {
+    "iso2": "bj",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "bt",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "bo",
+    "continent": "South America"
+  },
+  {
+    "iso2": "ba",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "bw",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "br",
+    "continent": "South America"
+  },
+  {
+    "iso2": "bn",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "bg",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "bf",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "bi",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "cv",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "kh",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "cm",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ca",
+    "continent": "North America"
+  },
+  {
+    "iso2": "cf",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "td",
+    "continent": "Africa"
+  },
+  {
+    "continent": "Europe"
+  },
+  {
+    "iso2": "cl",
+    "continent": "South America"
+  },
+  {
+    "iso2": "cn",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "co",
+    "continent": "South America"
+  },
+  {
+    "iso2": "km",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "cg",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "cr",
+    "continent": "North America"
+  },
+  {
+    "iso2": "ci",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "hr",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "cu",
+    "continent": "North America"
+  },
+  {
+    "continent": "North America"
+  },
+  {
+    "iso2": "cy",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "cz",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "kp",
+    "continent": "Asia"
+  },
+  {
+    "continent": "Africa"
+  },
+  {
+    "iso2": "dk",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "dj",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "do",
+    "continent": "North America"
+  },
+  {
+    "iso2": "ec",
+    "continent": "South America"
+  },
+  {
+    "iso2": "sv",
+    "continent": "North America"
+  },
+  {
+    "iso2": "gq",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "er",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ee",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "et",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "fm",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "fj",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "fi",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "fr",
+    "continent": "Europe"
+  },
+  {
+    "continent": "South America"
+  },
+  {
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "mk",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "ga",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ge",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "de",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "gh",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "gr",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "gd",
+    "continent": "North America"
+  },
+  {
+    "continent": "North America"
+  },
+  {
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "gt",
+    "continent": "North America"
+  },
+  {
+    "iso2": "gn",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "gw",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "gy",
+    "continent": "South America"
+  },
+  {
+    "iso2": "ht",
+    "continent": "North America"
+  },
+  {
+    "iso2": "hn",
+    "continent": "North America"
+  },
+  {
+    "continent": "Asia"
+  },
+  {
+    "iso2": "hu",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "is",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "in",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "id",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "iq",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ie",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "ir",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "il",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "it",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "jm",
+    "continent": "North America"
+  },
+  {
+    "iso2": "jp",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "jo",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "kz",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ke",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ki",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "kw",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "kg",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "la",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "lv",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "lb",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ls",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "lr",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ly",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "lt",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "lu",
+    "continent": "Europe"
+  },
+  {
+    "continent": "Asia"
+  },
+  {
+    "iso2": "mg",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "mw",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "my",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "mv",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ml",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "mt",
+    "continent": "Europe"
+  },
+  {
+    "continent": "North America"
+  },
+  {
+    "iso2": "mr",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "mu",
+    "continent": "Africa"
+  },
+  {
+    "continent": "Africa"
+  },
+  {
+    "iso2": "mx",
+    "continent": "North America"
+  },
+  {
+    "iso2": "md",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "mn",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "me",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "ma",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "mz",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "mm",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "na",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "np",
+    "continent": "Asia"
+  },
+  {
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "nz",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "ni",
+    "continent": "North America"
+  },
+  {
+    "iso2": "ne",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ng",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "no",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "om",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "pk",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "pa",
+    "continent": "North America"
+  },
+  {
+    "iso2": "pg",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "py",
+    "continent": "South America"
+  },
+  {
+    "iso2": "pe",
+    "continent": "South America"
+  },
+  {
+    "iso2": "ph",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "pl",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "pt",
+    "continent": "Europe"
+  },
+  {
+    "continent": "North America"
+  },
+  {
+    "iso2": "qa",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ve",
+    "continent": "South America"
+  },
+  {
+    "iso2": "kr",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ye",
+    "continent": "Asia"
+  },
+  {
+    "continent": "Africa"
+  },
+  {
+    "continent": "Europe"
+  },
+  {
+    "iso2": "ru",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "rw",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ws",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "st",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "sa",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "sn",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "rs",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "sc",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "sl",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "sg",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "sk",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "si",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "sb",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "so",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "za",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ss",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "es",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "lk",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "lc",
+    "continent": "North America"
+  },
+  {
+    "iso2": "vc",
+    "continent": "North America"
+  },
+  {
+    "iso2": "sd",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "sr",
+    "continent": "South America"
+  },
+  {
+    "iso2": "sz",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "se",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "ch",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "sy",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "tj",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "tz",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "th",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "bs",
+    "continent": "North America"
+  },
+  {
+    "iso2": "gm",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "nl",
+    "continent": "Europe"
+  },
+  {
+    "continent": "Asia"
+  },
+  {
+    "iso2": "tg",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "to",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "tt",
+    "continent": "North America"
+  },
+  {
+    "iso2": "tn",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "tr",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "tm",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "ug",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "ua",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "ae",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "gb",
+    "continent": "Europe"
+  },
+  {
+    "iso2": "us",
+    "continent": "North America"
+  },
+  {
+    "iso2": "uy",
+    "continent": "South America"
+  },
+  {
+    "continent": "North America"
+  },
+  {
+    "iso2": "uz",
+    "continent": "Asia"
+  },
+  {
+    "iso2": "vu",
+    "continent": "Oceania"
+  },
+  {
+    "iso2": "vn",
+    "continent": "Asia"
+  },
+  {
+    "continent": "Africa"
+  },
+  {
+    "continent": "Africa"
+  },
+  {
+    "iso2": "zm",
+    "continent": "Africa"
+  },
+  {
+    "iso2": "zw",
+    "continent": "Africa"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "title": "Antigua and Barbuda",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ag/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ag/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ag",
+    "name": {
+      "en": "Antigua and Barbuda",
+      "pt": "Antígua e Barbuda"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ag.png",
+    "coordinates": {
+      "latitude": 17.05,
+      "longitude": -61.8
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 9,
+        "perOneMillion": 95,
+        "today": 2,
+        "doublingTime": 12.473439575402734,
+        "growth": 0.2857142857
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:56.018Z",
+    "everyone": {
+      "females": 49527,
+      "males": 45390,
+      "total": 94917
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 13993,
+        "males": 14076,
+        "total": 28069
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 14065,
+        "males": 13104,
+        "total": 27169
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 13343,
+        "males": 11386,
+        "total": 24729
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5189,
+        "males": 4459,
+        "total": 9648
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 932,
+        "males": 506,
+        "total": 1438
+      }
+    ]
+  }
+}

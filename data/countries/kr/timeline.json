@@ -1,0 +1,1826 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/kr/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/kr/"
+    }
+  },
+  "_embedded": [
+    {
+      "date": "2020-01-22T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-23T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-24T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 2,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 2.4094208396532095,
+          "growth": 1
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 2,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 3.10628371950539,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 2.6419267958111403,
+          "growth": 0.5
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-27T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 4,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 2.2189607985590603,
+          "growth": 0.3333333333
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-28T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 4,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 2.2189607985590603,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-29T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 4,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 4.4965561057686045,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-30T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 4,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 4.4965561057686045,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 11,
+          "perOneMillion": 0,
+          "today": 7,
+          "doublingTime": 1.990048402674534,
+          "growth": 1.75
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-01T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 12,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 2.211117678538643,
+          "growth": 0.0909090909
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-02T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 15,
+          "perOneMillion": 0,
+          "today": 3,
+          "doublingTime": 1.9839596649372,
+          "growth": 0.25
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-03T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 15,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 1.9839596649372,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-04T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 16,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 1.9322068222599962,
+          "growth": 0.0666666667
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "",
+            "en": "Local government officials are in charge of managing the people who are self-quarantine\nas 1:1 system."
+          },
+          "category": {
+            "id": 0
+          },
+          "source": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-05T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 19,
+          "perOneMillion": 0,
+          "today": 3,
+          "doublingTime": 6.164104338385859,
+          "growth": 0.1875
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-06T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 23,
+          "perOneMillion": 0,
+          "today": 4,
+          "doublingTime": 5.188124024387001,
+          "growth": 0.2105263158
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 24,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 7.160999166308228,
+          "growth": 0.0434782609
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 1,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": null,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 24,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 7.160999166308228,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 1,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": null,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-09T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 25,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 7.514139589806309,
+          "growth": 0.0416666667
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 3,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 2.0600427171061457,
+        "growth": 2
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-10T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 27,
+          "perOneMillion": 1,
+          "today": 2,
+          "doublingTime": 9.567838354100902,
+          "growth": 0.08
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 3,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 2.0600427171061457,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-11T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 28,
+          "perOneMillion": 1,
+          "today": 1,
+          "doublingTime": 17.48595090208011,
+          "growth": 0.037037037
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 3,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 2.0600427171061457,
+        "growth": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "",
+            "en": "Expands strict quarantine screening of 2019-nCoV to Hong Kong, Macao"
+          },
+          "category": {
+            "id": 0
+          },
+          "source": {
+            "name": "cdc.go.kr",
+            "url": "https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2020-02-12T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 28,
+          "perOneMillion": 1,
+          "today": 0,
+          "doublingTime": 22.182544515618346,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 7,
+        "perOneMillion": 0,
+        "today": 4,
+        "doublingTime": 1.3569154488673496,
+        "growth": 1.3333333333
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-13T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 28,
+          "perOneMillion": 1,
+          "today": 0,
+          "doublingTime": 22.182544515618346,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 7,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 1.3569154488673496,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-14T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 28,
+          "perOneMillion": 1,
+          "today": 0,
+          "doublingTime": 29.95753756350647,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 7,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 2.9322338659707428,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 28,
+          "perOneMillion": 1,
+          "today": 0,
+          "doublingTime": 93.92101676812233,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 9,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 2.47099328749447,
+        "growth": 0.2857142857
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-16T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 29,
+          "perOneMillion": 1,
+          "today": 1,
+          "doublingTime": 97.38676778677515,
+          "growth": 0.0357142857
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 9,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 2.47099328749447,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-17T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 30,
+          "perOneMillion": 1,
+          "today": 1,
+          "doublingTime": 49.71730432815331,
+          "growth": 0.0344827586
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 10,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": 9.075817018448653,
+        "growth": 0.1111111111
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-18T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 31,
+          "perOneMillion": 1,
+          "today": 1,
+          "doublingTime": 33.82093563860124,
+          "growth": 0.0333333333
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 12,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 6.147012716929482,
+        "growth": 0.2
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-19T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 31,
+          "perOneMillion": 1,
+          "today": 0,
+          "doublingTime": 33.82093563860124,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 12,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 6.147012716929482,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-20T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 104,
+          "perOneMillion": 2,
+          "today": 73,
+          "doublingTime": 1.7333062314212762,
+          "growth": 2.3548387097
+        }
+      },
+      "deaths": {
+        "total": 1,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": null,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 16,
+        "perOneMillion": 0,
+        "today": 4,
+        "doublingTime": 5.71743861888543,
+        "growth": 0.3333333333
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "",
+            "en": "South Korea reported its first coronavirus death"
+          },
+          "category": {
+            "id": 0
+          },
+          "source": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 204,
+          "perOneMillion": 4,
+          "today": 100,
+          "doublingTime": 1.3409429561609318,
+          "growth": 0.9615384615
+        }
+      },
+      "deaths": {
+        "total": 2,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": 3.8017840169239308,
+        "growth": 1
+      },
+      "recovered": {
+        "total": 16,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 5.71743861888543,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 433,
+          "perOneMillion": 9,
+          "today": 229,
+          "doublingTime": 1.0848569532010803,
+          "growth": 1.1225490196
+        }
+      },
+      "deaths": {
+        "total": 2,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 3.8017840169239308,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 16,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 6.838975060850937,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 602,
+          "perOneMillion": 12,
+          "today": 169,
+          "doublingTime": 1.0254834867889107,
+          "growth": 0.3903002309
+        }
+      },
+      "deaths": {
+        "total": 6,
+        "perOneMillion": 0,
+        "today": 4,
+        "doublingTime": 1.4747698473569486,
+        "growth": 2
+      },
+      "recovered": {
+        "total": 18,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 7.903113773330847,
+        "growth": 0.125
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "",
+            "en": "South Korea raises alert level to highest"
+          },
+          "category": {
+            "id": 0
+          },
+          "source": {
+            "name": "aljazeera.com",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-south-korea-raises-alert-level-highest-200223132023702.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2020-02-24T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 833,
+          "perOneMillion": 16,
+          "today": 231,
+          "doublingTime": 0.9704975788613296,
+          "growth": 0.3837209302
+        }
+      },
+      "deaths": {
+        "total": 8,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 1.3569154488673492,
+        "growth": 0.3333333333
+      },
+      "recovered": {
+        "total": 18,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 7.903113773330847,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-25T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 977,
+          "perOneMillion": 19,
+          "today": 144,
+          "doublingTime": 1.4627420119239736,
+          "growth": 0.1728691477
+        }
+      },
+      "deaths": {
+        "total": 10,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 1.2826927409548647,
+        "growth": 0.25
+      },
+      "recovered": {
+        "total": 22,
+        "perOneMillion": 0,
+        "today": 4,
+        "doublingTime": 10.324015164101064,
+        "growth": 0.2222222222
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-26T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 1261,
+          "perOneMillion": 25,
+          "today": 284,
+          "doublingTime": 1.792750211420502,
+          "growth": 0.2906857728
+        }
+      },
+      "deaths": {
+        "total": 12,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 1.5662687136667477,
+        "growth": 0.2
+      },
+      "recovered": {
+        "total": 22,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 10.324015164101064,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-27T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 1766,
+          "perOneMillion": 35,
+          "today": 505,
+          "doublingTime": 2.44599360380024,
+          "growth": 0.4004758128
+        }
+      },
+      "deaths": {
+        "total": 13,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": 1.5294627470796143,
+        "growth": 0.0833333333
+      },
+      "recovered": {
+        "total": 22,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 10.324015164101064,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-28T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 2337,
+          "perOneMillion": 46,
+          "today": 571,
+          "doublingTime": 2.5367661137870536,
+          "growth": 0.3233295583
+        }
+      },
+      "deaths": {
+        "total": 13,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 4.336270338919898,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 22,
+        "perOneMillion": 0,
+        "today": 0,
+        "doublingTime": 15.939873435035167,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 3150,
+          "perOneMillion": 62,
+          "today": 813,
+          "doublingTime": 2.58857718040976,
+          "growth": 0.3478818999
+        }
+      },
+      "deaths": {
+        "total": 16,
+        "perOneMillion": 0,
+        "today": 3,
+        "doublingTime": 4.874056533903627,
+        "growth": 0.2307692308
+      },
+      "recovered": {
+        "total": 27,
+        "perOneMillion": 1,
+        "today": 5,
+        "doublingTime": 8.051890600780363,
+        "growth": 0.2272727273
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 3736,
+          "perOneMillion": 74,
+          "today": 586,
+          "doublingTime": 2.5692713457349745,
+          "growth": 0.186031746
+        }
+      },
+      "deaths": {
+        "total": 17,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": 6.35088535816977,
+        "growth": 0.0625
+      },
+      "recovered": {
+        "total": 30,
+        "perOneMillion": 1,
+        "today": 3,
+        "doublingTime": 10.584816799509392,
+        "growth": 0.1111111111
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-02T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 4335,
+          "perOneMillion": 85,
+          "today": 599,
+          "doublingTime": 2.7761803823543176,
+          "growth": 0.1603319058
+        }
+      },
+      "deaths": {
+        "total": 28,
+        "perOneMillion": 1,
+        "today": 11,
+        "doublingTime": 3.721448422264753,
+        "growth": 0.6470588235
+      },
+      "recovered": {
+        "total": 30,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 10.584816799509392,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-03T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 5186,
+          "perOneMillion": 102,
+          "today": 851,
+          "doublingTime": 3.189108390736152,
+          "growth": 0.1963091119
+        }
+      },
+      "deaths": {
+        "total": 28,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 4.022291360202263,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 30,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 10.584816799509392,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-04T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 5621,
+          "perOneMillion": 111,
+          "today": 435,
+          "doublingTime": 3.892958737852595,
+          "growth": 0.0838796761
+        }
+      },
+      "deaths": {
+        "total": 35,
+        "perOneMillion": 1,
+        "today": 7,
+        "doublingTime": 3.2458282731202415,
+        "growth": 0.25
+      },
+      "recovered": {
+        "total": 41,
+        "perOneMillion": 1,
+        "today": 11,
+        "doublingTime": 5.254541458124108,
+        "growth": 0.3666666667
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-05T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 6088,
+          "perOneMillion": 120,
+          "today": 467,
+          "doublingTime": 5.222747338052829,
+          "growth": 0.0830813023
+        }
+      },
+      "deaths": {
+        "total": 35,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 3.948239537152037,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 41,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 7.5951686883829375,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 6593,
+          "perOneMillion": 130,
+          "today": 505,
+          "doublingTime": 6.053792253252181,
+          "growth": 0.0829500657
+        }
+      },
+      "deaths": {
+        "total": 42,
+        "perOneMillion": 1,
+        "today": 7,
+        "doublingTime": 3.494238715730216,
+        "growth": 0.2
+      },
+      "recovered": {
+        "total": 135,
+        "perOneMillion": 3,
+        "today": 94,
+        "doublingTime": 1.625239861679799,
+        "growth": 2.2926829268
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7041,
+          "perOneMillion": 139,
+          "today": 448,
+          "doublingTime": 7.081354768262017,
+          "growth": 0.067950857
+        }
+      },
+      "deaths": {
+        "total": 44,
+        "perOneMillion": 1,
+        "today": 2,
+        "doublingTime": 7.305730833896597,
+        "growth": 0.0476190476
+      },
+      "recovered": {
+        "total": 135,
+        "perOneMillion": 3,
+        "today": 0,
+        "doublingTime": 1.625239861679799,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7314,
+          "perOneMillion": 144,
+          "today": 273,
+          "doublingTime": 10.06047892729346,
+          "growth": 0.0387729016
+        }
+      },
+      "deaths": {
+        "total": 50,
+        "perOneMillion": 1,
+        "today": 6,
+        "doublingTime": 5.806289364623034,
+        "growth": 0.1363636364
+      },
+      "recovered": {
+        "total": 118,
+        "perOneMillion": 2,
+        "today": 17,
+        "doublingTime": 1.6909670709175426,
+        "growth": -0.1259259259
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-09T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7478,
+          "perOneMillion": 147,
+          "today": 164,
+          "doublingTime": 12.08443827184162,
+          "growth": 0.0224227509
+        }
+      },
+      "deaths": {
+        "total": 53,
+        "perOneMillion": 1,
+        "today": 3,
+        "doublingTime": 8.147676101647287,
+        "growth": 0.06
+      },
+      "recovered": {
+        "total": 118,
+        "perOneMillion": 2,
+        "today": 0,
+        "doublingTime": 1.925326801373493,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7513,
+          "perOneMillion": 148,
+          "today": 35,
+          "doublingTime": 16.331687072541207,
+          "growth": 0.0046803958
+        }
+      },
+      "deaths": {
+        "total": 54,
+        "perOneMillion": 1,
+        "today": 1,
+        "doublingTime": 7.8292671345938505,
+        "growth": 0.0188679245
+      },
+      "recovered": {
+        "total": 247,
+        "perOneMillion": 5,
+        "today": 129,
+        "doublingTime": 1.3808154738245066,
+        "growth": 1.093220339
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-11T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7755,
+          "perOneMillion": 153,
+          "today": 242,
+          "doublingTime": 21.217868273708614,
+          "growth": 0.0322108346
+        }
+      },
+      "deaths": {
+        "total": 60,
+        "perOneMillion": 1,
+        "today": 6,
+        "doublingTime": 9.610029820367723,
+        "growth": 0.1111111111
+      },
+      "recovered": {
+        "total": 288,
+        "perOneMillion": 6,
+        "today": 41,
+        "doublingTime": 3.3929105123209933,
+        "growth": 0.1659919028
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7869,
+          "perOneMillion": 155,
+          "today": 114,
+          "doublingTime": 31.073414756787052,
+          "growth": 0.0147001934
+        }
+      },
+      "deaths": {
+        "total": 66,
+        "perOneMillion": 1,
+        "today": 6,
+        "doublingTime": 8.470838951997298,
+        "growth": 0.1
+      },
+      "recovered": {
+        "total": 333,
+        "perOneMillion": 7,
+        "today": 45,
+        "doublingTime": 3.020914703081752,
+        "growth": 0.15625
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 7979,
+          "perOneMillion": 157,
+          "today": 110,
+          "doublingTime": 39.73202595382371,
+          "growth": 0.0139789046
+        }
+      },
+      "deaths": {
+        "total": 66,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 12.29499479297266,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 510,
+        "perOneMillion": 10,
+        "today": 177,
+        "doublingTime": 2.1076560826371593,
+        "growth": 0.5315315315
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8086,
+          "perOneMillion": 159,
+          "today": 107,
+          "doublingTime": 44.226557609470774,
+          "growth": 0.0134102018
+        }
+      },
+      "deaths": {
+        "total": 72,
+        "perOneMillion": 1,
+        "today": 6,
+        "doublingTime": 11.143430055390809,
+        "growth": 0.0909090909
+      },
+      "recovered": {
+        "total": 510,
+        "perOneMillion": 10,
+        "today": 0,
+        "doublingTime": 2.1076560826371593,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8162,
+          "perOneMillion": 161,
+          "today": 76,
+          "doublingTime": 41.752703693475446,
+          "growth": 0.0093989612
+        }
+      },
+      "deaths": {
+        "total": 75,
+        "perOneMillion": 1,
+        "today": 3,
+        "doublingTime": 10.426726738154011,
+        "growth": 0.0416666667
+      },
+      "recovered": {
+        "total": 510,
+        "perOneMillion": 10,
+        "today": 0,
+        "doublingTime": 4.39678691749134,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8236,
+          "perOneMillion": 162,
+          "today": 74,
+          "doublingTime": 57.57905471536734,
+          "growth": 0.0090664053
+        }
+      },
+      "deaths": {
+        "total": 75,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 15.245482952850063,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 1137,
+        "perOneMillion": 22,
+        "today": 627,
+        "doublingTime": 2.135571744112241,
+        "growth": 1.2294117647
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-17T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8320,
+          "perOneMillion": 164,
+          "today": 84,
+          "doublingTime": 62.174893043984525,
+          "growth": 0.0101991258
+        }
+      },
+      "deaths": {
+        "total": 81,
+        "perOneMillion": 2,
+        "today": 6,
+        "doublingTime": 16.64770176986859,
+        "growth": 0.08
+      },
+      "recovered": {
+        "total": 1407,
+        "perOneMillion": 28,
+        "today": 270,
+        "doublingTime": 2.0614342154113325,
+        "growth": 0.2374670185
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8413,
+          "perOneMillion": 166,
+          "today": 93,
+          "doublingTime": 65.42705231677907,
+          "growth": 0.0111778846
+        }
+      },
+      "deaths": {
+        "total": 84,
+        "perOneMillion": 2,
+        "today": 3,
+        "doublingTime": 14.228207875895393,
+        "growth": 0.037037037
+      },
+      "recovered": {
+        "total": 1540,
+        "perOneMillion": 30,
+        "today": 133,
+        "doublingTime": 2.550519863522883,
+        "growth": 0.0945273632
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-19T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8565,
+          "perOneMillion": 169,
+          "today": 152,
+          "doublingTime": 60.19319954313869,
+          "growth": 0.0180672768
+        }
+      },
+      "deaths": {
+        "total": 91,
+        "perOneMillion": 2,
+        "today": 7,
+        "doublingTime": 14.66287441547524,
+        "growth": 0.0833333333
+      },
+      "recovered": {
+        "total": 1540,
+        "perOneMillion": 30,
+        "today": 0,
+        "doublingTime": 2.550519863522883,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8652,
+          "perOneMillion": 170,
+          "today": 87,
+          "doublingTime": 59.41928814110004,
+          "growth": 0.0101576182
+        }
+      },
+      "deaths": {
+        "total": 94,
+        "perOneMillion": 2,
+        "today": 3,
+        "doublingTime": 15.196833864605624,
+        "growth": 0.032967033
+      },
+      "recovered": {
+        "total": 1540,
+        "perOneMillion": 30,
+        "today": 0,
+        "doublingTime": 2.550519863522883,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-21T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8799,
+          "perOneMillion": 173,
+          "today": 147,
+          "doublingTime": 52.38998382826371,
+          "growth": 0.0169902913
+        }
+      },
+      "deaths": {
+        "total": 102,
+        "perOneMillion": 2,
+        "today": 8,
+        "doublingTime": 11.226359676006622,
+        "growth": 0.085106383
+      },
+      "recovered": {
+        "total": 1540,
+        "perOneMillion": 30,
+        "today": 0,
+        "doublingTime": 10.782000678052796,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-22T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8961,
+          "perOneMillion": 176,
+          "today": 162,
+          "doublingTime": 46.67644860033203,
+          "growth": 0.0184111831
+        }
+      },
+      "deaths": {
+        "total": 111,
+        "perOneMillion": 2,
+        "today": 9,
+        "doublingTime": 10.951910522647548,
+        "growth": 0.0882352941
+      },
+      "recovered": {
+        "total": 2909,
+        "perOneMillion": 57,
+        "today": 1369,
+        "doublingTime": 3.8601285077890712,
+        "growth": 0.888961039
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-23T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 8961,
+          "perOneMillion": 176,
+          "today": 0,
+          "doublingTime": 54.81596203259958,
+          "growth": 0
+        }
+      },
+      "deaths": {
+        "total": 111,
+        "perOneMillion": 2,
+        "today": 0,
+        "doublingTime": 12.308903988224904,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 2909,
+        "perOneMillion": 57,
+        "today": 0,
+        "doublingTime": 4.235761935130086,
+        "growth": 0
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-24T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9037,
+          "perOneMillion": 178,
+          "today": 76,
+          "doublingTime": 64.47839851543274,
+          "growth": 0.0084811963
+        }
+      },
+      "deaths": {
+        "total": 120,
+        "perOneMillion": 2,
+        "today": 9,
+        "doublingTime": 12.402701958620296,
+        "growth": 0.0810810811
+      },
+      "recovered": {
+        "total": 3507,
+        "perOneMillion": 69,
+        "today": 598,
+        "doublingTime": 3.5015616216213625,
+        "growth": 0.205568924
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-25T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9137,
+          "perOneMillion": 180,
+          "today": 100,
+          "doublingTime": 63.41862233398667,
+          "growth": 0.0110656191
+        }
+      },
+      "deaths": {
+        "total": 126,
+        "perOneMillion": 2,
+        "today": 6,
+        "doublingTime": 11.72777487474439,
+        "growth": 0.05
+      },
+      "recovered": {
+        "total": 3730,
+        "perOneMillion": 73,
+        "today": 223,
+        "doublingTime": 3.3271094159313774,
+        "growth": 0.0635871115
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-26T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9241,
+          "perOneMillion": 182,
+          "today": 104,
+          "doublingTime": 70.58750439140115,
+          "growth": 0.0113822918
+        }
+      },
+      "deaths": {
+        "total": 131,
+        "perOneMillion": 3,
+        "today": 5,
+        "doublingTime": 13.724932323345284,
+        "growth": 0.0396825397
+      },
+      "recovered": {
+        "total": 4144,
+        "perOneMillion": 82,
+        "today": 414,
+        "doublingTime": 3.06436083541911,
+        "growth": 0.1109919571
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-27T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9332,
+          "perOneMillion": 184,
+          "today": 91,
+          "doublingTime": 85.33951160250406,
+          "growth": 0.0098474191
+        }
+      },
+      "deaths": {
+        "total": 139,
+        "perOneMillion": 3,
+        "today": 8,
+        "doublingTime": 15.29327705661354,
+        "growth": 0.0610687023
+      },
+      "recovered": {
+        "total": 4528,
+        "perOneMillion": 89,
+        "today": 384,
+        "doublingTime": 7.671404526957122,
+        "growth": 0.0926640927
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-28T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9478,
+          "perOneMillion": 187,
+          "today": 146,
+          "doublingTime": 61.77159869404175,
+          "growth": 0.0156450922
+        }
+      },
+      "deaths": {
+        "total": 144,
+        "perOneMillion": 3,
+        "today": 5,
+        "doublingTime": 13.284896808955558,
+        "growth": 0.035971223
+      },
+      "recovered": {
+        "total": 4811,
+        "perOneMillion": 95,
+        "today": 283,
+        "doublingTime": 6.8149339736620185,
+        "growth": 0.0625
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-29T00:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9583,
+          "perOneMillion": 189,
+          "today": 105,
+          "doublingTime": 59.068561403936684,
+          "growth": 0.0110782866
+        }
+      },
+      "deaths": {
+        "total": 152,
+        "perOneMillion": 3,
+        "today": 8,
+        "doublingTime": 14.6486292315428,
+        "growth": 0.0555555556
+      },
+      "recovered": {
+        "total": 5033,
+        "perOneMillion": 99,
+        "today": 222,
+        "doublingTime": 9.56253052905984,
+        "growth": 0.0461442528
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-29T23:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9661,
+          "perOneMillion": 190,
+          "today": 78,
+          "doublingTime": 62.13200941960986,
+          "growth": 0.0081394135
+        }
+      },
+      "deaths": {
+        "total": 158,
+        "perOneMillion": 3,
+        "today": 6,
+        "doublingTime": 15.298478291840363,
+        "growth": 0.0394736842
+      },
+      "recovered": {
+        "total": 5228,
+        "perOneMillion": 103,
+        "today": 195,
+        "doublingTime": 10.215291759151674,
+        "growth": 0.0387442877
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-30T23:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9786,
+          "perOneMillion": 193,
+          "today": 125,
+          "doublingTime": 60.46397221188395,
+          "growth": 0.0129386192
+        }
+      },
+      "deaths": {
+        "total": 162,
+        "perOneMillion": 3,
+        "today": 4,
+        "doublingTime": 16.286917354274962,
+        "growth": 0.0253164557
+      },
+      "recovered": {
+        "total": 5408,
+        "perOneMillion": 106,
+        "today": 180,
+        "doublingTime": 12.969917662040942,
+        "growth": 0.0344299923
+      },
+      "events": []
+    },
+    {
+      "date": "2020-03-31T23:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9887,
+          "perOneMillion": 195,
+          "today": 101,
+          "doublingTime": 59.97426233101978,
+          "growth": 0.0103208665
+        }
+      },
+      "deaths": {
+        "total": 165,
+        "perOneMillion": 3,
+        "today": 3,
+        "doublingTime": 20.16743413198731,
+        "growth": 0.0185185185
+      },
+      "recovered": {
+        "total": 5567,
+        "perOneMillion": 110,
+        "today": 159,
+        "doublingTime": 16.752409297142705,
+        "growth": 0.0294008876
+      },
+      "events": []
+    },
+    {
+      "date": "2020-04-01T23:00:00.000Z",
+      "cases": {
+        "confirmed": {
+          "total": 9976,
+          "perOneMillion": 196,
+          "today": 89,
+          "doublingTime": 67.66940089243865,
+          "growth": 0.0090017194
+        }
+      },
+      "deaths": {
+        "total": 169,
+        "perOneMillion": 3,
+        "today": 4,
+        "doublingTime": 21.593001778940874,
+        "growth": 0.0242424242
+      },
+      "recovered": {
+        "total": 5828,
+        "perOneMillion": 115,
+        "today": 261,
+        "doublingTime": 18.062585930069552,
+        "growth": 0.0468834202
+      },
+      "events": []
+    }
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/es/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/es/"
+    }
+  },
+  "_embedded": [
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-01-31T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha confirma primeiro caso",
+            "en": "Spain confirms the first case"
+          },
+          "category": {
+            "id": 18
+          },
+          "source": null
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-01T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Vôo de evacuação de espanhóis em Wuhan chega a Madrid",
+            "en": "Evacuation flight for Spanish in Wuhan arrives Madrid"
+          },
+          "category": {
+            "id": 18
+          },
+          "source": {
+            "name": "theguardian.com",
+            "url": "https://www.theguardian.com/world/2020/feb/01/coronavirus-flight-captain-we-were-a-lifeboat-for-people"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-02T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-03T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-04T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-05T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-06T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-07T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-08T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 3.8017840169239308,
+          "growth": 1
+        }
+      },
+      "date": "2020-02-09T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 3.8017840169239308,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-10T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 3.8017840169239308,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-11T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 3.8017840169239308,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-12T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 1,
+          "doublingTime": 2.6419267958111403,
+          "growth": 0.5
+        }
+      },
+      "date": "2020-02-13T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 7.272540897341713,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-14T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 7.272540897341713,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-15T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 7.272540897341713,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-16T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": 7.272540897341713,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-17T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-18T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-19T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-20T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-21T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-22T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-23T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-24T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 8,
+          "perOneMillion": 0,
+          "today": 5,
+          "doublingTime": 2.409420839611332,
+          "growth": 1.6666666667
+        }
+      },
+      "date": "2020-02-25T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 14,
+          "perOneMillion": 0,
+          "today": 6,
+          "doublingTime": 1.7579548125264963,
+          "growth": 0.75
+        }
+      },
+      "date": "2020-02-26T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 26,
+          "perOneMillion": 1,
+          "today": 12,
+          "doublingTime": 1.3762282580237046,
+          "growth": 0.8571428571
+        }
+      },
+      "date": "2020-02-27T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 45,
+          "perOneMillion": 1,
+          "today": 19,
+          "doublingTime": 1.178230043659768,
+          "growth": 0.7307692308
+        }
+      },
+      "date": "2020-02-28T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 59,
+          "perOneMillion": 1,
+          "today": 14,
+          "doublingTime": 1.113915063278953,
+          "growth": 0.3111111111
+        }
+      },
+      "date": "2020-02-29T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 84,
+          "perOneMillion": 2,
+          "today": 25,
+          "doublingTime": 1.4469006015846047,
+          "growth": 0.4237288136
+        }
+      },
+      "date": "2020-03-01T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 125,
+          "perOneMillion": 3,
+          "today": 41,
+          "doublingTime": 1.5538785172611191,
+          "growth": 0.4880952381
+        }
+      },
+      "date": "2020-03-02T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 169,
+          "perOneMillion": 4,
+          "today": 44,
+          "doublingTime": 1.827835163777815,
+          "growth": 0.352
+        }
+      },
+      "date": "2020-03-03T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 228,
+          "perOneMillion": 5,
+          "today": 59,
+          "doublingTime": 2.1290749769127513,
+          "growth": 0.349112426
+        }
+      },
+      "date": "2020-03-04T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 282,
+          "perOneMillion": 6,
+          "today": 54,
+          "doublingTime": 2.2020162312877987,
+          "growth": 0.2368421053
+        }
+      },
+      "date": "2020-03-05T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 365,
+          "perOneMillion": 8,
+          "today": 83,
+          "doublingTime": 2.3440401097483967,
+          "growth": 0.2943262411
+        }
+      },
+      "date": "2020-03-06T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 430,
+          "perOneMillion": 9,
+          "today": 65,
+          "doublingTime": 2.789571841194292,
+          "growth": 0.1780821918
+        }
+      },
+      "date": "2020-03-07T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 674,
+          "perOneMillion": 15,
+          "today": 244,
+          "doublingTime": 2.462037766345755,
+          "growth": 0.5674418605
+        }
+      },
+      "date": "2020-03-08T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1231,
+          "perOneMillion": 27,
+          "today": 557,
+          "doublingTime": 1.9742514723952178,
+          "growth": 0.8264094955
+        }
+      },
+      "date": "2020-03-09T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1695,
+          "perOneMillion": 37,
+          "today": 464,
+          "doublingTime": 1.8702182656209987,
+          "growth": 0.3769293258
+        }
+      },
+      "date": "2020-03-10T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Jogos de futebol em Espanha serão jogados à porta fechada",
+            "en": "Spain football games to be played at closed doors"
+          },
+          "category": {
+            "id": 15
+          },
+          "source": {
+            "name": "theguardian.com",
+            "url": "https://www.theguardian.com/football/2020/mar/10/barcelona-to-play-napoli-behind-closed-doors-amid-coronavirus-fears"
+          }
+        },
+        {
+          "title": {
+            "pt": "Espanha suspende todos os vôos de Itália",
+            "en": "Spain suspends all flights from Italy"
+          },
+          "category": {
+            "id": 12
+          },
+          "source": {
+            "name": "elpais.com",
+            "url": "https://elpais.com/economia/2020-03-10/espana-prohibe-los-vuelos-directos-desde-italia.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2140,
+          "perOneMillion": 47,
+          "today": 445,
+          "doublingTime": 1.892680396956969,
+          "growth": 0.2625368732
+        }
+      },
+      "date": "2020-03-11T00:00:00.000Z",
+      "deaths": {
+        "total": 48,
+        "perOneMillion": 1,
+        "today": 48,
+        "doublingTime": null,
+        "growth": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_41B_COVID-19_18.00.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha suspende todos os eventos desportivos",
+            "en": "Spain sports events suspended"
+          },
+          "category": {
+            "id": 15
+          },
+          "source": {
+            "name": "elpais.com",
+            "url": "https://elpais.com/deportes/2020-03-12/suspendida-la-liga-por-el-coronavirus.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2950,
+          "perOneMillion": 64,
+          "today": 810,
+          "doublingTime": 1.7608728228618877,
+          "growth": 0.3785046729
+        }
+      },
+      "date": "2020-03-12T00:00:00.000Z",
+      "deaths": {
+        "total": 84,
+        "perOneMillion": 2,
+        "today": 36,
+        "doublingTime": 4.959484454640391,
+        "growth": 0.75
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_42_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha encerra todos os portos a navios de cruzeiro e a todos os navios provenienetes de Itália",
+            "en": "Spain closed all ports to all cruise ships and all ships from Italy"
+          },
+          "category": {
+            "id": 13
+          },
+          "source": {
+            "name": "eldiario.es",
+            "url": "https://www.eldiario.es/sociedad/Ultima-hora-coronavirus-mundo-Espana_13_1000679924_40477.html"
+          }
+        },
+        {
+          "title": {
+            "pt": "Espanha encerra todas as escolas",
+            "en": "Spains closes all schools"
+          },
+          "category": {
+            "id": 11
+          },
+          "source": {
+            "name": "eldiario.es",
+            "url": "https://www.eldiario.es/sociedad/suspension-educativos-extiende-comunidades-autonomas_0_1005099938.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 4209,
+          "perOneMillion": 92,
+          "today": 1259,
+          "doublingTime": 1.8509693757675176,
+          "growth": 0.426779661
+        }
+      },
+      "date": "2020-03-13T00:00:00.000Z",
+      "deaths": {
+        "total": 120,
+        "perOneMillion": 3,
+        "today": 36,
+        "doublingTime": 3.2749817746040795,
+        "growth": 0.4285714286
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_43_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 5753,
+          "perOneMillion": 126,
+          "today": 1544,
+          "doublingTime": 2.241840166363121,
+          "growth": 0.366832977
+        }
+      },
+      "date": "2020-03-14T00:00:00.000Z",
+      "deaths": {
+        "total": 136,
+        "perOneMillion": 3,
+        "today": 16,
+        "doublingTime": 2.974885932817509,
+        "growth": 0.1333333333
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_44_COVID_1200.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha encerra bares e restauração em Madrid",
+            "en": "Spain closes bars/restaurantes in Madrid"
+          },
+          "category": {
+            "id": 17
+          },
+          "source": {
+            "name": "elpais.com",
+            "url": "https://elpais.com/espana/madrid/2020-03-13/madrid-clausura-las-terrazas-por-el-coronavirus-y-recomienda-cerrar-los-bares.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 7753,
+          "perOneMillion": 169,
+          "today": 2000,
+          "doublingTime": 2.273521613043701,
+          "growth": 0.3476447071
+        }
+      },
+      "date": "2020-03-15T00:00:00.000Z",
+      "deaths": {
+        "total": 288,
+        "perOneMillion": 6,
+        "today": 152,
+        "doublingTime": 1.7502495738198458,
+        "growth": 1.1176470588
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_45_COVID.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha proibi deslocações não essenciais",
+            "en": "Spains forbids non essential travelling"
+          },
+          "category": {
+            "id": 18
+          },
+          "source": {
+            "name": "elpais.com",
+            "url": "https://elpais.com/espana/2020-03-14/el-gobierno-prohibe-todos-los-viajes-que-no-sean-de-fuerza-mayor.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 9191,
+          "perOneMillion": 201,
+          "today": 1438,
+          "doublingTime": 2.3620527151053055,
+          "growth": 0.1854765897
+        }
+      },
+      "date": "2020-03-16T00:00:00.000Z",
+      "deaths": {
+        "total": 309,
+        "perOneMillion": 7,
+        "today": 21,
+        "doublingTime": 1.7081249686186262,
+        "growth": 0.0729166667
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_46_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha institui estado de emergencia",
+            "en": "Spain decrees state of emergency, placing the country in lockdown and ordering people to stay at home for the next two weeks unless they have to buy food or medicine or go to work or hospital."
+          },
+          "category": {
+            "id": 8
+          },
+          "source": {
+            "name": "nytimes.com",
+            "url": "https://www.nytimes.com/2020/03/14/world/europe/spain-coronavirus.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 11178,
+          "perOneMillion": 244,
+          "today": 1987,
+          "doublingTime": 2.5772707734935847,
+          "growth": 0.2161897508
+        }
+      },
+      "date": "2020-03-17T00:00:00.000Z",
+      "deaths": {
+        "total": 491,
+        "perOneMillion": 11,
+        "today": 182,
+        "doublingTime": 1.804598317373815,
+        "growth": 0.5889967638
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_47_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha encerra todas as fronteiras",
+            "en": "Spain closes all borders"
+          },
+          "category": {
+            "id": 6
+          },
+          "source": {
+            "name": "elpais.com",
+            "url": "https://elpais.com/espana/2020-03-16/espana-restablece-las-fronteras-y-prohibe-la-entrada-a-los-no-residentes-salvo-causa-de-fuerza-mayor.html"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 13716,
+          "perOneMillion": 300,
+          "today": 2538,
+          "doublingTime": 2.9130561308750775,
+          "growth": 0.2270531401
+        }
+      },
+      "date": "2020-03-18T00:00:00.000Z",
+      "deaths": {
+        "total": 598,
+        "perOneMillion": 13,
+        "today": 107,
+        "doublingTime": 1.9525942531873173,
+        "growth": 0.2179226069
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_48_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Total de testes ao COVID em Espanha atinge os 30 mil",
+            "en": "Spain total COVID tests performed reaches 30k (645 tests per 1 million habitants)"
+          },
+          "category": {
+            "id": 20
+          },
+          "source": {
+            "name": "ourworldindata.org",
+            "url": "https://ourworldindata.org/covid-testing"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 17147,
+          "perOneMillion": 374,
+          "today": 3431,
+          "doublingTime": 3.1596010333534728,
+          "growth": 0.2501458151
+        }
+      },
+      "date": "2020-03-19T00:00:00.000Z",
+      "deaths": {
+        "total": 767,
+        "perOneMillion": 17,
+        "today": 169,
+        "doublingTime": 1.8449212819158312,
+        "growth": 0.2826086957
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_49_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 19980,
+          "perOneMillion": 436,
+          "today": 2833,
+          "doublingTime": 3.655030276445261,
+          "growth": 0.1652184056
+        }
+      },
+      "date": "2020-03-20T00:00:00.000Z",
+      "deaths": {
+        "total": 1002,
+        "perOneMillion": 22,
+        "today": 235,
+        "doublingTime": 2.691229109007502,
+        "growth": 0.3063885267
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_50_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 24926,
+          "perOneMillion": 544,
+          "today": 4946,
+          "doublingTime": 3.4681755805971286,
+          "growth": 0.2475475475
+        }
+      },
+      "date": "2020-03-21T00:00:00.000Z",
+      "deaths": {
+        "total": 1326,
+        "perOneMillion": 29,
+        "today": 324,
+        "doublingTime": 2.3453456564792754,
+        "growth": 0.3233532934
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_51_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 28572,
+          "perOneMillion": 624,
+          "today": 3646,
+          "doublingTime": 3.680237881595849,
+          "growth": 0.146272968
+        }
+      },
+      "date": "2020-03-22T00:00:00.000Z",
+      "deaths": {
+        "total": 1720,
+        "perOneMillion": 38,
+        "today": 394,
+        "doublingTime": 2.760076360908201,
+        "growth": 0.2971342383
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_52_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Espanha inaugura hospital temporario COVID em Madrid",
+            "en": "Spain opens field hospital on Madrid Ifema centre, which took in its first patients over the weekend, could accommodate 5,500 people"
+          },
+          "category": {
+            "id": 9
+          },
+          "source": null
+        },
+        {
+          "title": {
+            "pt": "Espanha prolonga estado de emergencia até 11 Abril",
+            "en": "Spain extends state of emergency till 11 April"
+          },
+          "category": {
+            "id": 18
+          },
+          "source": {
+            "name": "euronews.com",
+            "url": "https://www.euronews.com/2020/03/22/covid-19-spain-extends-state-of-emergency-until-11-april"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 33089,
+          "perOneMillion": 723,
+          "today": 4517,
+          "doublingTime": 3.919346890703841,
+          "growth": 0.1580918382
+        }
+      },
+      "date": "2020-03-23T00:00:00.000Z",
+      "deaths": {
+        "total": 2182,
+        "perOneMillion": 48,
+        "today": 462,
+        "doublingTime": 2.6763709430359004,
+        "growth": 0.2686046512
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_53_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 39673,
+          "perOneMillion": 866,
+          "today": 6584,
+          "doublingTime": 4.119963368231897,
+          "growth": 0.1989785125
+        }
+      },
+      "date": "2020-03-24T00:00:00.000Z",
+      "deaths": {
+        "total": 2696,
+        "perOneMillion": 59,
+        "today": 514,
+        "doublingTime": 2.753872953181683,
+        "growth": 0.235563703
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_54_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 47610,
+          "perOneMillion": 1040,
+          "today": 7937,
+          "doublingTime": 3.981014838190007,
+          "growth": 0.2000604945
+        }
+      },
+      "date": "2020-03-25T00:00:00.000Z",
+      "deaths": {
+        "total": 3434,
+        "perOneMillion": 75,
+        "today": 738,
+        "doublingTime": 2.8107106441703564,
+        "growth": 0.2737388724
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_55_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 56188,
+          "perOneMillion": 1227,
+          "today": 8578,
+          "doublingTime": 4.259575119460363,
+          "growth": 0.1801722327
+        }
+      },
+      "date": "2020-03-26T00:00:00.000Z",
+      "deaths": {
+        "total": 4089,
+        "perOneMillion": 89,
+        "today": 655,
+        "doublingTime": 3.0715711689205754,
+        "growth": 0.1907396622
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_56_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 64059,
+          "perOneMillion": 1399,
+          "today": 7871,
+          "doublingTime": 4.287307076285615,
+          "growth": 0.1400832918
+        }
+      },
+      "date": "2020-03-27T00:00:00.000Z",
+      "deaths": {
+        "total": 4858,
+        "perOneMillion": 106,
+        "today": 769,
+        "doublingTime": 3.3307565554403467,
+        "growth": 0.1880655417
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_57_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 72248,
+          "perOneMillion": 1578,
+          "today": 8189,
+          "doublingTime": 4.428687663105581,
+          "growth": 0.1278352769
+        }
+      },
+      "date": "2020-03-28T00:00:00.000Z",
+      "deaths": {
+        "total": 5690,
+        "perOneMillion": 124,
+        "today": 832,
+        "doublingTime": 3.6069817348831257,
+        "growth": 0.1712638946
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_58_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 78797,
+          "perOneMillion": 1721,
+          "today": 6549,
+          "doublingTime": 5.029666251709408,
+          "growth": 0.0906461079
+        }
+      },
+      "date": "2020-03-29T00:00:00.000Z",
+      "deaths": {
+        "total": 6528,
+        "perOneMillion": 143,
+        "today": 838,
+        "doublingTime": 3.905262337751059,
+        "growth": 0.1472759227
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_59_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 85195,
+          "perOneMillion": 1861,
+          "today": 6398,
+          "doublingTime": 5.930325477834948,
+          "growth": 0.0811959846
+        }
+      },
+      "date": "2020-03-30T00:00:00.000Z",
+      "deaths": {
+        "total": 7340,
+        "perOneMillion": 160,
+        "today": 812,
+        "doublingTime": 4.555385266549763,
+        "growth": 0.1243872549
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_60_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 94417,
+          "perOneMillion": 2062,
+          "today": 9222,
+          "doublingTime": 6.664828502469482,
+          "growth": 0.1082457891
+        }
+      },
+      "date": "2020-03-31T00:00:00.000Z",
+      "deaths": {
+        "total": 8189,
+        "perOneMillion": 179,
+        "today": 849,
+        "doublingTime": 4.980187632227444,
+        "growth": 0.1156675749
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_61_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 102136,
+          "perOneMillion": 2231,
+          "today": 7719,
+          "doublingTime": 7.418766125212141,
+          "growth": 0.0817543451
+        }
+      },
+      "date": "2020-04-01T00:00:00.000Z",
+      "deaths": {
+        "total": 9053,
+        "perOneMillion": 198,
+        "today": 864,
+        "doublingTime": 5.558051739062574,
+        "growth": 0.105507388
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_62_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 110238,
+          "perOneMillion": 2408,
+          "today": 8102,
+          "doublingTime": 8.197511910813972,
+          "growth": 0.0793256051
+        }
+      },
+      "date": "2020-04-02T00:00:00.000Z",
+      "deaths": {
+        "total": 10003,
+        "perOneMillion": 218,
+        "today": 950,
+        "doublingTime": 6.137771126738721,
+        "growth": 0.1049375897
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_63_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 117710,
+          "perOneMillion": 2571,
+          "today": 7472,
+          "doublingTime": 8.627174612436823,
+          "growth": 0.0677806201
+        }
+      },
+      "date": "2020-04-03T00:00:00.000Z",
+      "deaths": {
+        "total": 10935,
+        "perOneMillion": 239,
+        "today": 932,
+        "doublingTime": 6.715295780570272,
+        "growth": 0.0931720484
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "mscbs.gob.es",
+            "url": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_64_COVID-19.pdf"
+          }
+        ]
+      },
+      "events": []
+    }
+  ]
+}

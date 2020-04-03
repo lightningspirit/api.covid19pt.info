@@ -1,0 +1,51 @@
+{
+  "title": "Turks and Caicos Islands",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/tc/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/tc/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "tc",
+    "name": {
+      "en": "Turks and Caicos Islands",
+      "pt": "Turks and Caicos Islands"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tc.png",
+    "coordinates": {
+      "latitude": 21.75,
+      "longitude": -71.5833
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.630Z",
+    "cases": {
+      "confirmed": {
+        "total": 5,
+        "perOneMillion": 129
+      },
+      "active": {
+        "total": 5
+      }
+    },
+    "deaths": {
+      "total": 0,
+      "perOneMillion": null
+    },
+    "recovered": {
+      "total": 0
+    },
+    "hospitalization": {
+      "critical": 0
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

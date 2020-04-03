@@ -1,0 +1,94 @@
+{
+  "title": "Central African Republic",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/cf/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/cf/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "cf",
+    "name": {
+      "en": "Central African Republic",
+      "pt": "República Centro-Africana"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cf.png",
+    "coordinates": {
+      "latitude": 7,
+      "longitude": 21
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 3,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": null,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:58.812Z",
+    "everyone": {
+      "females": 2665362,
+      "males": 2587990,
+      "total": 5253352
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1232536,
+        "males": 1220029,
+        "total": 2452565
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 822038,
+        "males": 799838,
+        "total": 1621876
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 347746,
+        "males": 343075,
+        "total": 690821
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 148738,
+        "males": 119846,
+        "total": 268584
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 14158,
+        "males": 9020,
+        "total": 23178
+      }
+    ]
+  }
+}

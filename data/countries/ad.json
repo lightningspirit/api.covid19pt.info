@@ -1,0 +1,41 @@
+{
+  "title": "Andorra",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ad/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ad/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ad",
+    "name": {
+      "en": "Andorra",
+      "pt": "Andorra"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ad.png",
+    "coordinates": {
+      "latitude": 42.5,
+      "longitude": 1.6
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 428
+      }
+    },
+    "deaths": {
+      "total": 15
+    },
+    "recovered": {
+      "total": 10
+    },
+    "events": []
+  }
+}

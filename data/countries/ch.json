@@ -1,0 +1,102 @@
+{
+  "title": "Switzerland",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ch/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ch/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ch",
+    "name": {
+      "en": "Switzerland",
+      "pt": "Suíça"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ch.png",
+    "coordinates": {
+      "latitude": 47,
+      "longitude": 8
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 18827,
+        "perOneMillion": 2199,
+        "today": 1059,
+        "doublingTime": 11.905702694008179,
+        "growth": 0.0596015308
+      }
+    },
+    "deaths": {
+      "total": 536,
+      "perOneMillion": 63,
+      "today": 48,
+      "doublingTime": 4.87145775787666,
+      "growth": 0.0983606557
+    },
+    "recovered": {
+      "total": 4013,
+      "perOneMillion": 469,
+      "today": 1046,
+      "doublingTime": 3.30805294655649,
+      "growth": 0.3525446579
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:12.712Z",
+    "everyone": {
+      "females": 4312890,
+      "males": 4247386,
+      "total": 8561980
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 795300,
+        "males": 834700,
+        "total": 1630300
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1060800,
+        "males": 1090300,
+        "total": 2152500
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1178200,
+        "males": 1195900,
+        "total": 2374000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 832700,
+        "males": 782700,
+        "total": 1615600
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 255290,
+        "males": 155386,
+        "total": 410780
+      }
+    ]
+  }
+}

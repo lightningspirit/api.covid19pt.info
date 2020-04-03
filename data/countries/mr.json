@@ -1,0 +1,102 @@
+{
+  "title": "Mauritania",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mr/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mr/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mr",
+    "name": {
+      "en": "Mauritania",
+      "pt": "Mauritânia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mr.png",
+    "coordinates": {
+      "latitude": 20,
+      "longitude": -12
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 6,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 17.672987685129698,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 2,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:06.908Z",
+    "everyone": {
+      "females": 2204788,
+      "males": 2235024,
+      "total": 4439812
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1042102,
+        "males": 1074731,
+        "total": 2116833
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 626102,
+        "males": 643432,
+        "total": 1269534
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 332083,
+        "males": 332606,
+        "total": 664689
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 115195,
+        "males": 97324,
+        "total": 212519
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 8049,
+        "males": 5182,
+        "total": 13231
+      }
+    ]
+  }
+}

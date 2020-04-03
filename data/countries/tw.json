@@ -1,0 +1,41 @@
+{
+  "title": "Taiwan",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/tw/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/tw/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "tw",
+    "name": {
+      "en": "Taiwan",
+      "pt": "Taiwan"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tw.png",
+    "coordinates": {
+      "latitude": 23.5,
+      "longitude": 121
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 339
+      }
+    },
+    "deaths": {
+      "total": 5
+    },
+    "recovered": {
+      "total": 45
+    },
+    "events": []
+  }
+}

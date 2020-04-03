@@ -1,0 +1,11 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/pf/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/pf/"
+    }
+  },
+  "_embedded": []
+}

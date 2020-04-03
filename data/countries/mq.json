@@ -1,0 +1,51 @@
+{
+  "title": "Martinique",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mq/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mq/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mq",
+    "name": {
+      "en": "Martinique",
+      "pt": "Martinique"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mq.png",
+    "coordinates": {
+      "latitude": 14.6667,
+      "longitude": -61
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.624Z",
+    "cases": {
+      "confirmed": {
+        "total": 143,
+        "perOneMillion": 381
+      },
+      "active": {
+        "total": 113
+      }
+    },
+    "deaths": {
+      "total": 3,
+      "perOneMillion": 8
+    },
+    "recovered": {
+      "total": 27
+    },
+    "hospitalization": {
+      "critical": 18
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

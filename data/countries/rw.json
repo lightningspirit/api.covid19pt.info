@@ -1,0 +1,94 @@
+{
+  "title": "Rwanda",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/rw/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/rw/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "rw",
+    "name": {
+      "en": "Rwanda",
+      "pt": "Ruanda"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/rw.png",
+    "coordinates": {
+      "latitude": -2,
+      "longitude": 30
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 84,
+        "perOneMillion": 7,
+        "today": 2,
+        "doublingTime": 10.082773425266902,
+        "growth": 0.0243902439
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:10.412Z",
+    "everyone": {
+      "females": 6571385,
+      "males": 6065931,
+      "total": 12638760
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3039000,
+        "males": 3040000,
+        "total": 6080000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 2010700,
+        "males": 1883300,
+        "total": 3894000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 913600,
+        "males": 691200,
+        "total": 1605500
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 335140,
+        "males": 215410,
+        "total": 550600
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 25405,
+        "males": 16261,
+        "total": 41660
+      }
+    ]
+  }
+}

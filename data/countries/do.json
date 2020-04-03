@@ -1,0 +1,102 @@
+{
+  "title": "Dominican Republic",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/do/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/do/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "do",
+    "name": {
+      "en": "Dominican Republic",
+      "pt": "República Dominicana"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/do.png",
+    "coordinates": {
+      "latitude": 19,
+      "longitude": -70.6667
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 1380,
+        "perOneMillion": 127,
+        "today": 96,
+        "doublingTime": 5.240761018887916,
+        "growth": 0.0747663551
+      }
+    },
+    "deaths": {
+      "total": 60,
+      "perOneMillion": 6,
+      "today": 3,
+      "doublingTime": 4.394067597767669,
+      "growth": 0.0526315789
+    },
+    "recovered": {
+      "total": 16,
+      "perOneMillion": 1,
+      "today": 7,
+      "doublingTime": 1.9295507247892842,
+      "growth": 0.7777777778
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:00.708Z",
+    "everyone": {
+      "females": 5481303,
+      "males": 5421145,
+      "total": 10902448
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1938318,
+        "males": 2004874,
+        "total": 3943192
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1627603,
+        "males": 1612782,
+        "total": 3240385
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1099414,
+        "males": 1052787,
+        "total": 2152201
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 494555,
+        "males": 454737,
+        "total": 949292
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 97785,
+        "males": 77493,
+        "total": 175278
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Kenya",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/ke/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/ke/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "ke",
+    "name": {
+      "en": "Kenya",
+      "pt": "Quênia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ke.png",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 38
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 110,
+        "perOneMillion": 2,
+        "today": 29,
+        "doublingTime": 3.206303563216856,
+        "growth": 0.3580246914
+      }
+    },
+    "deaths": {
+      "total": 3,
+      "perOneMillion": 0,
+      "today": 2,
+      "doublingTime": 2.0600427171061457,
+      "growth": 2
+    },
+    "recovered": {
+      "total": 4,
+      "perOneMillion": 0,
+      "today": 1,
+      "doublingTime": 1.80982037230525,
+      "growth": 0.3333333333
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:04.909Z",
+    "everyone": {
+      "females": 25356201,
+      "males": 25265244,
+      "total": 50621445
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 12455874,
+        "males": 12589031,
+        "total": 25044905
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 7547204,
+        "males": 7516253,
+        "total": 15063457
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3173941,
+        "males": 3206133,
+        "total": 6380074
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1159709,
+        "males": 977538,
+        "total": 2137247
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 105856,
+        "males": 76812,
+        "total": 182668
+      }
+    ]
+  }
+}

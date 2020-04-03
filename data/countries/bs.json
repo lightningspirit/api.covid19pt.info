@@ -1,0 +1,102 @@
+{
+  "title": "Bahamas",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/bs/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/bs/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "bs",
+    "name": {
+      "en": "Bahamas",
+      "pt": "Bahamas"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bs.png",
+    "coordinates": {
+      "latitude": 24.25,
+      "longitude": -76
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 24,
+        "perOneMillion": 59,
+        "today": 3,
+        "doublingTime": 3.7484517836599434,
+        "growth": 0.1428571429
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 2,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 1,
+      "perOneMillion": 2,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:13.211Z",
+    "everyone": {
+      "females": 206178,
+      "males": 197787,
+      "total": 403965
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 51411,
+        "males": 53931,
+        "total": 105342
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 62814,
+        "males": 62630,
+        "total": 125444
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 51569,
+        "males": 48537,
+        "total": 100106
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 27071,
+        "males": 22085,
+        "total": 49156
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 4551,
+        "males": 2338,
+        "total": 6889
+      }
+    ]
+  }
+}

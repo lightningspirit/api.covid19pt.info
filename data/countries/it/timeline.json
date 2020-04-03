@@ -1,0 +1,2733 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/it/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/it/"
+    }
+  },
+  "_embedded": [
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 3,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 3,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-01-31T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Vôos vindos da China suspensos",
+            "en": "Italy imposed a ban on flights from China"
+          },
+          "category": {
+            "id": 12
+          },
+          "source": {
+            "name": "forbes.com",
+            "url": "https://www.forbes.com/sites/davekeating/2020/03/12/italy-banned-flights-from-china-before-americait-didnt-work/#7ea9de00481b"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-01T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-02T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-03T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-04T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-05T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Em todos os aeroportos italianos instituidas inspecções sanitárias em todos os passageiros vindos fora de Itália",
+            "en": "Health screening procedures at all Italian airports of passengers coming from abroad"
+          },
+          "category": {
+            "id": 14
+          },
+          "source": {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/web/guest/media-communication/press-release/-/content-view/view/1212896"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-06T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-07T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-08T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-09T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-10T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-11T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-12T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-13T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-14T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-15T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-16T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-17T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-18T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-19T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-20T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        },
+        "active": {
+          "total": 3,
+          "perOneMillion": 0,
+          "today": 0,
+          "doublingTime": null,
+          "growth": 0
+        }
+      },
+      "date": "2020-02-21T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 17,
+          "perOneMillion": 0,
+          "today": 14,
+          "doublingTime": 1.051424765196293,
+          "growth": 4.6666666667
+        },
+        "active": {
+          "total": 17,
+          "perOneMillion": 0,
+          "today": 14,
+          "doublingTime": 1.051424765196293,
+          "growth": 4.6666666667
+        }
+      },
+      "date": "2020-02-22T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 79,
+          "perOneMillion": 1,
+          "today": 62,
+          "doublingTime": 0.7077569960309379,
+          "growth": 3.6470588235
+        },
+        "active": {
+          "total": 79,
+          "perOneMillion": 1,
+          "today": 62,
+          "doublingTime": 0.7077569960309379,
+          "growth": 3.6470588235
+        }
+      },
+      "date": "2020-02-23T00:00:00.000Z",
+      "deaths": {
+        "total": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Quarentena instituida em 11 municípios, na Lombardia e em Veneto",
+            "en": "Quarantine restrictions in 11 Municipalities, in Lombardy and Veneto"
+          },
+          "category": {
+            "id": 7
+          },
+          "source": {
+            "name": "milano.repubblica.it",
+            "url": "https://milano.repubblica.it/cronaca/2020/02/21/news/coronavirus_codogno_castiglione_d_adda_contagiati_misure_sicurezza-249154447/"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 236,
+          "perOneMillion": 4,
+          "today": 157,
+          "doublingTime": 0.6197198760252306,
+          "growth": 1.9873417722
+        },
+        "active": {
+          "total": 229,
+          "perOneMillion": 4,
+          "today": 150,
+          "doublingTime": 0.6229545916936855,
+          "growth": 1.8987341772
+        }
+      },
+      "date": "2020-02-24T00:00:00.000Z",
+      "deaths": {
+        "total": 7,
+        "perOneMillion": 0,
+        "today": 7,
+        "doublingTime": null,
+        "growth": 0
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 101,
+        "critical": 27
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 332,
+          "perOneMillion": 6,
+          "today": 96,
+          "doublingTime": 0.6055154792680887,
+          "growth": 0.406779661
+        },
+        "active": {
+          "total": 322,
+          "perOneMillion": 5,
+          "today": 93,
+          "doublingTime": 0.608545438815708,
+          "growth": 0.4061135371
+        }
+      },
+      "date": "2020-02-25T00:00:00.000Z",
+      "deaths": {
+        "total": 10,
+        "perOneMillion": 0,
+        "today": 3,
+        "doublingTime": 8.42854097280139,
+        "growth": 0.4285714286
+      },
+      "recovered": {
+        "total": 0
+      },
+      "hospitalization": {
+        "total": 114,
+        "critical": 35
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 412,
+          "perOneMillion": 7,
+          "today": 80,
+          "doublingTime": 0.5975683080125639,
+          "growth": 0.2409638554
+        },
+        "active": {
+          "total": 399,
+          "perOneMillion": 7,
+          "today": 77,
+          "doublingTime": 0.6005342825377423,
+          "growth": 0.2391304348
+        }
+      },
+      "date": "2020-02-26T00:00:00.000Z",
+      "deaths": {
+        "total": 12,
+        "perOneMillion": 0,
+        "today": 2,
+        "doublingTime": 5.8534058648231335,
+        "growth": 0.2
+      },
+      "recovered": {
+        "total": 1,
+        "perOneMillion": 0,
+        "today": 1,
+        "doublingTime": null,
+        "growth": 0
+      },
+      "hospitalization": {
+        "total": 128,
+        "critical": 36
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 712,
+          "perOneMillion": 12,
+          "today": 300,
+          "doublingTime": 0.7909689555909377,
+          "growth": 0.7281553398
+        },
+        "active": {
+          "total": 650,
+          "perOneMillion": 11,
+          "today": 251,
+          "doublingTime": 0.8056437475574382,
+          "growth": 0.6290726817
+        }
+      },
+      "date": "2020-02-27T00:00:00.000Z",
+      "deaths": {
+        "total": 17,
+        "perOneMillion": 0,
+        "today": 5,
+        "doublingTime": 3.6513532099495345,
+        "growth": 0.4166666667
+      },
+      "recovered": {
+        "total": 45,
+        "perOneMillion": 1,
+        "today": 44,
+        "doublingTime": 0.3036945890004702,
+        "growth": 44
+      },
+      "hospitalization": {
+        "total": 248,
+        "critical": 56
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 888,
+          "perOneMillion": 15,
+          "today": 176,
+          "doublingTime": 1.2752540689346588,
+          "growth": 0.2471910112
+        },
+        "active": {
+          "total": 821,
+          "perOneMillion": 14,
+          "today": 171,
+          "doublingTime": 1.325112603120691,
+          "growth": 0.2630769231
+        }
+      },
+      "date": "2020-02-28T00:00:00.000Z",
+      "deaths": {
+        "total": 21,
+        "perOneMillion": 0,
+        "today": 4,
+        "doublingTime": 3.039895064289994,
+        "growth": 0.2352941176
+      },
+      "recovered": {
+        "total": 46,
+        "perOneMillion": 1,
+        "today": 1,
+        "doublingTime": 0.3036342698349413,
+        "growth": 0.0222222222
+      },
+      "hospitalization": {
+        "total": 345,
+        "critical": 64
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1128,
+          "perOneMillion": 19,
+          "today": 240,
+          "doublingTime": 2.158525130088151,
+          "growth": 0.2702702703
+        },
+        "active": {
+          "total": 1049,
+          "perOneMillion": 18,
+          "today": 228,
+          "doublingTime": 2.2381002416066442,
+          "growth": 0.2777101096
+        }
+      },
+      "date": "2020-02-29T00:00:00.000Z",
+      "deaths": {
+        "total": 29,
+        "perOneMillion": 0,
+        "today": 8,
+        "doublingTime": 2.415951227505873,
+        "growth": 0.380952381
+      },
+      "recovered": {
+        "total": 50,
+        "perOneMillion": 1,
+        "today": 4,
+        "doublingTime": 0.30339873054859984,
+        "growth": 0.0869565217
+      },
+      "hospitalization": {
+        "total": 401,
+        "critical": 105
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 1694,
+          "perOneMillion": 29,
+          "today": 566,
+          "doublingTime": 2.070288367995988,
+          "growth": 0.5017730496
+        },
+        "active": {
+          "total": 1577,
+          "perOneMillion": 27,
+          "today": 528,
+          "doublingTime": 2.1402125926286217,
+          "growth": 0.503336511
+        }
+      },
+      "date": "2020-03-01T00:00:00.000Z",
+      "deaths": {
+        "total": 34,
+        "perOneMillion": 1,
+        "today": 5,
+        "doublingTime": 2.7984229911423077,
+        "growth": 0.1724137931
+      },
+      "recovered": {
+        "total": 83,
+        "perOneMillion": 1,
+        "today": 33,
+        "doublingTime": 0.3016361425281959,
+        "growth": 0.66
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Território italiano dividido em 3 zonas-niveis de restrições: vermelho toda a pop. em quarentena - Lombardia, amarelo eventos sociais e desportivos cancelados, e restante territorio com medidas de prevenção e sanitização nos transportes públicos",
+            "en": "Italian national territory was divided into three areas: A red zone where the whole population is in quarantine , a yellow zone (composed of the regions of Lombardy, Veneto and Emilia-Romagna), where social and sport events are suspended and schools, theatres, clubs and cinemas are closed. The rest of the national territory, where safety and prevention measures are advertised in public places and special sanitisations are performed on means of public transport."
+          },
+          "category": {
+            "id": 7
+          },
+          "source": {
+            "name": "repubblica.it",
+            "url": "https://www.repubblica.it/politica/2020/03/01/news/coronavirus_misure_governo-249980561/"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2209,
+          "perOneMillion": 37,
+          "today": 515,
+          "doublingTime": 2.01620052534789,
+          "growth": 0.3040141677
+        },
+        "active": {
+          "total": 2036,
+          "perOneMillion": 34,
+          "today": 459,
+          "doublingTime": 2.0918708895974785,
+          "growth": 0.2910589727
+        }
+      },
+      "date": "2020-03-02T00:00:00.000Z",
+      "deaths": {
+        "total": 52,
+        "perOneMillion": 1,
+        "today": 18,
+        "doublingTime": 2.3272381618738063,
+        "growth": 0.5294117647
+      },
+      "recovered": {
+        "total": 121,
+        "perOneMillion": 2,
+        "today": 38,
+        "doublingTime": 0.30043893560807855,
+        "growth": 0.4578313253
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 2502,
+          "perOneMillion": 42,
+          "today": 293,
+          "doublingTime": 2.7123249409978194,
+          "growth": 0.1326392033
+        },
+        "active": {
+          "total": 2263,
+          "perOneMillion": 38,
+          "today": 227,
+          "doublingTime": 2.7275655517205637,
+          "growth": 0.1114931238
+        }
+      },
+      "date": "2020-03-03T00:00:00.000Z",
+      "deaths": {
+        "total": 79,
+        "perOneMillion": 1,
+        "today": 27,
+        "doublingTime": 2.2148432056957192,
+        "growth": 0.5192307692
+      },
+      "recovered": {
+        "total": 160,
+        "perOneMillion": 3,
+        "today": 39,
+        "doublingTime": 2.567935139414865,
+        "growth": 0.3223140496
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Todos os eventos desportivos em Itália a realizar à porta fechada",
+            "en": "All italian sporting events to be played at closed doors"
+          },
+          "category": {
+            "id": 18
+          },
+          "source": {
+            "name": "football-italia.net",
+            "url": "https://www.football-italia.net/150823/official-behind-closed-doors-until-april-3"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3089,
+          "perOneMillion": 52,
+          "today": 587,
+          "doublingTime": 2.7331836938961214,
+          "growth": 0.2346123102
+        },
+        "active": {
+          "total": 2706,
+          "perOneMillion": 46,
+          "today": 443,
+          "doublingTime": 2.845089252158303,
+          "growth": 0.1957578436
+        }
+      },
+      "date": "2020-03-04T00:00:00.000Z",
+      "deaths": {
+        "total": 107,
+        "perOneMillion": 2,
+        "today": 28,
+        "doublingTime": 2.098984309369605,
+        "growth": 0.3544303797
+      },
+      "recovered": {
+        "total": 276,
+        "perOneMillion": 5,
+        "today": 116,
+        "doublingTime": 1.864033305668466,
+        "growth": 0.725
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 3858,
+          "perOneMillion": 65,
+          "today": 769,
+          "doublingTime": 2.769380690777455,
+          "growth": 0.2489478796
+        },
+        "active": {
+          "total": 3296,
+          "perOneMillion": 56,
+          "today": 590,
+          "doublingTime": 2.9592495085774964,
+          "growth": 0.2180339985
+        }
+      },
+      "date": "2020-03-05T00:00:00.000Z",
+      "deaths": {
+        "total": 148,
+        "perOneMillion": 2,
+        "today": 41,
+        "doublingTime": 2.0969534352544077,
+        "growth": 0.3831775701
+      },
+      "recovered": {
+        "total": 414,
+        "perOneMillion": 7,
+        "today": 138,
+        "doublingTime": 1.62236249146415,
+        "growth": 0.5
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Itália encerra todas as escolas e universidades",
+            "en": "Italy closes schools and Universities"
+          },
+          "category": {
+            "id": 11
+          },
+          "source": {
+            "name": "bbc.com",
+            "url": "https://www.bbc.com/news/world-europe-51743697?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0d2wt/italy&link_location=live-reporting-story"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 4636,
+          "perOneMillion": 78,
+          "today": 778,
+          "doublingTime": 3.42413111062987,
+          "growth": 0.2016588906
+        },
+        "active": {
+          "total": 3916,
+          "perOneMillion": 66,
+          "today": 620,
+          "doublingTime": 3.7863845344256206,
+          "growth": 0.1881067961
+        }
+      },
+      "date": "2020-03-06T00:00:00.000Z",
+      "deaths": {
+        "total": 197,
+        "perOneMillion": 3,
+        "today": 49,
+        "doublingTime": 1.9630616523615214,
+        "growth": 0.3310810811
+      },
+      "recovered": {
+        "total": 523,
+        "perOneMillion": 9,
+        "today": 109,
+        "doublingTime": 1.8528271381929384,
+        "growth": 0.2632850242
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 5883,
+          "perOneMillion": 99,
+          "today": 1247,
+          "doublingTime": 3.524037970260599,
+          "growth": 0.2689818809
+        },
+        "active": {
+          "total": 5061,
+          "perOneMillion": 85,
+          "today": 1145,
+          "doublingTime": 3.7818049375825007,
+          "growth": 0.2923901941
+        }
+      },
+      "date": "2020-03-07T00:00:00.000Z",
+      "deaths": {
+        "total": 233,
+        "perOneMillion": 4,
+        "today": 36,
+        "doublingTime": 2.286401124715024,
+        "growth": 0.1827411168
+      },
+      "recovered": {
+        "total": 589,
+        "perOneMillion": 10,
+        "today": 66,
+        "doublingTime": 2.1171146841365625,
+        "growth": 0.1261950287
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Itália ordena quarentena em toda a Lombardia e outras 14 provincias em Piemonte, Veneto, Emilia-Romagna e Marche",
+            "en": "Italy orders all Lombardi and fourteen provinces in Piedmont, Veneto, Emilia-Romagna, and Marche under forced quarantine"
+          },
+          "category": {
+            "id": 7
+          },
+          "source": {
+            "name": "bbc.com",
+            "url": "https://www.bbc.com/news/world-middle-east-51787238?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0d2wt/italy&link_location=live-reporting-story"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 7375,
+          "perOneMillion": 125,
+          "today": 1492,
+          "doublingTime": 3.2035159803999527,
+          "growth": 0.2536121027
+        },
+        "active": {
+          "total": 6387,
+          "perOneMillion": 108,
+          "today": 1326,
+          "doublingTime": 3.331848903342693,
+          "growth": 0.2620035566
+        }
+      },
+      "date": "2020-03-08T00:00:00.000Z",
+      "deaths": {
+        "total": 366,
+        "perOneMillion": 6,
+        "today": 133,
+        "doublingTime": 2.230556585461032,
+        "growth": 0.5708154506
+      },
+      "recovered": {
+        "total": 622,
+        "perOneMillion": 11,
+        "today": 33,
+        "doublingTime": 2.4046070065077214,
+        "growth": 0.0560271647
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 9172,
+          "perOneMillion": 155,
+          "today": 1797,
+          "doublingTime": 3.1820946676581947,
+          "growth": 0.2436610169
+        },
+        "active": {
+          "total": 7985,
+          "perOneMillion": 135,
+          "today": 1598,
+          "doublingTime": 3.196575163125687,
+          "growth": 0.25019571
+        }
+      },
+      "date": "2020-03-09T00:00:00.000Z",
+      "deaths": {
+        "total": 463,
+        "perOneMillion": 8,
+        "today": 97,
+        "doublingTime": 2.3294405174089037,
+        "growth": 0.2650273224
+      },
+      "recovered": {
+        "total": 724,
+        "perOneMillion": 12,
+        "today": 102,
+        "doublingTime": 3.458712977169889,
+        "growth": 0.1639871383
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Todo o desporto suspenso em Itália",
+            "en": "All sport in Italy suspended because of outbreak"
+          },
+          "category": {
+            "id": 15
+          },
+          "source": {
+            "name": "bbc.com",
+            "url": "https://www.bbc.com/sport/51808683?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0d2wt/italy&link_location=live-reporting-story"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 10149,
+          "perOneMillion": 171,
+          "today": 977,
+          "doublingTime": 3.560976718640169,
+          "growth": 0.106519843
+        },
+        "active": {
+          "total": 8514,
+          "perOneMillion": 144,
+          "today": 529,
+          "doublingTime": 3.608302490125997,
+          "growth": 0.0662492173
+        }
+      },
+      "date": "2020-03-10T00:00:00.000Z",
+      "deaths": {
+        "total": 631,
+        "perOneMillion": 11,
+        "today": 168,
+        "doublingTime": 2.353353623903391,
+        "growth": 0.3628509719
+      },
+      "recovered": {
+        "total": 1004,
+        "perOneMillion": 17,
+        "today": 280,
+        "doublingTime": 3.814919117671262,
+        "growth": 0.3867403315
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "British Airways, easyJet e Ryanair cancelam todos os vôos de e para Itália",
+            "en": "British Airways, easyJet and Ryanair cancelled all flights to and from Italy"
+          },
+          "category": {
+            "id": 12
+          },
+          "source": null
+        },
+        {
+          "title": {
+            "pt": "Itália coloca todo o pais em isolamento social",
+            "en": "Italy puts the entire country under social isolation"
+          },
+          "category": {
+            "id": 8
+          },
+          "source": {
+            "name": "bbc.com",
+            "url": "https://www.bbc.com/news/in-pictures-51815536"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 12462,
+          "perOneMillion": 210,
+          "today": 2313,
+          "doublingTime": 3.483813838144636,
+          "growth": 0.227904227
+        },
+        "active": {
+          "total": 10590,
+          "perOneMillion": 179,
+          "today": 2076,
+          "doublingTime": 3.444153525401651,
+          "growth": 0.2438336857
+        }
+      },
+      "date": "2020-03-11T00:00:00.000Z",
+      "deaths": {
+        "total": 827,
+        "perOneMillion": 14,
+        "today": 196,
+        "doublingTime": 2.3780038769987177,
+        "growth": 0.3106180666
+      },
+      "recovered": {
+        "total": 1045,
+        "perOneMillion": 18,
+        "today": 41,
+        "doublingTime": 4.817196529021045,
+        "growth": 0.0408366534
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 15113,
+          "perOneMillion": 255,
+          "today": 2651,
+          "doublingTime": 3.6539458742359323,
+          "growth": 0.2127266891
+        },
+        "active": {
+          "total": 12839,
+          "perOneMillion": 217,
+          "today": 2249,
+          "doublingTime": 3.6853783430773563,
+          "growth": 0.2123701605
+        }
+      },
+      "date": "2020-03-12T00:00:00.000Z",
+      "deaths": {
+        "total": 1016,
+        "perOneMillion": 17,
+        "today": 189,
+        "doublingTime": 2.3236363705650036,
+        "growth": 0.2285368803
+      },
+      "recovered": {
+        "total": 1258,
+        "perOneMillion": 21,
+        "today": 213,
+        "doublingTime": 4.408035189666489,
+        "growth": 0.2038277512
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Itália encerra todo o comércio não essencial",
+            "en": "Italy closes all non-essential commerce"
+          },
+          "category": {
+            "id": 17
+          },
+          "source": {
+            "name": "wsj.com",
+            "url": "https://www.wsj.com/articles/italy-hardens-nationwide-quarantine-11583962093"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 17660,
+          "perOneMillion": 298,
+          "today": 2547,
+          "doublingTime": 3.949057267863675,
+          "growth": 0.1685304043
+        },
+        "active": {
+          "total": 14955,
+          "perOneMillion": 252,
+          "today": 2116,
+          "doublingTime": 4.033598591173564,
+          "growth": 0.1648103435
+        }
+      },
+      "date": "2020-03-13T00:00:00.000Z",
+      "deaths": {
+        "total": 1266,
+        "perOneMillion": 21,
+        "today": 250,
+        "doublingTime": 2.784794212474468,
+        "growth": 0.2460629921
+      },
+      "recovered": {
+        "total": 1439,
+        "perOneMillion": 24,
+        "today": 181,
+        "doublingTime": 4.026449280967228,
+        "growth": 0.1438791733
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 21157,
+          "perOneMillion": 357,
+          "today": 3497,
+          "doublingTime": 4.129965245660981,
+          "growth": 0.19801812
+        },
+        "active": {
+          "total": 17750,
+          "perOneMillion": 300,
+          "today": 2795,
+          "doublingTime": 4.301929469407514,
+          "growth": 0.1868940154
+        }
+      },
+      "date": "2020-03-14T00:00:00.000Z",
+      "deaths": {
+        "total": 1441,
+        "perOneMillion": 24,
+        "today": 175,
+        "doublingTime": 3.027707211067734,
+        "growth": 0.1382306477
+      },
+      "recovered": {
+        "total": 1966,
+        "perOneMillion": 33,
+        "today": 527,
+        "doublingTime": 3.370800639673639,
+        "growth": 0.3662265462
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 24747,
+          "perOneMillion": 418,
+          "today": 3590,
+          "doublingTime": 3.8840919316030953,
+          "growth": 0.1696837926
+        },
+        "active": {
+          "total": 20603,
+          "perOneMillion": 348,
+          "today": 2853,
+          "doublingTime": 3.914288206080777,
+          "growth": 0.1607323944
+        }
+      },
+      "date": "2020-03-15T00:00:00.000Z",
+      "deaths": {
+        "total": 1809,
+        "perOneMillion": 31,
+        "today": 368,
+        "doublingTime": 3.2743423690084508,
+        "growth": 0.2553782096
+      },
+      "recovered": {
+        "total": 2335,
+        "perOneMillion": 39,
+        "today": 369,
+        "doublingTime": 4.013929900069068,
+        "growth": 0.1876907426
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 27980,
+          "perOneMillion": 472,
+          "today": 3233,
+          "doublingTime": 4.277339526082681,
+          "growth": 0.130642098
+        },
+        "active": {
+          "total": 23073,
+          "perOneMillion": 390,
+          "today": 2470,
+          "doublingTime": 4.440517126736832,
+          "growth": 0.1198854536
+        }
+      },
+      "date": "2020-03-16T00:00:00.000Z",
+      "deaths": {
+        "total": 2158,
+        "perOneMillion": 36,
+        "today": 349,
+        "doublingTime": 3.601534771014156,
+        "growth": 0.1929242676
+      },
+      "recovered": {
+        "total": 2749,
+        "perOneMillion": 46,
+        "today": 414,
+        "doublingTime": 3.547503257600568,
+        "growth": 0.1773019272
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 31506,
+          "perOneMillion": 532,
+          "today": 3526,
+          "doublingTime": 4.709075163964928,
+          "growth": 0.1260185847
+        },
+        "active": {
+          "total": 26062,
+          "perOneMillion": 440,
+          "today": 2989,
+          "doublingTime": 4.887384746219299,
+          "growth": 0.129545356
+        }
+      },
+      "date": "2020-03-17T00:00:00.000Z",
+      "deaths": {
+        "total": 2503,
+        "perOneMillion": 42,
+        "today": 345,
+        "doublingTime": 3.8281642442656487,
+        "growth": 0.1598702502
+      },
+      "recovered": {
+        "total": 2941,
+        "perOneMillion": 50,
+        "today": 192,
+        "doublingTime": 4.004250393750117,
+        "growth": 0.0698435795
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-26-062-i-positivi"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 35713,
+          "perOneMillion": 603,
+          "today": 4207,
+          "doublingTime": 4.911282269059432,
+          "growth": 0.1335301212
+        },
+        "active": {
+          "total": 28710,
+          "perOneMillion": 485,
+          "today": 2648,
+          "doublingTime": 5.299560299828229,
+          "growth": 0.1016038677
+        }
+      },
+      "date": "2020-03-18T00:00:00.000Z",
+      "deaths": {
+        "total": 2978,
+        "perOneMillion": 50,
+        "today": 475,
+        "doublingTime": 4.038679462086361,
+        "growth": 0.1897722733
+      },
+      "recovered": {
+        "total": 4025,
+        "perOneMillion": 68,
+        "today": 1084,
+        "doublingTime": 3.2975074148441856,
+        "growth": 0.3685821149
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-28-710-i-positivi"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 41035,
+          "perOneMillion": 693,
+          "today": 5322,
+          "doublingTime": 5.227837631333113,
+          "growth": 0.1490213648
+        },
+        "active": {
+          "total": 33190,
+          "perOneMillion": 560,
+          "today": 4480,
+          "doublingTime": 5.529035598908811,
+          "growth": 0.1560431905
+        }
+      },
+      "date": "2020-03-19T00:00:00.000Z",
+      "deaths": {
+        "total": 3405,
+        "perOneMillion": 57,
+        "today": 427,
+        "doublingTime": 4.018359327544864,
+        "growth": 0.143384822
+      },
+      "recovered": {
+        "total": 4440,
+        "perOneMillion": 75,
+        "today": 415,
+        "doublingTime": 4.160058319463427,
+        "growth": 0.1031055901
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-33-190-i-positivi"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 47021,
+          "perOneMillion": 794,
+          "today": 5986,
+          "doublingTime": 5.39797968532981,
+          "growth": 0.1458754722
+        },
+        "active": {
+          "total": 37860,
+          "perOneMillion": 639,
+          "today": 4670,
+          "doublingTime": 5.689688778904455,
+          "growth": 0.1407050316
+        }
+      },
+      "date": "2020-03-20T00:00:00.000Z",
+      "deaths": {
+        "total": 4032,
+        "perOneMillion": 68,
+        "today": 627,
+        "doublingTime": 4.320491229029483,
+        "growth": 0.1841409692
+      },
+      "recovered": {
+        "total": 5129,
+        "perOneMillion": 87,
+        "today": 689,
+        "doublingTime": 4.3025842283179365,
+        "growth": 0.1551801802
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-37-860-i-positivi"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Itália bane todos os desportos ao ar livre, e todos os parques instruidos a encerrar",
+            "en": "Italy banned open-air sports and running. Parks, playgrounds and public green were closed down. Movement across the country was further restricted, by banning \"any movement towards a residence different from the main one\""
+          },
+          "category": {
+            "id": 18
+          },
+          "source": {
+            "name": "ilpost.it",
+            "url": "https://www.ilpost.it/2020/03/20/ordinanza-coronavirus-attivita-sportiva-correre/"
+          }
+        },
+        {
+          "title": {
+            "pt": "Exército Italiano chamado a auxiliar o cumprimento do bloqueio",
+            "en": "Italian army called to enforced lockdown"
+          },
+          "category": {
+            "id": 8
+          },
+          "source": {
+            "name": "edition.cnn.com",
+            "url": "https://edition.cnn.com/2020/03/20/europe/italy-military-coronavirus-intl/index.html"
+          }
+        },
+        {
+          "title": {
+            "pt": "Testes COVID em Itália atingem os 206 mil",
+            "en": "Italy total COVID tests performed reaches 206 k (3499 tests per 1 million habitants)"
+          },
+          "category": {
+            "id": 20
+          },
+          "source": null
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 53578,
+          "perOneMillion": 904,
+          "today": 6557,
+          "doublingTime": 5.333688662033339,
+          "growth": 0.1394483316
+        },
+        "active": {
+          "total": 42681,
+          "perOneMillion": 721,
+          "today": 4821,
+          "doublingTime": 5.628764446329546,
+          "growth": 0.1273375594
+        }
+      },
+      "date": "2020-03-21T00:00:00.000Z",
+      "deaths": {
+        "total": 4825,
+        "perOneMillion": 81,
+        "today": 793,
+        "doublingTime": 4.303350452411443,
+        "growth": 0.1966765873
+      },
+      "recovered": {
+        "total": 6072,
+        "perOneMillion": 103,
+        "today": 943,
+        "doublingTime": 4.273003789696303,
+        "growth": 0.1838565022
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-42-681-i-positivi"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 59138,
+          "perOneMillion": 998,
+          "today": 5560,
+          "doublingTime": 5.4993335938710555,
+          "growth": 0.1037739371
+        },
+        "active": {
+          "total": 46638,
+          "perOneMillion": 787,
+          "today": 3957,
+          "doublingTime": 5.944192721267924,
+          "growth": 0.0927110424
+        }
+      },
+      "date": "2020-03-22T00:00:00.000Z",
+      "deaths": {
+        "total": 5476,
+        "perOneMillion": 92,
+        "today": 651,
+        "doublingTime": 4.420153804403699,
+        "growth": 0.1349222798
+      },
+      "recovered": {
+        "total": 7024,
+        "perOneMillion": 119,
+        "today": 952,
+        "doublingTime": 3.918481558245448,
+        "growth": 0.1567852437
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-46-638-i-positivi"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Itália ordena todas os negócios a encerrar todas as actividades não essenciais",
+            "en": "Italy orders businesses to close all operations “non-essential production activities”"
+          },
+          "category": {
+            "id": 17
+          },
+          "source": {
+            "name": "theguardian.com",
+            "url": "https://www.theguardian.com/world/live/2020/mar/21/coronavirus-live-updates-deaths-jump-in-spain-and-italy-millions-locked-down-in-us"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 63927,
+          "perOneMillion": 1079,
+          "today": 4789,
+          "doublingTime": 5.937862470651395,
+          "growth": 0.0809800805
+        },
+        "active": {
+          "total": 50418,
+          "perOneMillion": 851,
+          "today": 3780,
+          "doublingTime": 6.137083011352314,
+          "growth": 0.0810497877
+        }
+      },
+      "date": "2020-03-23T00:00:00.000Z",
+      "deaths": {
+        "total": 6077,
+        "perOneMillion": 103,
+        "today": 601,
+        "doublingTime": 4.84584790633862,
+        "growth": 0.1097516435
+      },
+      "recovered": {
+        "total": 7432,
+        "perOneMillion": 125,
+        "today": 408,
+        "doublingTime": 5.614423849461414,
+        "growth": 0.0580865604
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-50-418-i-positivi"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 69176,
+          "perOneMillion": 1168,
+          "today": 5249,
+          "doublingTime": 6.616903537523102,
+          "growth": 0.0821092809
+        },
+        "active": {
+          "total": 54030,
+          "perOneMillion": 912,
+          "today": 3612,
+          "doublingTime": 7.0908999236288865,
+          "growth": 0.0716410806
+        }
+      },
+      "date": "2020-03-24T00:00:00.000Z",
+      "deaths": {
+        "total": 6820,
+        "perOneMillion": 115,
+        "today": 743,
+        "doublingTime": 4.973375968348469,
+        "growth": 0.1222642751
+      },
+      "recovered": {
+        "total": 8326,
+        "perOneMillion": 141,
+        "today": 894,
+        "doublingTime": 5.479791822010498,
+        "growth": 0.1202906351
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/web/guest/media-communication/press-release/-/content-view/view/1236914"
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": {
+            "pt": "Itália decreta sancções pesadas para infractores das medidas de quarentena",
+            "en": "Italy decrees heavy penalties for infractors of quarentine measures"
+          },
+          "category": {
+            "id": 18
+          },
+          "source": {
+            "name": "repubblica.it",
+            "url": "https://www.repubblica.it/politica/2020/03/24/news/coronavirus_multe_fino_a_4mila_euro_per_chi_non_rispetta_i_divieti_ecco_la_bozza_all_esame_del_cdm-252168876/?ref=RHPPTP-BH-I252111706-C12-P10-S1.12-T1"
+          }
+        }
+      ]
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 74386,
+          "perOneMillion": 1256,
+          "today": 5210,
+          "doublingTime": 7.537157806792269,
+          "growth": 0.0753151382
+        },
+        "active": {
+          "total": 57521,
+          "perOneMillion": 971,
+          "today": 3491,
+          "doublingTime": 8.266098336933767,
+          "growth": 0.0646122525
+        }
+      },
+      "date": "2020-03-25T00:00:00.000Z",
+      "deaths": {
+        "total": 7503,
+        "perOneMillion": 127,
+        "today": 683,
+        "doublingTime": 5.560733274981859,
+        "growth": 0.1001466276
+      },
+      "recovered": {
+        "total": 9362,
+        "perOneMillion": 158,
+        "today": 1036,
+        "doublingTime": 5.725773297046666,
+        "growth": 0.124429498
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/web/guest/media-communication/press-release/-/content-view/view/1237515"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 80539,
+          "perOneMillion": 1360,
+          "today": 6153,
+          "doublingTime": 8.498539072968114,
+          "growth": 0.082717178
+        },
+        "active": {
+          "total": 62013,
+          "perOneMillion": 1047,
+          "today": 4492,
+          "doublingTime": 9.27209354294619,
+          "growth": 0.0780932181
+        }
+      },
+      "date": "2020-03-26T00:00:00.000Z",
+      "deaths": {
+        "total": 8165,
+        "perOneMillion": 138,
+        "today": 662,
+        "doublingTime": 6.581504843396326,
+        "growth": 0.0882313741
+      },
+      "recovered": {
+        "total": 10361,
+        "perOneMillion": 175,
+        "today": 999,
+        "doublingTime": 6.460342845189466,
+        "growth": 0.1067079684
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-62-013-i-positivi"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 86498,
+          "perOneMillion": 1460,
+          "today": 5959,
+          "doublingTime": 9.113738097626593,
+          "growth": 0.0739889991
+        },
+        "active": {
+          "total": 66414,
+          "perOneMillion": 1121,
+          "today": 4401,
+          "doublingTime": 9.802270724229176,
+          "growth": 0.0709689904
+        }
+      },
+      "date": "2020-03-27T00:00:00.000Z",
+      "deaths": {
+        "total": 9134,
+        "perOneMillion": 154,
+        "today": 969,
+        "doublingTime": 6.769747870782784,
+        "growth": 0.1186772811
+      },
+      "recovered": {
+        "total": 10950,
+        "perOneMillion": 185,
+        "today": 589,
+        "doublingTime": 7.772844616448397,
+        "growth": 0.0568477946
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "protezionecivile.gov.it",
+            "url": "http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-66-414"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 92472,
+          "perOneMillion": 1561,
+          "today": 5974,
+          "doublingTime": 9.386604226313047,
+          "growth": 0.0690651807
+        },
+        "active": {
+          "total": 70065,
+          "perOneMillion": 1183,
+          "today": 3651,
+          "doublingTime": 10.527457874871544,
+          "growth": 0.054973349
+        }
+      },
+      "date": "2020-03-28T00:00:00.000Z",
+      "deaths": {
+        "total": 10023,
+        "perOneMillion": 169,
+        "today": 889,
+        "doublingTime": 6.921531735523092,
+        "growth": 0.0973286621
+      },
+      "recovered": {
+        "total": 12384,
+        "perOneMillion": 209,
+        "today": 1434,
+        "doublingTime": 6.767795640603552,
+        "growth": 0.1309589041
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "salute.gov.it",
+            "url": "http://www.salute.gov.it/imgs/C_17_pagineAree_5351_38_file.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 97689,
+          "perOneMillion": 1649,
+          "today": 5217,
+          "doublingTime": 10.036854090530648,
+          "growth": 0.0564170776
+        },
+        "active": {
+          "total": 73880,
+          "perOneMillion": 1247,
+          "today": 3815,
+          "doublingTime": 11.069559822030863,
+          "growth": 0.0544494398
+        }
+      },
+      "date": "2020-03-29T00:00:00.000Z",
+      "deaths": {
+        "total": 10779,
+        "perOneMillion": 182,
+        "today": 756,
+        "doublingTime": 7.564416731943815,
+        "growth": 0.075426519
+      },
+      "recovered": {
+        "total": 13030,
+        "perOneMillion": 220,
+        "today": 646,
+        "doublingTime": 7.697932788281927,
+        "growth": 0.0521640827
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "salute.gov.it",
+            "url": "http://www.salute.gov.it/imgs/C_17_pagineAree_5351_40_file.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 101739,
+          "perOneMillion": 1718,
+          "today": 4050,
+          "doublingTime": 11.051349027069891,
+          "growth": 0.0414580966
+        },
+        "active": {
+          "total": 75528,
+          "perOneMillion": 1275,
+          "today": 1648,
+          "doublingTime": 12.68615830633197,
+          "growth": 0.0223064429
+        }
+      },
+      "date": "2020-03-30T00:00:00.000Z",
+      "deaths": {
+        "total": 11591,
+        "perOneMillion": 196,
+        "today": 812,
+        "doublingTime": 7.95862080920442,
+        "growth": 0.0753316634
+      },
+      "recovered": {
+        "total": 14620,
+        "perOneMillion": 247,
+        "today": 1590,
+        "doublingTime": 7.735680805779244,
+        "growth": 0.1220260936
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "salute.gov.it",
+            "url": "http://www.salute.gov.it/imgs/C_17_notizie_4362_0_file.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 105792,
+          "perOneMillion": 1786,
+          "today": 4053,
+          "doublingTime": 12.687251251724234,
+          "growth": 0.0398372306
+        },
+        "active": {
+          "total": 77635,
+          "perOneMillion": 1311,
+          "today": 2107,
+          "doublingTime": 15.37349506066882,
+          "growth": 0.0278969389
+        }
+      },
+      "date": "2020-03-31T00:00:00.000Z",
+      "deaths": {
+        "total": 12428,
+        "perOneMillion": 210,
+        "today": 837,
+        "doublingTime": 8.236771901611947,
+        "growth": 0.0722111983
+      },
+      "recovered": {
+        "total": 15729,
+        "perOneMillion": 266,
+        "today": 1109,
+        "doublingTime": 8.257041248398664,
+        "growth": 0.0758549932
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "salute.gov.it",
+            "url": "http://www.salute.gov.it/imgs/C_17_notizie_4370_0_file.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 110574,
+          "perOneMillion": 1867,
+          "today": 4782,
+          "doublingTime": 14.09777331455119,
+          "growth": 0.0452019056
+        },
+        "active": {
+          "total": 80572,
+          "perOneMillion": 1360,
+          "today": 2937,
+          "doublingTime": 17.89618365553752,
+          "growth": 0.0378308752
+        }
+      },
+      "date": "2020-04-01T00:00:00.000Z",
+      "deaths": {
+        "total": 13155,
+        "perOneMillion": 222,
+        "today": 727,
+        "doublingTime": 9.491726924327518,
+        "growth": 0.0584969424
+      },
+      "recovered": {
+        "total": 16847,
+        "perOneMillion": 284,
+        "today": 1118,
+        "doublingTime": 8.00772437621859,
+        "growth": 0.0710788988
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "salute.gov.it",
+            "url": "http://www.salute.gov.it/imgs/C_17_notizie_4378_0_file.pdf"
+          }
+        ]
+      },
+      "events": []
+    },
+    {
+      "cases": {
+        "confirmed": {
+          "total": 115242,
+          "perOneMillion": 1945,
+          "today": 4668,
+          "doublingTime": 15.738379684185526,
+          "growth": 0.0422160725
+        },
+        "active": {
+          "total": 83049,
+          "perOneMillion": 1402,
+          "today": 2477,
+          "doublingTime": 20.351580843512657,
+          "growth": 0.0307426898
+        }
+      },
+      "date": "2020-04-02T00:00:00.000Z",
+      "deaths": {
+        "total": 13915,
+        "perOneMillion": 235,
+        "today": 760,
+        "doublingTime": 10.558988214802415,
+        "growth": 0.05777271
+      },
+      "recovered": {
+        "total": 18278,
+        "perOneMillion": 309,
+        "today": 1431,
+        "doublingTime": 8.876992509380017,
+        "growth": 0.084940939
+      },
+      "hospitalization": {
+        "total": 0,
+        "critical": 0
+      },
+      "metadata": {
+        "sources": [
+          {
+            "name": "salute.gov.it",
+            "url": "http://www.salute.gov.it/imgs/C_17_notizie_4386_0_file.pdf"
+          }
+        ]
+      },
+      "events": []
+    }
+  ]
+}

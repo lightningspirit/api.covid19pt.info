@@ -1,0 +1,98 @@
+{
+  "title": "Mongolia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mn/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mn/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mn",
+    "name": {
+      "en": "Mongolia",
+      "pt": "Mongólia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mn.png",
+    "coordinates": {
+      "latitude": 46,
+      "longitude": 105
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 14,
+        "perOneMillion": 4,
+        "today": 0,
+        "doublingTime": 21.139095022421277,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 2,
+      "perOneMillion": 1,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:07.410Z",
+    "everyone": {
+      "females": 1581201,
+      "males": 1540721,
+      "total": 3121922
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 540963,
+        "males": 553680,
+        "total": 1094643
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 497369,
+        "males": 507868,
+        "total": 1005237
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 356261,
+        "males": 329972,
+        "total": 686233
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 112754,
+        "males": 84524,
+        "total": 197278
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 14341,
+        "males": 8040,
+        "total": 22381
+      }
+    ]
+  }
+}

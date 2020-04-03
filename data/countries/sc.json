@@ -1,0 +1,94 @@
+{
+  "title": "Seychelles",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/sc/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/sc/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "sc",
+    "name": {
+      "en": "Seychelles",
+      "pt": "Seicheles"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sc.png",
+    "coordinates": {
+      "latitude": -4.5833,
+      "longitude": 55.6667
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 10,
+        "perOneMillion": 103,
+        "today": 0,
+        "doublingTime": 14.206699082890461,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:11.011Z",
+    "everyone": {
+      "females": 48512,
+      "males": 48969,
+      "total": 97533
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 13988,
+        "males": 14582,
+        "total": 28600
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 13069,
+        "males": 13902,
+        "total": 26990
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 12851,
+        "males": 13171,
+        "total": 26020
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5484,
+        "males": 4761,
+        "total": 10245
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1076,
+        "males": 527,
+        "total": 1603
+      }
+    ]
+  }
+}

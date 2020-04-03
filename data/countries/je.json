@@ -1,0 +1,51 @@
+{
+  "title": "Channel Islands",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/je/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/je/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "je",
+    "name": {
+      "en": "Channel Islands",
+      "pt": "Channel Islands"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/je.png",
+    "coordinates": {
+      "latitude": 49.21,
+      "longitude": -2.13
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.623Z",
+    "cases": {
+      "confirmed": {
+        "total": 232,
+        "perOneMillion": 1334
+      },
+      "active": {
+        "total": 215
+      }
+    },
+    "deaths": {
+      "total": 4,
+      "perOneMillion": 23
+    },
+    "recovered": {
+      "total": 13
+    },
+    "hospitalization": {
+      "critical": 0
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

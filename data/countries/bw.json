@@ -1,0 +1,98 @@
+{
+  "title": "Botswana",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/bw/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/bw/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "bw",
+    "name": {
+      "en": "Botswana",
+      "pt": "Botswana"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bw.png",
+    "coordinates": {
+      "latitude": -22,
+      "longitude": 24
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 4,
+        "perOneMillion": 2,
+        "today": 0,
+        "doublingTime": 10.740053667321396,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 0,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:57.809Z",
+    "everyone": {
+      "females": 1206499,
+      "males": 1203423,
+      "total": 2409922
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 464690,
+        "males": 473205,
+        "total": 937895
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 407673,
+        "males": 413528,
+        "total": 821201
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 206032,
+        "males": 204309,
+        "total": 410341
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 73279,
+        "males": 61140,
+        "total": 134419
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 6881,
+        "males": 3805,
+        "total": 10686
+      }
+    ]
+  }
+}

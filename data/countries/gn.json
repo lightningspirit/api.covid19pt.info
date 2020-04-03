@@ -1,0 +1,94 @@
+{
+  "title": "Guinea",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/gn/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/gn/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "gn",
+    "name": {
+      "en": "Guinea",
+      "pt": "Guiné"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gn.png",
+    "coordinates": {
+      "latitude": 11,
+      "longitude": -10
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 52,
+        "perOneMillion": 4,
+        "today": 22,
+        "doublingTime": 1.7254453747112664,
+        "growth": 0.7333333333
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:03.011Z",
+    "everyone": {
+      "females": 6920864,
+      "males": 6974036,
+      "total": 13894900
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3480676,
+        "males": 3539471,
+        "total": 7020147
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1933241,
+        "males": 1975404,
+        "total": 3908645
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 900528,
+        "males": 890427,
+        "total": 1790955
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 342329,
+        "males": 307570,
+        "total": 649899
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 18547,
+        "males": 14327,
+        "total": 32874
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Grenada",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/gd/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/gd/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "gd",
+    "name": {
+      "en": "Grenada",
+      "pt": "Granada"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gd.png",
+    "coordinates": {
+      "latitude": 12.1167,
+      "longitude": -61.6667
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 10,
+        "perOneMillion": 93,
+        "today": 1,
+        "doublingTime": 9.075817018448653,
+        "growth": 0.1111111111
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:02.613Z",
+    "everyone": {
+      "females": 53451,
+      "males": 54045,
+      "total": 107496
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 17273,
+        "males": 18175,
+        "total": 35448
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 17807,
+        "males": 18532,
+        "total": 36339
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 9881,
+        "males": 10192,
+        "total": 20073
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5123,
+        "males": 4361,
+        "total": 9484
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1125,
+        "males": 595,
+        "total": 1720
+      }
+    ]
+  }
+}

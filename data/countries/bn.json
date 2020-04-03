@@ -1,0 +1,102 @@
+{
+  "title": "Brunei",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/bn/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/bn/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "bn",
+    "name": {
+      "en": "Brunei",
+      "pt": "Brunei"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bn.png",
+    "coordinates": {
+      "latitude": 4.5,
+      "longitude": 114.6667
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 133,
+        "perOneMillion": 299,
+        "today": 2,
+        "doublingTime": 33.52441616078018,
+        "growth": 0.0152671756
+      }
+    },
+    "deaths": {
+      "total": 1,
+      "perOneMillion": 2,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "recovered": {
+      "total": 56,
+      "perOneMillion": 126,
+      "today": 4,
+      "doublingTime": 4.212277552217262,
+      "growth": 0.0769230769
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:24:58.008Z",
+    "everyone": {
+      "females": 216077,
+      "males": 228653,
+      "total": 444730
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 60610,
+        "males": 64040,
+        "total": 124650
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 68281,
+        "males": 74174,
+        "total": 142455
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 56597,
+        "males": 59735,
+        "total": 116332
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 19341,
+        "males": 19293,
+        "total": 38634
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1886,
+        "males": 1300,
+        "total": 3186
+      }
+    ]
+  }
+}

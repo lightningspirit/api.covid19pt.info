@@ -1,0 +1,102 @@
+{
+  "title": "Saudi Arabia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/sa/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/sa/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "sa",
+    "name": {
+      "en": "Saudi Arabia",
+      "pt": "Arábia Saudita"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sa.png",
+    "coordinates": {
+      "latitude": 25,
+      "longitude": 45
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 1885,
+        "perOneMillion": 56,
+        "today": 165,
+        "doublingTime": 7.70844044656012,
+        "growth": 0.0959302326
+      }
+    },
+    "deaths": {
+      "total": 21,
+      "perOneMillion": 1,
+      "today": 5,
+      "doublingTime": 1.9285096126038346,
+      "growth": 0.3125
+    },
+    "recovered": {
+      "total": 328,
+      "perOneMillion": 10,
+      "today": 64,
+      "doublingTime": 1.5572018405634205,
+      "growth": 0.2424242424
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:10.717Z",
+    "everyone": {
+      "females": 14783544,
+      "males": 19001464,
+      "total": 33780722
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5616000,
+        "males": 5847000,
+        "total": 11464000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 4625000,
+        "males": 6125000,
+        "total": 10749000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 3085000,
+        "males": 5139000,
+        "total": 8219000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 778900,
+        "males": 1057600,
+        "total": 1836200
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 77644,
+        "males": 64264,
+        "total": 142022
+      }
+    ]
+  }
+}

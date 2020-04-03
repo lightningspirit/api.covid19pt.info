@@ -1,0 +1,98 @@
+{
+  "title": "Guyana",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/gy/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/gy/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "gy",
+    "name": {
+      "en": "Guyana",
+      "pt": "Guiana"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gy.png",
+    "coordinates": {
+      "latitude": 5,
+      "longitude": -59
+    },
+    "continent": {
+      "en": "South America",
+      "pt": "América do Sul"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 19,
+        "perOneMillion": 25,
+        "today": 0,
+        "doublingTime": 3.534393638943785,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 4,
+      "perOneMillion": 5,
+      "today": 2,
+      "doublingTime": 2.0600427171061457,
+      "growth": 1
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:03.211Z",
+    "everyone": {
+      "females": 382198,
+      "males": 389834,
+      "total": 772032
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 134885,
+        "males": 139455,
+        "total": 274340
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 101382,
+        "males": 112287,
+        "total": 213669
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 88524,
+        "males": 86671,
+        "total": 175195
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 37522,
+        "males": 32066,
+        "total": 69588
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 2271,
+        "males": 1917,
+        "total": 4188
+      }
+    ]
+  }
+}

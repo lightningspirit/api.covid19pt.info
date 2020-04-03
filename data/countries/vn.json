@@ -1,0 +1,98 @@
+{
+  "title": "Vietnam",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/vn/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/vn/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "vn",
+    "name": {
+      "en": "Vietnam",
+      "pt": "Vietnã"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/vn.png",
+    "coordinates": {
+      "latitude": 16,
+      "longitude": 106
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 233,
+        "perOneMillion": 2,
+        "today": 15,
+        "doublingTime": 11.830882448332277,
+        "growth": 0.0688073394
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 75,
+      "perOneMillion": 1,
+      "today": 12,
+      "doublingTime": 2.3424740372745907,
+      "growth": 0.1904761905
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:15.116Z",
+    "everyone": {
+      "females": 48853000,
+      "males": 47829270,
+      "total": 96692400
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 13195000,
+        "males": 14408000,
+        "total": 27606000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 15208000,
+        "males": 15518000,
+        "total": 30727000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 11859000,
+        "males": 11429000,
+        "total": 23291000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5303000,
+        "males": 4024000,
+        "total": 9330000
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 1271000,
+        "males": 528570,
+        "total": 1800400
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Réunion",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/re/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/re/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "re",
+    "name": {
+      "en": "Réunion",
+      "pt": "Réunion"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/re.png",
+    "coordinates": {
+      "latitude": -21.1,
+      "longitude": 55.6
+    }
+  },
+  "stats": {
+    "date": "2020-04-03T23:18:08.622Z",
+    "cases": {
+      "confirmed": {
+        "total": 321,
+        "perOneMillion": 359
+      },
+      "active": {
+        "total": 281
+      }
+    },
+    "deaths": {
+      "total": 0,
+      "perOneMillion": null
+    },
+    "recovered": {
+      "total": 40
+    },
+    "hospitalization": {
+      "critical": 3
+    },
+    "metadata": {
+      "sources": []
+    }
+  }
+}

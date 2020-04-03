@@ -1,0 +1,98 @@
+{
+  "title": "Saint Lucia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/lc/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/lc/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "lc",
+    "name": {
+      "en": "Saint Lucia",
+      "pt": "Santa Lúcia"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lc.png",
+    "coordinates": {
+      "latitude": 13.8833,
+      "longitude": -61.1333
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 13,
+        "perOneMillion": 69,
+        "today": 0,
+        "doublingTime": 1.7414439988022141,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 1,
+      "perOneMillion": 5,
+      "today": 0,
+      "doublingTime": null,
+      "growth": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:12.113Z",
+    "everyone": {
+      "females": 96451,
+      "males": 92610,
+      "total": 189058
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 26540,
+        "males": 27090,
+        "total": 53650
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 28370,
+        "males": 27770,
+        "total": 56120
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 23870,
+        "males": 22492,
+        "total": 46360
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 10931,
+        "males": 9631,
+        "total": 20549
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 2526,
+        "males": 1625,
+        "total": 4151
+      }
+    ]
+  }
+}

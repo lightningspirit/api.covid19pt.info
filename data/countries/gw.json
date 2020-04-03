@@ -1,0 +1,94 @@
+{
+  "title": "Guinea-Bissau",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/gw/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/gw/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "gw",
+    "name": {
+      "en": "Guinea-Bissau",
+      "pt": "Guiné-Bissau"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gw.png",
+    "coordinates": {
+      "latitude": 12,
+      "longitude": -15
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 9,
+        "perOneMillion": 4,
+        "today": 0,
+        "doublingTime": 1.4276746079647162,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:03.108Z",
+    "everyone": {
+      "females": 1009804,
+      "males": 994316,
+      "total": 2004120
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 487678,
+        "males": 487141,
+        "total": 974819
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 294714,
+        "males": 292853,
+        "total": 587567
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 136536,
+        "males": 131774,
+        "total": 268310
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 52156,
+        "males": 45248,
+        "total": 97404
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 2599,
+        "males": 1928,
+        "total": 4527
+      }
+    ]
+  }
+}

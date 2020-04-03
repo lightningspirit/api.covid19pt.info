@@ -1,0 +1,121 @@
+{
+  "title": "Italy",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/it/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/it/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "it",
+    "name": {
+      "en": "Italy",
+      "pt": "Itália"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/it.png",
+    "coordinates": {
+      "latitude": 42.8333,
+      "longitude": 12.8333
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "cases": {
+      "confirmed": {
+        "total": 115242,
+        "perOneMillion": 1945,
+        "today": 4668,
+        "doublingTime": 15.738379684185526,
+        "growth": 0.0422160725
+      },
+      "active": {
+        "total": 83049,
+        "perOneMillion": 1402,
+        "today": 2477,
+        "doublingTime": 20.351580843512657,
+        "growth": 0.0307426898
+      }
+    },
+    "date": "2020-04-02T00:00:00.000Z",
+    "deaths": {
+      "total": 13915,
+      "perOneMillion": 235,
+      "today": 760,
+      "doublingTime": 10.558988214802415,
+      "growth": 0.05777271
+    },
+    "recovered": {
+      "total": 18278,
+      "perOneMillion": 309,
+      "today": 1431,
+      "doublingTime": 8.876992509380017,
+      "growth": 0.084940939
+    },
+    "hospitalization": {
+      "total": 0,
+      "critical": 0
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "salute.gov.it",
+          "url": "http://www.salute.gov.it/imgs/C_17_notizie_4386_0_file.pdf"
+        }
+      ]
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:04.409Z",
+    "everyone": {
+      "females": 30399266,
+      "males": 28837277,
+      "total": 59236543
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 4975600,
+        "males": 5267995,
+        "total": 10243595
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 5862688,
+        "males": 6070416,
+        "total": 11933104
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 8740960,
+        "males": 8656023,
+        "total": 17396983
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 6794729,
+        "males": 5981186,
+        "total": 12775915
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 2661399,
+        "males": 1568878,
+        "total": 4230277
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Liberia",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/lr/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/lr/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "lr",
+    "name": {
+      "en": "Liberia",
+      "pt": "Libéria"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lr.png",
+    "coordinates": {
+      "latitude": 6.5,
+      "longitude": -9.5
+    },
+    "continent": {
+      "en": "Africa",
+      "pt": "África"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 6,
+        "perOneMillion": 1,
+        "today": 0,
+        "doublingTime": 3.8017840169239308,
+        "growth": 0
+      }
+    },
+    "deaths": {
+      "total": 0
+    },
+    "recovered": {
+      "total": 0
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:05.714Z",
+    "everyone": {
+      "females": 2442858,
+      "males": 2489277,
+      "total": 4932135
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1208039,
+        "males": 1259841,
+        "total": 2467880
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 681382,
+        "males": 699520,
+        "total": 1380902
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 340684,
+        "males": 334302,
+        "total": 674986
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 116913,
+        "males": 100631,
+        "total": 217544
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 6702,
+        "males": 5010,
+        "total": 11712
+      }
+    ]
+  }
+}

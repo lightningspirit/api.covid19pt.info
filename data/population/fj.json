@@ -1,0 +1,61 @@
+{
+  "title": "Current Country Population",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/population/fj",
+      "title": "Current Country Population"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/population/",
+      "title": "Parent"
+    },
+    "country": {
+      "title": "Country info",
+      "templated": true,
+      "href": "https://api.covid19pt.info/v6/countries/fj/"
+    }
+  },
+  "date": "2020-04-02T20:52:22.810Z",
+  "everyone": {
+    "females": 443860,
+    "males": 455347,
+    "total": 899207
+  },
+  "groups": [
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 154318,
+      "males": 164097,
+      "total": 318415
+    },
+    {
+      "type": "age-group",
+      "label": "20-39",
+      "females": 127095,
+      "males": 134387,
+      "total": 261482
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 94377,
+      "males": 95841,
+      "total": 190218
+    },
+    {
+      "type": "age-group",
+      "label": "0-19",
+      "females": 45768,
+      "males": 39977,
+      "total": 85745
+    },
+    {
+      "type": "age-group",
+      "label": "80+",
+      "females": 3791,
+      "males": 2212,
+      "total": 6003
+    }
+  ]
+}

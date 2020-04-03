@@ -1,0 +1,102 @@
+{
+  "title": "Pakistan",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/pk/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/pk/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "pk",
+    "name": {
+      "en": "Pakistan",
+      "pt": "Paquistão"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pk.png",
+    "coordinates": {
+      "latitude": 30,
+      "longitude": 70
+    },
+    "continent": {
+      "en": "Asia",
+      "pt": "Ásia"
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 2421,
+        "perOneMillion": 12,
+        "today": 303,
+        "doublingTime": 7.163032058637352,
+        "growth": 0.1430594901
+      }
+    },
+    "deaths": {
+      "total": 34,
+      "perOneMillion": 0,
+      "today": 7,
+      "doublingTime": 3.216285087116994,
+      "growth": 0.2592592593
+    },
+    "recovered": {
+      "total": 125,
+      "perOneMillion": 1,
+      "today": 31,
+      "doublingTime": 1.910126180621646,
+      "growth": 0.329787234
+    },
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:08.819Z",
+    "everyone": {
+      "females": 98915817,
+      "males": 104416469,
+      "total": 203332216
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 41313000,
+        "males": 44561000,
+        "total": 85875000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 31036000,
+        "males": 32501000,
+        "total": 63535000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 16283000,
+        "males": 16721000,
+        "total": 33006000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 5985000,
+        "males": 6077000,
+        "total": 12062000
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 557817,
+        "males": 618469,
+        "total": 1176216
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "title": "Portugal",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/pt/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/pt/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "pt",
+    "name": {
+      "en": "Portugal",
+      "pt": "Portugal"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pt.png",
+    "coordinates": {
+      "latitude": 39.5,
+      "longitude": -8
+    },
+    "continent": {
+      "en": "Europe",
+      "pt": "Europa"
+    }
+  },
+  "stats": {
+    "cases": {
+      "confirmed": {
+        "total": 9886,
+        "perOneMillion": 980,
+        "today": 852,
+        "doublingTime": 6.8297570128417355,
+        "growth": 0.094310383
+      },
+      "nonConfirmed": {
+        "total": 59099
+      },
+      "suspects": {
+        "total": 74377
+      },
+      "active": {
+        "total": 9572,
+        "perOneMillion": 949,
+        "today": 815,
+        "doublingTime": 6.891897451110597,
+        "growth": 0.0930684024
+      },
+      "imported": 576,
+      "exposure": 9310,
+      "surveillance": {
+        "total": 22556
+      }
+    },
+    "date": "2020-04-03T00:00:00.000Z",
+    "transmission": {
+      "knownChains": 0
+    },
+    "deaths": {
+      "total": 246,
+      "perOneMillion": 24,
+      "today": 37,
+      "doublingTime": 4.76576947552311,
+      "growth": 0.1770334928
+    },
+    "recovered": {
+      "total": 68,
+      "perOneMillion": 7,
+      "today": 0,
+      "doublingTime": 6.301286723634461,
+      "growth": 0
+    },
+    "hospitalization": {
+      "total": 813,
+      "critical": 245
+    },
+    "testing": {
+      "total": 74377,
+      "waiting": 5392
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "covid19.min-saude.pt",
+          "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/32_DGS_boletim_20200403.pdf"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "region",
+        "label": {
+          "pt": "Norte",
+          "en": "North"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5899
+          },
+          "active": {
+            "total": 5769
+          }
+        },
+        "deaths": {
+          "total": 130
+        },
+        "recovered": {
+          "total": 0
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/32_DGS_boletim_20200403.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Centro",
+          "en": "Center"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 1286
+          },
+          "active": {
+            "total": 1225
+          }
+        },
+        "deaths": {
+          "total": 61
+        },
+        "recovered": {
+          "total": 0
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/32_DGS_boletim_20200403.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Lisboa",
+          "en": "Lisbon"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 2347
+          },
+          "active": {
+            "total": 2296
+          }
+        },
+        "deaths": {
+          "total": 51
+        },
+        "recovered": {
+          "total": 0
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/32_DGS_boletim_20200403.pdf"
+            }
+          ]
+        }
+      }
+    ],
+    "events": []
+  },
+  "population": {
+    "date": "2020-04-03T23:25:09.511Z",
+    "everyone": {
+      "females": 5320530,
+      "males": 4765935,
+      "total": 10087800
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 860800,
+        "males": 903300,
+        "total": 1765000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1114200,
+        "males": 1062900,
+        "total": 2176000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1517500,
+        "males": 1384400,
+        "total": 2903000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1188600,
+        "males": 977200,
+        "total": 2166500
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 390330,
+        "males": 216435,
+        "total": 606900
+      }
+    ]
+  },
+  "projections": [
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "nodes": [
+        {
+          "date": "2020-03-16T00:00:00.000Z",
+          "max": 340,
+          "min": 325
+        },
+        {
+          "date": "2020-03-17T00:00:00.000Z",
+          "max": 610,
+          "min": 450
+        },
+        {
+          "date": "2020-03-18T00:00:00.000Z",
+          "max": 827,
+          "min": 616
+        },
+        {
+          "date": "2020-03-19T00:00:00.000Z",
+          "max": 1121,
+          "min": 783
+        },
+        {
+          "date": "2020-03-20T00:00:00.000Z",
+          "max": 1520,
+          "min": 994
+        },
+        {
+          "date": "2020-03-21T00:00:00.000Z",
+          "max": 2060,
+          "min": 1263
+        },
+        {
+          "date": "2020-03-22T00:00:00.000Z",
+          "max": 2794,
+          "min": 1605
+        },
+        {
+          "date": "2020-03-23T00:00:00.000Z",
+          "max": 3788,
+          "min": 2039
+        },
+        {
+          "date": "2020-03-24T00:00:00.000Z",
+          "max": 5136,
+          "min": 2591
+        },
+        {
+          "date": "2020-03-25T00:00:00.000Z",
+          "max": 6964,
+          "min": 3291
+        },
+        {
+          "date": "2020-03-26T00:00:00.000Z",
+          "max": 9442,
+          "min": 4181
+        },
+        {
+          "date": "2020-03-27T00:00:00.000Z",
+          "max": 12802,
+          "min": 5312
+        },
+        {
+          "date": "2020-03-28T00:00:00.000Z",
+          "max": 17359,
+          "min": 6749
+        }
+      ]
+    },
+    {
+      "date": "2020-03-26T00:00:00.000Z",
+      "nodes": [
+        {
+          "date": "2020-03-27T00:00:00.000Z",
+          "max": 4697,
+          "min": 4309
+        },
+        {
+          "date": "2020-03-28T00:00:00.000Z",
+          "max": 5991,
+          "min": 5284
+        },
+        {
+          "date": "2020-03-29T00:00:00.000Z",
+          "max": 7598,
+          "min": 6053
+        },
+        {
+          "date": "2020-03-30T00:00:00.000Z",
+          "max": 9200,
+          "min": 7357
+        },
+        {
+          "date": "2020-03-31T00:00:00.000Z",
+          "max": 11812,
+          "min": 8524
+        },
+        {
+          "date": "2020-04-01T00:00:00.000Z",
+          "max": 14753,
+          "min": 9779
+        },
+        {
+          "date": "2020-04-02T00:00:00.000Z",
+          "max": 17830,
+          "min": 11113
+        },
+        {
+          "date": "2020-04-03T00:00:00.000Z",
+          "max": 21865,
+          "min": 12511
+        },
+        {
+          "date": "2020-04-04T00:00:00.000Z",
+          "max": 26066,
+          "min": 14382
+        }
+      ]
+    }
+  ]
+}

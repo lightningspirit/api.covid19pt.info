@@ -1,0 +1,155 @@
+{
+  "title": "Event Categories",
+  "_links": {
+    "self": {
+      "title": "Event Categories",
+      "href": "https://api.covid19pt.info/v6/categories/"
+    },
+    "events": {
+      "title": "Events Timeline",
+      "href": "https://api.covid19pt.info/v6/events/"
+    }
+  },
+  "_embedded": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Request for in-country residents to self-isolate",
+        "pt": "Pedido de auto-isolamento aos residentes no país"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Voluntary self-isolation for 14 days after arrival to the country",
+        "pt": "Auto-isolamento voluntário por 14 dias após a chegada ao país"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Mandatory 14 days quarantine after arrival to the country",
+        "pt": "Quarentena obrigatória de 14 dias após a chegada ao país"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Forbidding entry to non-residents",
+        "pt": "Proibição da entrada de não residentes"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "Closing all ports and airports",
+        "pt": "Fecho de todos os portos e aeroportos"
+      }
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Closing/Control of land borders",
+        "pt": "Controlo de fronteiras terrestres"
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "Regional Forced Quarantine",
+        "pt": "Quarentena regional forçada"
+      }
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "Country wide Forced Quarantine",
+        "pt": "Quarentena forçada em todo o país"
+      }
+    },
+    {
+      "id": 9,
+      "name": {
+        "en": "Dedicated hospitals only for COVID19",
+        "pt": "Hospitais dedicados ao COVID19"
+      }
+    },
+    {
+      "id": 10,
+      "name": {
+        "en": "Forbidding visits to hospitals, nursing homes, etc…",
+        "pt": ""
+      }
+    },
+    {
+      "id": 11,
+      "name": {
+        "en": "Closing Schools and Universities",
+        "pt": ""
+      }
+    },
+    {
+      "id": 12,
+      "name": {
+        "en": "Suspend flights from and to epidemy clusters",
+        "pt": ""
+      }
+    },
+    {
+      "id": 13,
+      "name": {
+        "en": "Ban large cruise ships from docking",
+        "pt": ""
+      }
+    },
+    {
+      "id": 14,
+      "name": {
+        "en": "Enhanced screening at airports",
+        "pt": ""
+      }
+    },
+    {
+      "id": 15,
+      "name": {
+        "en": "Cancel Public events (sports / religious / concerts / other)",
+        "pt": ""
+      }
+    },
+    {
+      "id": 16,
+      "name": {
+        "en": "Prohibit gatherings of more than 100 people",
+        "pt": ""
+      }
+    },
+    {
+      "id": 17,
+      "name": {
+        "en": "Closing All non essential commenrce",
+        "pt": ""
+      }
+    },
+    {
+      "id": 18,
+      "name": {
+        "en": "Other measures",
+        "pt": ""
+      }
+    },
+    {
+      "id": 19,
+      "name": {
+        "en": "Curfew",
+        "pt": "Recolhimento obrigatório"
+      }
+    },
+    {
+      "id": 20,
+      "name": {
+        "en": "Testing",
+        "pt": "Testes"
+      }
+    }
+  ]
+}

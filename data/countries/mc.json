@@ -1,0 +1,41 @@
+{
+  "title": "Monaco",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/mc/"
+    },
+    "timeline": {
+      "href": "https://api.covid19pt.info/v6/countries/mc/timeline/"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "info": {
+    "iso2": "mc",
+    "name": {
+      "en": "Monaco",
+      "pt": "Mónaco"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mc.png",
+    "coordinates": {
+      "latitude": 43.7333,
+      "longitude": 7.4
+    }
+  },
+  "stats": {
+    "date": "2020-04-01T23:00:00.000Z",
+    "cases": {
+      "confirmed": {
+        "total": 60
+      }
+    },
+    "deaths": {
+      "total": 1
+    },
+    "recovered": {
+      "total": 2
+    },
+    "events": []
+  }
+}
