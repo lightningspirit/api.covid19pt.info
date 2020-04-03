@@ -1,0 +1,34 @@
+{
+  "name": "covid-19-api-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/handler.ts",
+    "postinstall": "ts-node src/update-population && npm run update",
+    "update": "npm run update:events && npm run update:world && npm run update:countries",
+    "update:world": "ts-node src/update-world",
+    "update:countries": "ts-node src/update-countries",
+    "update:events": "ts-node src/update-events",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Vitor Carvalho <lightningspirit@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/csv-parse": "^1.2.2",
+    "csv-parse": "^4.8.8",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.9.5",
+    "@types/node-fetch": "^2.5.5",
+    "jest": "^25.2.4",
+    "ts-jest": "^25.3.0",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
+}
