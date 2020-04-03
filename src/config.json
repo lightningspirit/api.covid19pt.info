@@ -1,0 +1,174 @@
+{
+  "apiUrl": "https://api.covid19pt.info/v6",
+  "urls": {
+
+    "events": {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQuilE8892rS5iSKWgnaVb5DcHd0DH0f6xJBSOTBJRDjK9dnh2uCj6VAh7BeEGqedqY1oFg7Owjd537/pub?gid=205798087&single=true&output=csv",
+      "mime": "text/csv"
+    },
+
+    "categories": {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQuilE8892rS5iSKWgnaVb5DcHd0DH0f6xJBSOTBJRDjK9dnh2uCj6VAh7BeEGqedqY1oFg7Owjd537/pub?gid=1988745911&single=true&output=csv",
+      "mime": "text/csv"
+    },
+
+    "insights": {
+      "pt": {
+        "country": {
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=0&single=true&output=csv",
+          "mime": "text/csv"
+        },
+        "groups": [
+          {
+            "type": "age-group",
+            "label": {
+              "pt": "0-19",
+              "en": "0-19"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1435848506&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "age-group",
+            "label": {
+              "pt": "20-39",
+              "en": "20-39"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1819938018&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "age-group",
+            "label": {
+              "pt": "40-59",
+              "en": "40-59"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=744659754&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "age-group",
+            "label": {
+              "pt": "60-79",
+              "en": "60-79"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=303021732&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "age-group",
+            "label": {
+              "pt": "80+",
+              "en": "80+"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=364007255&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
+              "pt": "Norte",
+              "en": "North"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1614378566&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
+              "pt": "Centro",
+              "en": "Center"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=18836309&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
+              "pt": "Lisboa",
+              "en": "Lisbon"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1269445788&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
+              "pt": "Algarve",
+              "en": "Algarve"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1034796781&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
+              "pt": "Madeira",
+              "en": "Madeira"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1160592087&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
+              "pt": "Açores",
+              "en": "Azores"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1352925441&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          }
+        ]
+      },
+      "es": {
+        "country": {
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhKJ3eNeihIGWG6KivI23uoilN8ikTV15Y-nfG7cP5dOMXVOtWZ45D5xJCcC4RdN6-GMZyJwHZh-P_/pub?gid=52799527&single=true&output=csv",
+          "mime": "text/csv"
+        }
+      },
+      "it": {
+        "country": {
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhKJ3eNeihIGWG6KivI23uoilN8ikTV15Y-nfG7cP5dOMXVOtWZ45D5xJCcC4RdN6-GMZyJwHZh-P_/pub?gid=1678324696&single=true&output=csv",
+          "mime": "text/csv"
+        }
+      }
+    },
+
+    "projections": {
+      "pt": {
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=442869410&single=true&output=csv",
+        "mime": "text/csv"
+      }
+    },
+
+    "world": "https://corona.lmao.ninja/all",
+    "countries": "https://corona.lmao.ninja/countries",
+    "historical": {
+      "url": "https://corona.lmao.ninja/v2/historical/{iso2}",
+      "mime": "application/json"
+    },
+    "population": "https://d6wn6bmjj722w.population.io/1.0/population/2020/{{name}}"
+  }
+}
