@@ -10,6 +10,7 @@
     "update:world": "ts-node src/update-world",
     "update:countries": "ts-node src/update-countries",
     "update:events": "ts-node src/update-events",
+    "deploy": "aws s3 sync ./data s3://api.covid19pt.info/dev",
     "test": "jest"
   },
   "keywords": [],
