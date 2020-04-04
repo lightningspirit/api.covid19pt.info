@@ -38,10 +38,9 @@ jobs:
         CI: true
 
     - name: Deploy
-      run: |
-        npm run deploy --if-present
-      env:
-        CI: true
-        AWS_S3_BUCKET_NAME: ${{ secrets.AWS_BUCKET_DEV }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      uses: chrislennon/action-aws-cli@v1.1
+      run: aws s3 sync ./data s3://api.covid19pt.info/dev
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
