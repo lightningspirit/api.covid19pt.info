@@ -6,21 +6,29 @@ import Average from "../math/Average"
 import Growth from "../math/Growth"
 import PerMillionOfPopulation from "../math/PerMillionOfPopulation"
 
-export default (stats: Stats[], population: number) => {
-  const metrics = [
-    'cases.confirmed',
-    'cases.active',
-    //'cases.nonConfirmed',
-    //'cases.suspects',
-    'recovered',
-    'deaths',
-  ]
+export default (stats: Stats[], metrics = [
+  'cases.confirmed',
+], {
+  enablePerOneMillion = false,
+  enableToday = false,
+  enableGrowth = false,
+  enableDoublingTime = false,
+  enable5dayAvg = false,
+}, population?: number) => {
+
+  if (enablePerOneMillion && !population) {
+    throw new Error('enablePerOneMillion needs population to be filled')
+  }
 
   const growths: {
     [s:string]: number
   }[] = []
 
   const averages: {
+    [s:string]: number
+  }[] = []
+
+  const averagesTodays: {
     [s:string]: number
   }[] = []
 
@@ -42,6 +50,7 @@ export default (stats: Stats[], population: number) => {
 
     growths[index] = {}
     averages[index] = {}
+    averagesTodays[index] = {}
     doublingTime[index] = {}
     perOneMillion[index] = {}
     today[index] = {}
@@ -50,6 +59,7 @@ export default (stats: Stats[], population: number) => {
       const previousRecord = stats[previousOne]
 
       const totalKey = `${key}.total`
+      const todayKey = `${key}.today`
 
       const thisValue = get(record, totalKey)
       const previousValue = get(previousRecord, totalKey)
@@ -64,22 +74,32 @@ export default (stats: Stats[], population: number) => {
       doublingTime[index][key] = isFinite(averages[index][key]) ? DoublingTime(averages[index][key]) : 0
       // @ts-ignore
       perOneMillion[index][key] = PerMillionOfPopulation(get(record, totalKey), population)
+
       // @ts-ignore
       today[index][key] = index > 0
         ? Math.abs(get(record, totalKey) - get(stats[previousOne], totalKey))
         : Number(get(record, totalKey))
+
+      // @ts-ignore
+      averagesTodays[index][key] = get(previousRecord, todayKey)
+        ? Average(today.slice(previousFour, index + 1).map(r => Number(r[key])))
+        : 0
     })
   })
 
   return stats.map((record, index) => {
     metrics.forEach((key) => {
       if (get(record, `${key}.total`)) {
-        set(record, `${key}.perOneMillion`, perOneMillion[index][key])
-        set(record, `${key}.today`, today[index][key])
-        set(record, `${key}.doublingTime`, doublingTime[index][key])
-        set(record, `${key}.growth`, growths[index][key])
+        if (enablePerOneMillion) set(record, `${key}.perOneMillion`, perOneMillion[index][key])
+        if (enableToday) set(record, `${key}.today`, today[index][key])
+        if (enableDoublingTime) set(record, `${key}.doublingTime`, doublingTime[index][key])
+        if (enableGrowth) set(record, `${key}.growth`, growths[index][key])
+        if (enable5dayAvg) set(record, `${key}.avg5days`, averagesTodays[index][key])
       }
     })
+
+    if (record.events?.length === 0)
+      delete record.events
 
     return record
   })

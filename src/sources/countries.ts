@@ -55,7 +55,10 @@ export default ({ url }: { url: string }): Promise<Country[]> =>
             total: recovered,
           },
           hospitalization: {
-            critical,
+            total: 0,
+          },
+          critical: {
+            total: critical,
           },
           metadata: {
             sources: []

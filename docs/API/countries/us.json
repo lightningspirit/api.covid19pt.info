@@ -1,0 +1,222 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/countries/us/"
+    },
+    "regions": {
+      "href": "https://api.covid19pt.info/v6/countries/us/regions/"
+    }
+  },
+  "info": {
+    "code": "us",
+    "name": {
+      "en": "USA",
+      "pt": "Estados Unidos"
+    },
+    "continent": {
+      "en": "North America",
+      "pt": "America do Norte"
+    },
+    "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/us.png",
+    "coordinates": {
+      "latitude": 38,
+      "longitude": -97
+    }
+  },
+  "projections": [
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "nodes": [
+        {
+          "date": "2020-03-16T00:00:00.000Z",
+          "max": 340,
+          "min": 325
+        },
+        {
+          "date": "2020-03-17T00:00:00.000Z",
+          "max": 610,
+          "min": 450
+        },
+        {
+          "date": "2020-03-18T00:00:00.000Z",
+          "max": 827,
+          "min": 616
+        },
+        {
+          "date": "2020-03-19T00:00:00.000Z",
+          "max": 1121,
+          "min": 783
+        },
+        {
+          "date": "2020-03-20T00:00:00.000Z",
+          "max": 1520,
+          "min": 994
+        },
+        {
+          "date": "2020-03-21T00:00:00.000Z",
+          "max": 2060,
+          "min": 1263
+        },
+        {
+          "date": "2020-03-22T00:00:00.000Z",
+          "max": 2794,
+          "min": 1605
+        },
+        {
+          "date": "2020-03-23T00:00:00.000Z",
+          "max": 3788,
+          "min": 2039
+        },
+        {
+          "date": "2020-03-24T00:00:00.000Z",
+          "max": 5136,
+          "min": 2591
+        },
+        {
+          "date": "2020-03-25T00:00:00.000Z",
+          "max": 6964,
+          "min": 3291
+        },
+        {
+          "date": "2020-03-26T00:00:00.000Z",
+          "max": 9442,
+          "min": 4181
+        },
+        {
+          "date": "2020-03-27T00:00:00.000Z",
+          "max": 12802,
+          "min": 5312
+        },
+        {
+          "date": "2020-03-28T00:00:00.000Z",
+          "max": 17359,
+          "min": 6749
+        }
+      ]
+    },
+    {
+      "date": "2020-03-26T00:00:00.000Z",
+      "nodes": [
+        {
+          "date": "2020-03-27T00:00:00.000Z",
+          "max": 4697,
+          "min": 4309
+        },
+        {
+          "date": "2020-03-28T00:00:00.000Z",
+          "max": 5991,
+          "min": 5284
+        },
+        {
+          "date": "2020-03-29T00:00:00.000Z",
+          "max": 7598,
+          "min": 6053
+        },
+        {
+          "date": "2020-03-30T00:00:00.000Z",
+          "max": 9200,
+          "min": 7357
+        },
+        {
+          "date": "2020-03-31T00:00:00.000Z",
+          "max": 11812,
+          "min": 8524
+        },
+        {
+          "date": "2020-04-01T00:00:00.000Z",
+          "max": 14753,
+          "min": 9779
+        },
+        {
+          "date": "2020-04-02T00:00:00.000Z",
+          "max": 17830,
+          "min": 11113
+        },
+        {
+          "date": "2020-04-03T00:00:00.000Z",
+          "max": 21865,
+          "min": 12511
+        },
+        {
+          "date": "2020-04-04T00:00:00.000Z",
+          "max": 26066,
+          "min": 14382
+        }
+      ]
+    }
+  ],
+  "population": {
+    "everyone": {
+      "females": 166044400,
+      "males": 163147100,
+      "total": 329191900
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 38642000,
+        "males": 40263000,
+        "total": 78906000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 41999000,
+        "males": 43685000,
+        "total": 85681000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 39701000,
+        "males": 39518000,
+        "total": 79217000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 31457000,
+        "males": 28100000,
+        "total": 59559000
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 7018400,
+        "males": 4515100,
+        "total": 11533900
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-04-03T16:28:51.044Z",
+      "cases": {
+        "confirmed": {
+          "total": 259750,
+          "perOneMillion": 785,
+          "doublingTime": 3.4779974054677174,
+          "growth": 0.05777271,
+          "today": 1431
+        },
+        "active": {
+          "total": 241175
+        }
+      },
+      "deaths": {
+        "total": 6603,
+        "perOneMillion": 20
+      },
+      "recovered": {
+        "total": 11972
+      },
+      "hospitalization": {
+        "critical": 5781
+      },
+      "metadata": {
+        "sources": []
+      }
+    }
+  ]
+}

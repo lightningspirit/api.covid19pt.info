@@ -1,18 +1,11 @@
-export enum AgeGroups {
-  _0019 = "0-19",
-  _2039 = "20-39",
-  _4059 = "40-59",
-  _6079 = "60-79",
-  _80 = "80+"
-}
+export type AgeGroups = "0-19" | "20-39" | "40-59" | "60-79" | "80+"
 
 export interface Total {
-  total: number | null
+  total: number
   perOneMillion?: number
   today?: number
   doublingTime?: number
   growth?: number
-  avg5days?: number
 }
 
 export interface Source {
@@ -21,7 +14,7 @@ export interface Source {
 }
 
 export type Localized = {
-  [s:string]: string
+  [s: string]: string
 }
 
 export interface Category {
@@ -49,26 +42,28 @@ export interface Stats {
     confirmed: Total
     active?: Total
     nonConfirmed?: Total
-    imported?: Total
-    exposure?: Total
+    imported?: number
+    exposure?: number
     suspects?: Total
-    surveillance?: Total,
+    surveillance?: Total
   }
   deaths?: Total
   recovered?: Total
   transmission?: {
     knownChains?: number
     fromCountries?: {
-      [s:string]: number
+      [s: string]: number
     }
-  },
-  hospitalization?: Total,
-  critical?: Total,
-  testing?: Total & {
-    total: number
-    waiting?: number,
-  },
-  groups?: Stats[],
+  }
+  hospitalization?: {
+    total?: number
+    critical?: number
+  }
+  testing?: {
+    total?: number
+    waiting?: number
+  }
+  groups?: Stats[]
   events?: Event[]
   metadata?: {
     sources?: Source[]
@@ -96,13 +91,13 @@ export interface Population {
     males: number
     total: number
   }
-  groups: ({
+  groups: {
     type: "age-group"
     label: AgeGroups
     females: number
     males: number
     total: number
-  })[]
+  }[]
 }
 
 export interface World {
@@ -124,22 +119,24 @@ export interface Country {
   projections?: Projection[]
 }
 
-export type Id<T> = {[K in keyof T]: T[K]}
+export type Id<T> = { [K in keyof T]: T[K] }
 
 export type HalLinks = {
   self: {
     title?: string
     href: string
-  },
-  [s:string]: {
+  }
+  [s: string]: {
     title?: string
     href: string
     templated?: boolean
   }
 }
 
-export type Hal<T, E> = T | {
-    title?: string
-    _embedded?: E
-    _links?: HalLinks
-  }
+export type Hal<T, E> =
+  | T
+  | {
+      title?: string
+      _embedded?: E
+      _links?: HalLinks
+    }

@@ -1,0 +1,62 @@
+{
+  "title": "Current Countries Statistics",
+  "_links": {
+    "self": {
+      "title": "Current Countries Statistics",
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  },
+  "_embedded": [
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.covid19pt.info/v6/countries/us"
+        }
+      },
+      "info": {
+        "code": "us",
+        "name": {
+          "en": "USA",
+          "pt": "Estados Unidos"
+        },
+        "continent": {
+          "en": "North America",
+          "pt": "America do Norte"
+        },
+        "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/us.png",
+        "coordinates": {
+          "latitude": 38,
+          "longitude": -97
+        }
+      },
+      "stats": {
+        "date": "2020-04-03T16:28:51.044Z",
+        "cases": {
+          "confirmed": {
+            "total": 259750,
+            "perOneMillion": 785,
+            "doublingTime": 3.4779974054677174,
+            "growth": 0.05777271,
+            "today": 1431
+          },
+          "active": {
+            "total": 241175
+          }
+        },
+        "deaths": {
+          "total": 6603,
+          "perOneMillion": 20
+        },
+        "recovered": {
+          "total": 11972
+        },
+        "hospitalization": {
+          "critical": 5781
+        },
+        "metadata": {
+          "sources": []
+        }
+      }
+    }
+  ]
+}

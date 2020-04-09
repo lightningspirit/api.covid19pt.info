@@ -1,6 +1,7 @@
 import { InsightsApiResponse, Feed } from "../types";
 import fetcher from "../fetcher";
 import { Stats, Localized } from "../api.types";
+import isNumeric from "../math/isNumeric";
 
 export interface Historical {
   info: {
@@ -60,10 +61,14 @@ export default (feed: Feed) =>
         }
 
       if (Imported !== undefined)
-        result.cases.imported = Number(Imported)
+        result.cases.imported = {
+          total: Number(Imported)
+        }
 
       if (Exposure !== undefined)
-        result.cases.exposure = Number(Exposure)
+        result.cases.exposure = {
+          total: Number(Exposure)
+        }
 
       if (Surveillance !== undefined)
         result.cases.surveillance = {
@@ -72,32 +77,35 @@ export default (feed: Feed) =>
 
       if (Deaths !== undefined)
         result.deaths = {
-          total: Number(Deaths),
+          total: isNumeric(Deaths) ? Number(Deaths) : null,
         }
 
-      if (Recovered !== undefined)
+      if (Recovered !== undefined) {
         result.recovered = {
-          total: Number(Recovered),
+          total: isNumeric(Recovered) ? Number(Recovered) : null,
         }
-
-      if (Hospitalized !== undefined || Critical !== undefined) {
-        result.hospitalization = {}
-
-        if (Hospitalized !== undefined)
-          result.hospitalization.total = Number(Hospitalized)
-
-        if (Critical !== undefined)
-          result.hospitalization.critical = Number(Critical)
       }
 
-      if (Testing !== undefined || Waiting !== undefined) {
-        result.testing = {}
+      if (Hospitalized !== undefined) {
+        result.hospitalization = {
+          total: isNumeric(Hospitalized) ? Number(Hospitalized) : null,
+        }
 
-        if (Testing !== undefined)
-          result.testing.total = Number(Testing)
+        if (Critical !== undefined) {
+          result.critical = {
+            total: isNumeric(Critical) ? Number(Critical) : null,
+          }
+        }
+      }
 
-        if (Waiting !== undefined)
+      if (Testing !== undefined) {
+        result.testing = {
+          total: Number(Testing)
+        }
+
+        if (Waiting !== undefined) {
           result.testing.waiting = Number(Waiting)
+        }
       }
 
       if (Reference)

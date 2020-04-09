@@ -7,7 +7,15 @@ const config: Config = require('../config.json')
 describe('insights', () => {
   it('gets first portuguese day', async () => {
     return insights(config.urls.insights['pt'].country)
-    .then((stats) => normalizer(stats, 10000000))
+    .then((stats) => normalizer(stats, [
+      'cases.confirmed',
+    ], {
+      enablePerOneMillion: true,
+      enableToday: true,
+      enableDoublingTime: true,
+      enableGrowth: true,
+      enable5dayAvg: false
+    }, 10000000))
     .then((stats) => {
       expect(stats.length).toBeGreaterThan(10)
       expect(stats[0]).toMatchObject({
@@ -23,8 +31,12 @@ describe('insights', () => {
           active: {
             total: 4
           },
-          exposure: 2,
-          imported: 2,
+          exposure: {
+            total: 2
+          },
+          imported: {
+            total: 2
+          },
           nonConfirmed: {
             total: 0,
           },
@@ -47,8 +59,10 @@ describe('insights', () => {
         transmission: {
           knownChains: 0
         },
+        critical: {
+          total: 0,
+        },
         hospitalization: {
-          critical: 0,
           total: 0,
         }
       })
@@ -57,7 +71,15 @@ describe('insights', () => {
 
   it('gets 10th portuguese day', async () => {
     return insights(config.urls.insights['pt'].country)
-    .then((stats) => normalizer(stats, 10000000))
+    .then((stats) => normalizer(stats, [
+      'cases.confirmed',
+    ], {
+      enablePerOneMillion: true,
+      enableToday: true,
+      enableDoublingTime: true,
+      enableGrowth: true,
+      enable5dayAvg: false
+    }, 10000000))
     .then((stats) => {
       expect(stats[9]).toMatchObject({
         date: new Date("2020-03-12T00:00:00.000Z"),
@@ -72,8 +94,12 @@ describe('insights', () => {
           active: {
             total: 78
           },
-          exposure: 59,
-          imported: 18,
+          exposure: {
+            total: 59
+          },
+          imported: {
+            total: 18
+          },
           nonConfirmed: {
             total: 0,
           },
@@ -96,8 +122,10 @@ describe('insights', () => {
         transmission: {
           knownChains: 6
         },
+        critical: {
+          total: 0,
+        },
         hospitalization: {
-          critical: 0,
           total: 69,
         }
       })

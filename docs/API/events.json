@@ -1,0 +1,2522 @@
+{
+  "title": "Events Timeline for all countries",
+  "_links": {
+    "self": {
+      "href": "https://api.covid19pt.info/v6/events/",
+      "title": "Events Timeline"
+    },
+    "parent": {
+      "href": "https://api.covid19pt.info/v6/"
+    }
+  },
+  "_embedded": [
+    {
+      "date": "2020-03-27T00:00:00.000Z",
+      "title": {
+        "pt": "Trabalho a partir de casa prolongado até 3 de Abril",
+        "en": "Work from home extended till 3 April"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "dailymirror.lk",
+        "url": "http://www.dailymirror.lk/breaking_news/Work-from-Home-period-extended/108-185673"
+      }
+    },
+    {
+      "date": "2020-03-25T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal inicia fase de mitigação em 25/03 00:00",
+        "en": "Portugal starts mitigation phase on 25/03 00:00"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": {
+        "name": "dn.pt",
+        "url": "https://www.dn.pt/pais/2995-infetados-43-mortos-e-22-recuperados-da-covid-19-em-portugal-11982067.html"
+      }
+    },
+    {
+      "date": "2020-03-24T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "UK orders lockdown, with a ban on gatherings of more than two people, strict limits on exercise and closure non essential comerce"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "uk"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/mar/23/boris-johnson-orders-uk-lockdown-to-be-enforced-by-police"
+      }
+    },
+    {
+      "date": "2020-03-24T00:00:00.000Z",
+      "title": {
+        "pt": "Itália decreta sancções pesadas para infractores das medidas de quarentena",
+        "en": "Italy decrees heavy penalties for infractors of quarentine measures"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "repubblica.it",
+        "url": "https://www.repubblica.it/politica/2020/03/24/news/coronavirus_multe_fino_a_4mila_euro_per_chi_non_rispetta_i_divieti_ecco_la_bozza_all_esame_del_cdm-252168876/?ref=RHPPTP-BH-I252111706-C12-P10-S1.12-T1"
+      }
+    },
+    {
+      "date": "2020-03-23T00:00:00.000Z",
+      "title": {
+        "pt": "2 novos centros de testes abrem em Lisboa",
+        "en": "2 new testing centers open in Lisbon"
+      },
+      "category": {
+        "id": 20
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": {
+        "name": "publico.pt",
+        "url": "https://www.publico.pt/2020/03/23/local/noticia/coronavirus-centros-rastreio-ja-existem-portugal-1909029"
+      }
+    },
+    {
+      "date": "2020-03-22T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha inaugura hospital temporario COVID em Madrid",
+        "en": "Spain opens field hospital on Madrid Ifema centre, which took in its first patients over the weekend, could accommodate 5,500 people"
+      },
+      "category": {
+        "id": 9
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-22T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha prolonga estado de emergencia até 11 Abril",
+        "en": "Spain extends state of emergency till 11 April"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "euronews.com",
+        "url": "https://www.euronews.com/2020/03/22/covid-19-spain-extends-state-of-emergency-until-11-april"
+      }
+    },
+    {
+      "date": "2020-03-22T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Germany bans groups of more than 2 persons"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "de"
+      },
+      "source": {
+        "name": "bbc.com",
+        "url": "https://www.bbc.com/news/world-europe-51999080?intlink_from_url=https://www.bbc.com/news/topics/c302m85qenvt/spain&link_location=live-reporting-story"
+      }
+    },
+    {
+      "date": "2020-03-22T00:00:00.000Z",
+      "title": {
+        "pt": "Itália ordena todas os negócios a encerrar todas as actividades não essenciais",
+        "en": "Italy orders businesses to close all operations “non-essential production activities”"
+      },
+      "category": {
+        "id": 17
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/live/2020/mar/21/coronavirus-live-updates-deaths-jump-in-spain-and-italy-millions-locked-down-in-us"
+      }
+    },
+    {
+      "date": "2020-03-21T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka curfew extended in Colombo, Gampaha & Puttalam till Tuesday 24/3"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "dailymirror.lk",
+        "url": "http://www.dailymirror.lk/breaking_news/Curfew-extended-in-Colombo--Gampaha---Puttalam-till-Tuesday/108-185443"
+      }
+    },
+    {
+      "date": "2020-03-21T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Imposed quarantine measures on Bavaria, Saarland, Rhineland-Palatinate, Hamburg, Lower Saxony and Hesse (partial lockdown)"
+      },
+      "category": {
+        "id": 7
+      },
+      "country": {
+        "code": "de"
+      },
+      "source": {
+        "name": "dw.com",
+        "url": "https://www.dw.com/en/germany-reports-few-violations-as-states-impose-coronavirus-lockdowns/a-52871927"
+      }
+    },
+    {
+      "date": "2020-03-21T00:00:00.000Z",
+      "title": {
+        "pt": "Centros de testes gratuitos abrem em Lisboa, Cascais e Gaia",
+        "en": "Free Testing centres open in Lisboa, Cascais e Gaia (Portugal)"
+      },
+      "category": {
+        "id": 20
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "Itália bane todos os desportos ao ar livre, e todos os parques instruidos a encerrar",
+        "en": "Italy banned open-air sports and running. Parks, playgrounds and public green were closed down. Movement across the country was further restricted, by banning \"any movement towards a residence different from the main one\""
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "ilpost.it",
+        "url": "https://www.ilpost.it/2020/03/20/ordinanza-coronavirus-attivita-sportiva-correre/"
+      }
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "Exército Italiano chamado a auxiliar o cumprimento do bloqueio",
+        "en": "Italian army called to enforced lockdown"
+      },
+      "category": {
+        "id": 8
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "edition.cnn.com",
+        "url": "https://edition.cnn.com/2020/03/20/europe/italy-military-coronavirus-intl/index.html"
+      }
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka declares 'work from home' till 27/3"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "dailymirror.lk",
+        "url": "http://www.dailymirror.lk/breaking_news/Govt--declares-one-week-as-%E2%80%98work-from-home%E2%80%99/108-185320"
+      }
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "UK closes schools"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "uk"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Australia closes its borders to all but citizens and residents"
+      },
+      "category": {
+        "id": 4
+      },
+      "country": {
+        "code": "au"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "Testes COVID em Itália atingem os 206 mil",
+        "en": "Italy total COVID tests performed reaches 206 k (3499 tests per 1 million habitants)"
+      },
+      "category": {
+        "id": 20
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal encerra todos o comércio não essencial",
+        "en": "Portugal closes all non essential commerce"
+      },
+      "category": {
+        "id": 17
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-19T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "London closes dozens of tube stations"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "uk"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-19T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "New Zealand closes borders to all but citizens and residents"
+      },
+      "category": {
+        "id": 4
+      },
+      "country": {
+        "code": "nz"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-19T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal declara estado de emergência",
+        "en": "Portugal Declares State of Emergency"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-19T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka airports closed from 19/3"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "colombopage.com",
+        "url": "http://www.colombopage.com/archive_20A/Mar18_1584540693CH.php"
+      }
+    },
+    {
+      "date": "2020-03-19T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka imposes nation wide curfew from 19/3"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "channelnewsasia.com",
+        "url": "https://www.channelnewsasia.com/news/asia/coronavirus-covid19-sri-lanka-curfew-south-asia-12561500"
+      }
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "Total de testes ao COVID em Espanha atinge os 30 mil",
+        "en": "Spain total COVID tests performed reaches 30k (645 tests per 1 million habitants)"
+      },
+      "category": {
+        "id": 20
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "ourworldindata.org",
+        "url": "https://ourworldindata.org/covid-testing"
+      }
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Bans on flights to and from Italy, Spain, Germany, UK, the US, South Korea, Iran and China from Wednesday"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "za"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/mar/16/coronavirus-at-a-glance"
+      }
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Ban on indoor gatherings of more than 100 people, a global do-not-travel order, and strict new rules for visiting aged care homes"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "au"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/mar/18/coronavirus-latest-at-a-glance"
+      }
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Two Canadian provinces have called a state of emergency"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ca"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/mar/18/coronavirus-latest-at-a-glance"
+      }
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "non-residents will be banned from entering the country from midnight"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "tw"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/mar/18/coronavirus-latest-at-a-glance"
+      }
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "Centros de testes gratuitos abrem no Porto",
+        "en": "Free Testing centres open in Porto (Portugal)"
+      },
+      "category": {
+        "id": 20
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-18T00:00:00.000Z",
+      "title": {
+        "pt": "Governo Português estabelece cerca sanitária a Ovar",
+        "en": "Portuguese Government establishes Health Block to Ovar"
+      },
+      "category": {
+        "id": 7
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-17T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka extends holidays till 19/3 as measures against corona virus"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "dailymirror.lk",
+        "url": "http://www.dailymirror.lk/article/Govt.-decl-185128.html"
+      }
+    },
+    {
+      "date": "2020-03-17T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Australians urged by government to come home"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "au"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/mar/17/coronavirus-latest-at-a-glance-tuesday"
+      }
+    },
+    {
+      "date": "2020-03-17T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "WHO calls for urgent, aggressive actions to combat COVID-19, as cases soar in South-East Asia Region"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-03-17T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Brazil's Bolsonaro calls preventive coronavirus measures 'hysteria'"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "br"
+      },
+      "source": {
+        "name": "edition.cnn.com",
+        "url": "https://edition.cnn.com/2020/03/17/americas/coronavirus-brazil-bolsonaro-intl/index.html"
+      }
+    },
+    {
+      "date": "2020-03-17T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha encerra todas as fronteiras",
+        "en": "Spain closes all borders"
+      },
+      "category": {
+        "id": 6
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "elpais.com",
+        "url": "https://elpais.com/espana/2020-03-16/espana-restablece-las-fronteras-y-prohibe-la-entrada-a-los-no-residentes-salvo-causa-de-fuerza-mayor.html"
+      }
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal mantêm 800 escolas abertas para prestar apoio, aulas e refeições aos filhos dos trabalhadores de emergência",
+        "en": "Portugal keeps 800 schools open to ensure day-care and classes to children of emergency workers and meals to children who need it"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal entra na fase de mitigação; todos os casos suspeitos serão testados",
+        "en": "Portugal enters mitigation stage; all suspected patients will be tested"
+      },
+      "category": {
+        "id": 20
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "France imposes limitation to travel within the country"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "fr"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Malaysia imposes nationwide movement control order"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "my"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "New York City to limit restaurants, bars and cafes to serve only take-out and delivery"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha institui estado de emergencia",
+        "en": "Spain decrees state of emergency, placing the country in lockdown and ordering people to stay at home for the next two weeks unless they have to buy food or medicine or go to work or hospital."
+      },
+      "category": {
+        "id": 8
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "nytimes.com",
+        "url": "https://www.nytimes.com/2020/03/14/world/europe/spain-coronavirus.html"
+      }
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal e Espanha cancela todos os vôos entre os dois países, e reinstala fronteiras terrestres",
+        "en": "Portugal and Spain cancel all flights between the two countries and reinstate border controls"
+      },
+      "category": {
+        "id": 6
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Reported that Roughly 5 million people in China lost their jobs in the first 2 months of 2020"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Germany shuts its borders with Austria, Switzerland, France, Luxembourg and Denmark"
+      },
+      "category": {
+        "id": 6
+      },
+      "country": {
+        "code": "de"
+      },
+      "source": {
+        "name": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2020/03/coronavirus-travel-restrictions-border-shutdowns-country-200318091505922.html"
+      }
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Germany closes Schools"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "de"
+      },
+      "source": {
+        "name": "spiegel.de",
+        "url": "https://www.spiegel.de/international/germany/the-shutdown-begins-across-germany-a-3c541d1d-1d42-4672-9fdc-af6c3247df76"
+      }
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Norway closes borders to all foreigners"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "no"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Czech Republic closes borders to all foreigners"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cz"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Ecuador closes land borders"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ec"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri lanka closes all museums from 16/3"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "srilanka.travel",
+        "url": "https://srilanka.travel/covid19/"
+      }
+    },
+    {
+      "date": "2020-03-16T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri lanka declared 16/3 public holiday as corona virus measure"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "dailymirror.lk",
+        "url": "http://www.dailymirror.lk/breaking_news/Monday-declared-a-public-holiday/108-185000"
+      }
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka bans Public Gatherings"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "srilanka.travel",
+        "url": "https://srilanka.travel/covid19/"
+      }
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha proibi deslocações não essenciais",
+        "en": "Spains forbids non essential travelling"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "elpais.com",
+        "url": "https://elpais.com/espana/2020-03-14/el-gobierno-prohibe-todos-los-viajes-que-no-sean-de-fuerza-mayor.html"
+      }
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka puts temporary travel ban on France, Spain, Germany, Switzerland, Denmark, Netherlands, Sweden and Austria"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "dailymirror.lk",
+        "url": "http://www.dailymirror.lk/top_story/Temporary-travel-ban-on-eight-more-EU-countries/155-184935#.XmuBcj3fyo8.whatsapp"
+      }
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Vietnam stops issuing tourist visas to citizens from Europe’s Schengen area and Britain"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "vn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "All arrivals to New Zealand – including its citizens – will have to self-isolate"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "nz"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "New York closes schools"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "California governor Gavin Newsom ordered all clubs and bars in the state to close and called for anyone aged 65 or older to stay at home"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Denmark closes borders to foreigners"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "dk"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Poland closes all borders to foreigners"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "pl"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Saudi Arabia cancels all incoming international flights"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "sa"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal encerra todos os museus e monumentos nacionais",
+        "en": "Portugal closes all museums and national monuments"
+      },
+      "category": {
+        "id": 10
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Austria forbids gatherings of more than 5 people"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "at"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "In the USA, twenty-nine states, including New York, Massachusetts, South Carolina and Hawaii, announce school closures."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal instrui todos os bares a encerrar às 21h",
+        "en": "Portugal decrees that all bars will close by 21h00"
+      },
+      "category": {
+        "id": 17
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "Autoridade maritima portuguesa encerra todas as praias a grupos de pessoas",
+        "en": "Portuguese Maritime Authority closes all beaches to groups of people"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Colombia closes land border with Venezuela"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "co"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Russia closes borders with Norway and Poland"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ru"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal inicia verificações aleatórias nas fronteiras terrestres",
+        "en": "Portugal start random checks at land borders"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Ban foreigners from entering the country by land, sea or air. Gatherings larger than 30 people have also been banned"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ec"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha encerra bares e restauração em Madrid",
+        "en": "Spain closes bars/restaurantes in Madrid"
+      },
+      "category": {
+        "id": 17
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "elpais.com",
+        "url": "https://elpais.com/espana/madrid/2020-03-13/madrid-clausura-las-terrazas-por-el-coronavirus-y-recomienda-cerrar-los-bares.html"
+      }
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri Lanka imposes a travel ban on all passengers from South Korea, Italy and Iran"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "newsfirst.lk",
+        "url": "https://www.newsfirst.lk/2020/03/13/travel-ban-on-all-passengers-from-south-korea-iran-and-italy/"
+      }
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Self-declaration Forms for All Travellers"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "srilanka.travel",
+        "url": "https://srilanka.travel/covid19/"
+      }
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Sri lanka closes all schools from 13/March"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "lk"
+      },
+      "source": {
+        "name": "colombopage.com",
+        "url": "http://www.colombopage.com/archive_20A/Mar12_1584022514CH.php"
+      }
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Venezuela suspended European flights"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ve"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Colombia suspended European flights."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "co"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Paraguay suspended European flights"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "py"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Bolivia suspended European flights"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "bo"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Peru suspended European flights"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "pe"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Argentina suspends links with the most badly affected countries"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ar"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Guatemala said it will ban arrivals from the United States and Canada"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "gt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Cambodia will refuse entry to citizens from Italy, Germany, Spain, France, and the United States"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "kh"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "International flights with enhanced screening. Ban cruise ships with 500 people from docking"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ca"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "The World Health Organization states that Europe “has now become the epicentre” of the pandemic"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal ordena Estado de Alerta, solicitando toda a população a limitar movimentos e empresas e promover trabalho remoto",
+        "en": "Portugal orders State of Alert requesting all population to limit their movement, and companies to promote remote work"
+      },
+      "category": {
+        "id": 1
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "Igreja Portuguesa cancela todas as missas",
+        "en": "Portuguese church cancels all masses"
+      },
+      "category": {
+        "id": 15
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal ordena encerramento de todas as discotecas e clubes nocturnos",
+        "en": "Portugal orders closing of Discos and Nightclubs"
+      },
+      "category": {
+        "id": 17
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-13T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal ordena encerramento de escolas, limitação de utilizadores nos centros comerciais, distanciamento em restaurantes, e cancela visitas a instituições de terceira idade",
+        "en": "Portugal orders closing of schools, reduced footfall at shopping centres, distancing at restaurants and stops visits to elderly care institutions"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "title": {
+        "pt": "Itália encerra todo o comércio não essencial",
+        "en": "Italy closes all non-essential commerce"
+      },
+      "category": {
+        "id": 17
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "wsj.com",
+        "url": "https://www.wsj.com/articles/italy-hardens-nationwide-quarantine-11583962093"
+      }
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "UK moves from ‘contain’ to ‘delay’ phase"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "uk"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Closes schools, universities and childcare facilities"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ie"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Venezuela cancels flights from Europe and Colombia and bans public gatherings"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ve"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha encerra todos os portos a navios de cruzeiro e a todos os navios provenienetes de Itália",
+        "en": "Spain closed all ports to all cruise ships and all ships from Italy"
+      },
+      "category": {
+        "id": 13
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "eldiario.es",
+        "url": "https://www.eldiario.es/sociedad/Ultima-hora-coronavirus-mundo-Espana_13_1000679924_40477.html"
+      }
+    },
+    {
+      "date": "2020-03-12T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha encerra todas as escolas",
+        "en": "Spains closes all schools"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "eldiario.es",
+        "url": "https://www.eldiario.es/sociedad/suspension-educativos-extiende-comunidades-autonomas_0_1005099938.html"
+      }
+    },
+    {
+      "date": "2020-03-11T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "WHO characterizes COVID-19 as a pandemic"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-03-11T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "USA announced a new restriction on many foreign travellers from 26 countries in Europe"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-11T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha suspende todos os eventos desportivos",
+        "en": "Spain sports events suspended"
+      },
+      "category": {
+        "id": 15
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "elpais.com",
+        "url": "https://elpais.com/deportes/2020-03-12/suspendida-la-liga-por-el-coronavirus.html"
+      }
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "Jogos de futebol em Espanha serão jogados à porta fechada",
+        "en": "Spain football games to be played at closed doors"
+      },
+      "category": {
+        "id": 15
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/football/2020/mar/10/barcelona-to-play-napoli-behind-closed-doors-amid-coronavirus-fears"
+      }
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha suspende todos os vôos de Itália",
+        "en": "Spain suspends all flights from Italy"
+      },
+      "category": {
+        "id": 12
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "elpais.com",
+        "url": "https://elpais.com/economia/2020-03-10/espana-prohibe-los-vuelos-directos-desde-italia.html"
+      }
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "British Airways, easyJet e Ryanair cancelam todos os vôos de e para Itália",
+        "en": "British Airways, easyJet and Ryanair cancelled all flights to and from Italy"
+      },
+      "category": {
+        "id": 12
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal cancela vôos de e para Itália",
+        "en": "Portugal cancels flight to and from Italy"
+      },
+      "category": {
+        "id": 12
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "Munícipio do Porto encerra cinemas, museos, bibliotecas e eventos públicos",
+        "en": "in Portugal, Porto municipality closes theatres, museums, libraries and public events"
+      },
+      "category": {
+        "id": 15
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "Universidades portuguesas iniciam encerramento de aulas presenciais",
+        "en": "Portuguese Universities start to close presential classes"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-10T00:00:00.000Z",
+      "title": {
+        "pt": "Itália coloca todo o pais em isolamento social",
+        "en": "Italy puts the entire country under social isolation"
+      },
+      "category": {
+        "id": 8
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "bbc.com",
+        "url": "https://www.bbc.com/news/in-pictures-51815536"
+      }
+    },
+    {
+      "date": "2020-03-09T00:00:00.000Z",
+      "title": {
+        "pt": "Todo o desporto suspenso em Itália",
+        "en": "All sport in Italy suspended because of outbreak"
+      },
+      "category": {
+        "id": 15
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "bbc.com",
+        "url": "https://www.bbc.com/sport/51808683?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0d2wt/italy&link_location=live-reporting-story"
+      }
+    },
+    {
+      "date": "2020-03-09T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Suspended all schools and universities across the country"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "sa"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal suspende todas as visitas a hospitais, prisões e creches",
+        "en": "Portugal suspends all visits to hospitals, prisons and nursing homes"
+      },
+      "category": {
+        "id": 10
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Saudi authorities locked down the eastern Qatif region"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "sa"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "title": {
+        "pt": "Itália ordena quarentena em toda a Lombardia e outras 14 provincias em Piemonte, Veneto, Emilia-Romagna e Marche",
+        "en": "Italy orders all Lombardi and fourteen provinces in Piedmont, Veneto, Emilia-Romagna, and Marche under forced quarantine"
+      },
+      "category": {
+        "id": 7
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "bbc.com",
+        "url": "https://www.bbc.com/news/world-middle-east-51787238?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0d2wt/italy&link_location=live-reporting-story"
+      }
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "100 000 reported cases of COVID worldwide"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-03-05T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Iranian authorities are to begin manning checkpoints to limit travel between major cities"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ir"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-05T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Universities and schools closed, large public gatherings at theatres, cinemas, museums and sports events have been cancelled in three western regions"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "gr"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-05T00:00:00.000Z",
+      "title": {
+        "pt": "Portugal encerra escolas onde se verificaram casos confirmados",
+        "en": "in Portugal, start selective closing of schools where confirmed cases have occurred"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-05T00:00:00.000Z",
+      "title": {
+        "pt": "Itália encerra todas as escolas e universidades",
+        "en": "Italy closes schools and Universities"
+      },
+      "category": {
+        "id": 11
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "bbc.com",
+        "url": "https://www.bbc.com/news/world-europe-51743697?intlink_from_url=https://www.bbc.com/news/topics/crr7mlg0d2wt/italy&link_location=live-reporting-story"
+      }
+    },
+    {
+      "date": "2020-03-04T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Saudi Arabia banned its citizens and other residents of the kingdom from making the pilgrimage in Mecca"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "sa"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-04T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Iran cancelled Friday prayers in major cities"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ir"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-03T00:00:00.000Z",
+      "title": {
+        "pt": "Todos os eventos desportivos em Itália a realizar à porta fechada",
+        "en": "All italian sporting events to be played at closed doors"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "football-italia.net",
+        "url": "https://www.football-italia.net/150823/official-behind-closed-doors-until-april-3"
+      }
+    },
+    {
+      "date": "2020-03-03T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Canada asks travellers from Iran to self-isolate"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ca"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-03T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Patients infected by the coronavirus start to be transferred from Wuhan No. 5 Hospital to Leishenshan Hospital, the newly-built hospital for COVID-19 patients, in Wuhan."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ch"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-03-02T00:00:00.000Z",
+      "title": {
+        "pt": "Primeiro caso de COVID-19 confirmado em Portugal",
+        "en": "Portugal confirms first case"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": {
+        "name": "expresso.pt",
+        "url": "https://expresso.pt/sociedade/2020-03-02-Ministra-confirma-primeiro-caso-positivo-de-coronavirus-em-Portugal"
+      }
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "title": {
+        "pt": "Território italiano dividido em 3 zonas-niveis de restrições: vermelho toda a pop. em quarentena - Lombardia, amarelo eventos sociais e desportivos cancelados, e restante territorio com medidas de prevenção e sanitização nos transportes públicos",
+        "en": "Italian national territory was divided into three areas: A red zone where the whole population is in quarantine , a yellow zone (composed of the regions of Lombardy, Veneto and Emilia-Romagna), where social and sport events are suspended and schools, theatres, clubs and cinemas are closed. The rest of the national territory, where safety and prevention measures are advertised in public places and special sanitisations are performed on means of public transport."
+      },
+      "category": {
+        "id": 7
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "repubblica.it",
+        "url": "https://www.repubblica.it/politica/2020/03/01/news/coronavirus_misure_governo-249980561/"
+      }
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "title": {
+        "pt": "Autoridade Saúde Portuguesa planeia acções considerando um cenário de 21000 pessoas infectadas simultâneamente, e que 1700 pessoas necessitaram hospitalização",
+        "en": "Portugal Health Authority is working towards a scenario of a maximum of 21,000 simultaneously infected people at the critical week, considering 1700 will be cases requiring hospitalization"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "President Donald Trump announced additional travel restrictions involving Iran and increased warnings about travel to Italy and South Korea"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "The first recorded coronavirus death in the USA"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-28T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Saudi bans foreigners visiting Mecca and Medina"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "sa"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-27T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "The WHO Director-General listed questions every health minister should be able to answer."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-02-26T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Brazil confirmed its first coronavirus case, the first in Latin America."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "br"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "South Korea raises alert level to highest"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "kr"
+      },
+      "source": {
+        "name": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2020/02/coronavirus-south-korea-raises-alert-level-highest-200223132023702.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links"
+      }
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "President of China states that the Coronavirus is \"the most serious health emergency since 1949\""
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Austria suspends trains from and to Italy"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "at"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "title": {
+        "pt": "Quarentena instituida em 11 municípios, na Lombardia e em Veneto",
+        "en": "Quarantine restrictions in 11 Municipalities, in Lombardy and Veneto"
+      },
+      "category": {
+        "id": 7
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "milano.repubblica.it",
+        "url": "https://milano.repubblica.it/cronaca/2020/02/21/news/coronavirus_codogno_castiglione_d_adda_contagiati_misure_sicurezza-249154447/"
+      }
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "WHO Director-General warns that the window of opportunity is “narrowing”"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-02-20T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "South Korea reported its first coronavirus death"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "kr"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-20T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Russia bans entry for Chinese citizens"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ru"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-19T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Iran reported two coronavirus cases"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ir"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-17T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "China schools restart online"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-14T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Egypt confirmed its first coronavirus case, becoming the first country in Africa to be affected by the outbreak"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "eg"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-12T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "UN activates WHO-led Crisis Management Team"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-02-11T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "WHO announced that the disease caused by the new coronavirus will be known by the official name of COVID-19."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-11T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Zeng Yixin, vice-director of the Chinese Health Commission confirms that up to 11 February there were 1716 confirmed cases amongst Chinese medical staff"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "ch"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-11T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Expands strict quarantine screening of 2019-nCoV to Hong Kong, Macao"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "kr"
+      },
+      "source": {
+        "name": "cdc.go.kr",
+        "url": "https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+      }
+    },
+    {
+      "date": "2020-02-10T00:00:00.000Z",
+      "title": {
+        "pt": "Dirk Brockmann da Universidade Humboldt modelou a disseminação do virus e afirma que \"Portugal apresenta muito baixo risco relativamente a casos importados de Coronavirus\" sendo o 61º pais no mundo relativamente a esse risco.",
+        "en": "Dirk Brockmann from Universidade Humboldt modelled the virus spread and states that \"Portugal has a very low risk regarding imported Coronavirus cases\" being 61st in the world regarding such risk."
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "pt"
+      },
+      "source": {
+        "name": "publico.pt",
+        "url": "https://www.publico.pt/2020/02/10/ciencia/noticia/novo-coronavirus-risco-importacao-baixo-portugal-1903618"
+      }
+    },
+    {
+      "date": "2020-02-05T00:00:00.000Z",
+      "title": {
+        "pt": "Em todos os aeroportos italianos instituidas inspecções sanitárias em todos os passageiros vindos fora de Itália",
+        "en": "Health screening procedures at all Italian airports of passengers coming from abroad"
+      },
+      "category": {
+        "id": 14
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "protezionecivile.gov.it",
+        "url": "http://www.protezionecivile.gov.it/web/guest/media-communication/press-release/-/content-view/view/1212896"
+      }
+    },
+    {
+      "date": "2020-02-04T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Local government officials are in charge of managing the people who are self-quarantine\nas 1:1 system."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "kr"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-04T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Belgium confirms first case"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "be"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-02T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "The first coronavirus death reported outside China"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-02-01T00:00:00.000Z",
+      "title": {
+        "pt": "Vôo de evacuação de espanhóis em Wuhan chega a Madrid",
+        "en": "Evacuation flight for Spanish in Wuhan arrives Madrid"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": {
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2020/feb/01/coronavirus-flight-captain-we-were-a-lifeboat-for-people"
+      }
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "title": {
+        "pt": "Espanha confirma primeiro caso",
+        "en": "Spain confirms the first case"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "es"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-30T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Public Health Emergency of International Concern declared by WHO"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "title": {
+        "pt": "Vôos vindos da China suspensos",
+        "en": "Italy imposed a ban on flights from China"
+      },
+      "category": {
+        "id": 12
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": {
+        "name": "forbes.com",
+        "url": "https://www.forbes.com/sites/davekeating/2020/03/12/italy-banned-flights-from-china-before-americait-didnt-work/#7ea9de00481b"
+      }
+    },
+    {
+      "date": "2020-01-30T00:00:00.000Z",
+      "title": {
+        "pt": "Itália confirma 2 casos",
+        "en": "Italy confirms 2 cases"
+      },
+      "category": {
+        "id": 18
+      },
+      "country": {
+        "code": "it"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-29T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Finland confirms first case"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "fi"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-29T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Germany Lufthansa cancel all flights from China"
+      },
+      "category": {
+        "id": 12
+      },
+      "country": {
+        "code": "de"
+      },
+      "source": {
+        "name": "dw.com",
+        "url": "https://www.dw.com/en/germanys-lufthansa-cancels-china-flights-over-coronavirus/a-52190196"
+      }
+    },
+    {
+      "date": "2020-01-28T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Germany confirms first case and requests Germany residents to avoid travelling to China"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "de"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "China confirms that virus is transmitted before infected people show any symptoms"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-24T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Coronavirus arrives to Europe, first case confirmed in France"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "fr"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-24T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "China forces quarantine on 40 million people"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-24T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "China closes visits to the Great Wall and other heritage and touristic sites in Beijing"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-23T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "China placed Wuhan, a city of 11 million people, under quarantine orders"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-21T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "The United States announced its first confirmed coronavirus case"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "us"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-13T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "First case of novel coronavirus outside of China confirmed"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2020-01-11T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "China reported its first known death from an illness caused by the coronavirus."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-07T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "The outbreak was identified as a new coronavirus."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": null
+    },
+    {
+      "date": "2020-01-05T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "WHO reports on pneumonia of unknown cause in China"
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "world"
+      },
+      "source": {
+        "name": "who.int",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      }
+    },
+    {
+      "date": "2019-12-31T00:00:00.000Z",
+      "title": {
+        "pt": "",
+        "en": "Chinese officials in Wuhan in China's central Hubei province confirmed dozens of cases of pneumonia from an unknown cause."
+      },
+      "category": {
+        "id": 0
+      },
+      "country": {
+        "code": "cn"
+      },
+      "source": null
+    }
+  ]
+}

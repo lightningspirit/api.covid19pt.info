@@ -78,20 +78,22 @@ export interface NovelCovidWorldApiResponse {
   updated: number
 }
 
+export interface NovelCovidTimelineApiResponse {
+  cases: {
+    [s:string]: number
+  },
+  deaths: {
+    [s:string]: number
+  },
+  recovered: {
+    [s:string]: number
+  }
+}
+
 export interface NovelCovidHistoricalApiResponse {
   country: string,
   province: string | null
-  timeline: {
-    cases: {
-      [s:string]: number
-    },
-    deaths: {
-      [s:string]: number
-    },
-    recovered: {
-      [s:string]: number
-    }
-  }
+  timeline: NovelCovidTimelineApiResponse
 }
 
 export interface NovelCovidJhucsseApiResponse {

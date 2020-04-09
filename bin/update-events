@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+export PATH=$PATH:/usr/local/bin
+
+./node_modules/.bin/ts-node ./src/update-events.ts
+./node_modules/.bin/ts-node ./src/update-categories.ts
+
+./node_modules/.bin/ts-node ./src/build-events.ts
+./node_modules/.bin/ts-node ./src/build-categories.ts
+
+AWS_PROFILE=myd-prod AWS_REGION=eu-west-1 AWS_BUCKET=api.covid19pt.info API_VERSION=dev ./node_modules/.bin/ts-node ./src/deploy.ts
+AWS_PROFILE=myd-prod AWS_REGION=eu-west-1 AWS_BUCKET=api.covid19pt.info API_VERSION=v6 ./node_modules/.bin/ts-node ./src/deploy.ts

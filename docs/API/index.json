@@ -1,0 +1,85 @@
+{
+  "title": "Current World Statistics",
+  "stats": {
+    "date": "2020-04-03T16:28:51.112Z",
+    "cases": {
+      "confirmed": {
+        "total": 1064510
+      },
+      "active": {
+        "total": 781916
+      }
+    },
+    "deaths": {
+      "total": 56634
+    },
+    "recovered": {
+      "total": 225960
+    },
+    "metadata": {
+      "sources": []
+    }
+  },
+  "population": {
+    "everyone": {
+      "females": 3779220000,
+      "males": 3843668800,
+      "total": 7622894000
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 1181887000,
+        "males": 1263622000,
+        "total": 2445510000
+      },
+      {
+        "type": "age-group",
+        "label": "20-39",
+        "females": 1082653000,
+        "males": 1134089000,
+        "total": 2216743000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 845956000,
+        "males": 849453000,
+        "total": 1695408000
+      },
+      {
+        "type": "age-group",
+        "label": "0-19",
+        "females": 437352000,
+        "males": 392933000,
+        "total": 830286000
+      },
+      {
+        "type": "age-group",
+        "label": "80+",
+        "females": 77822000,
+        "males": 49137800,
+        "total": 126964000
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "title": "Current World Statistics",
+      "href": "https://api.covid19pt.info/v6/"
+    },
+    "events": {
+      "title": "Worldwide Events",
+      "href": "https://api.covid19pt.info/v6/events/"
+    },
+    "categories": {
+      "title": "Event Categories",
+      "href": "https://api.covid19pt.info/v6/categories/"
+    },
+    "countries": {
+      "title": "Current Countries Statistics",
+      "href": "https://api.covid19pt.info/v6/countries/"
+    }
+  }
+}

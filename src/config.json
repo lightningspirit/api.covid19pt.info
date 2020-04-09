@@ -141,18 +141,6 @@
             }
           }
         ]
-      },
-      "es": {
-        "country": {
-          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhKJ3eNeihIGWG6KivI23uoilN8ikTV15Y-nfG7cP5dOMXVOtWZ45D5xJCcC4RdN6-GMZyJwHZh-P_/pub?gid=52799527&single=true&output=csv",
-          "mime": "text/csv"
-        }
-      },
-      "it": {
-        "country": {
-          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhKJ3eNeihIGWG6KivI23uoilN8ikTV15Y-nfG7cP5dOMXVOtWZ45D5xJCcC4RdN6-GMZyJwHZh-P_/pub?gid=1678324696&single=true&output=csv",
-          "mime": "text/csv"
-        }
       }
     },
 
@@ -166,7 +154,7 @@
     "world": "https://corona.lmao.ninja/all",
     "countries": "https://corona.lmao.ninja/countries",
     "historical": {
-      "url": "https://corona.lmao.ninja/v2/historical/{iso2}",
+      "url": "https://corona.lmao.ninja/v2/historical/{iso2}?lastdays=all",
       "mime": "application/json"
     },
     "population": "https://d6wn6bmjj722w.population.io/1.0/population/2020/{{name}}"

@@ -2,7 +2,7 @@ import { Config } from "./types"
 import GetPopulation, { single as GetWorldPopulation } from "./sources/population";
 import { Population } from "./api.types";
 import { ContinentNames } from "./sources/continentPt";
-import { write } from "./data";
+import { write, namespace } from "./data";
 
 const config: Config = require("./config.json");
 
@@ -40,14 +40,15 @@ const config: Config = require("./config.json");
     })
   })
 
-  await write(`population`, {
+  await namespace(`data`)
+  await write(`data/population`, {
     world,
     countries: population
   })
 
   console.log('Saved Population')
 
-  await write(`continents`, continent)
+  await write(`data/continents`, continent)
 
   console.log('Saved Continents')
 

@@ -24,8 +24,12 @@ describe('insights', () => {
           active: {
             total: 4
           },
-          exposure: 2,
-          imported: 2,
+          exposure: {
+            total: 2
+          },
+          imported: {
+            total: 2
+          },
           nonConfirmed: {
             total: 0,
           },
@@ -48,8 +52,10 @@ describe('insights', () => {
         transmission: {
           knownChains: 0
         },
+        critical: {
+          total: 0,
+        },
         hospitalization: {
-          critical: 0,
           total: 0,
         }
       })
@@ -68,8 +74,12 @@ describe('insights', () => {
           active: {
             total: 78
           },
-          exposure: 59,
-          imported: 18,
+          exposure: {
+            total: 59
+          },
+          imported: {
+            total: 18
+          },
           nonConfirmed: {
             total: 0,
           },
@@ -92,8 +102,10 @@ describe('insights', () => {
         transmission: {
           knownChains: 6
         },
+        critical: {
+          total: 0,
+        },
         hospitalization: {
-          critical: 0,
           total: 69,
         }
       })
