@@ -25,7 +25,8 @@
     "@types/csv-parse": "^1.2.2",
     "csv-parse": "^4.8.8",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "simple-text-search": "^1.0.3"
   },
   "devDependencies": {
     "@akud/aws-s3-sync-by-hash": "^1.0.5",
