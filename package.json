@@ -4,17 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/handler.ts",
-    "update": "npm run update:population && npm run update:projections && npm run update:insights && npm run update:events",
-    "update:events": "ts-node src/update-events",
-    "update:insights": "ts-node src/update-insights",
-    "update:population": "ts-node src/update-population",
-    "update:projections": "ts-node src/update-projections",
-    "build:world": "ts-node src/build-world",
-    "build:countries": "ts-node src/build-countries",
-    "build:events": "ts-node src/build-events",
-    "build:categories": "ts-node src/build-categories",
-    "deploy": "ts-node src/deploy",
+    "postinstall": "tsc",
     "test": "jest"
   },
   "keywords": [],

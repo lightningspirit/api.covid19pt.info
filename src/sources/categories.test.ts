@@ -1,7 +1,7 @@
 import categories from "./categories"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('categories', () => {
   it('fetches and parses successfully', async () => {

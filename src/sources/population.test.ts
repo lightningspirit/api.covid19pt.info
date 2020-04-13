@@ -1,7 +1,7 @@
 import { single } from "./population"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('population', () => {
   it('fetches and parses successfully', async () => {

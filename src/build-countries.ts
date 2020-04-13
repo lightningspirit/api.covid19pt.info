@@ -10,7 +10,7 @@ import { write, namespace } from "./data";
 import { resource, collection } from "./responses/Hal";
 import continentPt, { ContinentNames } from "./sources/continentPt";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 const {
   countries: population

@@ -3,7 +3,7 @@ import GetInsights from "./sources/insights";
 import { flatten } from "lodash"
 import { write, namespace } from "./data";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 (async () => {
 

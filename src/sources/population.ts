@@ -4,7 +4,7 @@ import { AgeGroups, Population } from "../api.types";
 import { fromIso3 } from "./countryCode";
 import { ContinentNames } from "./continentPt";
 
-const populationSrc = require("./population.io.json");
+const populationSrc = require("../../population.io.json");
 
 const groupAge = (
   records: PopulationApiResponse[],

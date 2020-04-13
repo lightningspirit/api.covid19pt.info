@@ -3,7 +3,7 @@ import { collection } from "./responses/Hal";
 import { write, namespace } from "./data";
 import { Event } from "./api.types";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 const events = (require(`../data/events.json`) as Event[])
   .map(({date, ...all}) => ({

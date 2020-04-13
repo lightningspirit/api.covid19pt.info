@@ -6,7 +6,7 @@ import { Population } from "./api.types";
 import GetTimeline from "./sources/world-timeline";
 import normalizer from "./normalizer";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 const population: {
   world: Population

@@ -4,7 +4,7 @@ import { Population } from "./api.types";
 import { ContinentNames } from "./sources/continentPt";
 import { write, namespace } from "./data";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 (async () => {
   console.log('Retrieving World Population')

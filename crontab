@@ -1,0 +1,4 @@
+*/15 * * * * source $HOME/.profile; $HOME/api.covid19pt.info/bin/build-world > /dev/null 2>&1
+*/30 * * * * source $HOME/.profile; $HOME/api.covid19pt.info/bin/build-countries > /dev/null 2>&1
+0 */4 * * * source $HOME/.profile; $HOME/api.covid19pt.info/bin/build-events > /dev/null 2>&1
+0 1 * * * source $HOME/.profile; $HOME/api.covid19pt.info/bin/update-population > /dev/null 2>&1

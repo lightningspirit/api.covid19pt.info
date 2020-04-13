@@ -1,7 +1,7 @@
 import insights from "./insights"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('insights', () => {
   it('fetches and parses successfully', async () => {

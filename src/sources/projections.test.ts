@@ -1,7 +1,7 @@
 import projections from "./projections"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('projections', () => {
   it('fetches and parses successfully', async () => {

@@ -1,7 +1,7 @@
 import countries from "./countries"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('countries', () => {
   it('fetches and parses successfully', async () => {

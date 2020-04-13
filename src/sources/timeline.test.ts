@@ -1,7 +1,7 @@
 import timeline from "./timeline"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('historical', () => {
   it('fetches and parses successfully', async () => {

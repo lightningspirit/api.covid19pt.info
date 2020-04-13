@@ -2,7 +2,7 @@ import world from "./world"
 import { Config } from "../types"
 import { Population } from "../api.types";
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 const {
   world: population
 }: {

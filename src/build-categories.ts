@@ -3,7 +3,7 @@ import { collection } from "./responses/Hal";
 import { write, namespace } from "./data";
 import { Category } from "./api.types";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 const categories = require(`../data/categories.json`) as Category[]
 

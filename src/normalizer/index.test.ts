@@ -2,7 +2,7 @@ import normalizer from "."
 import insights from "../sources/insights"
 import { Config } from "../types"
 
-const config: Config = require('../config.json')
+const config: Config = require('../../config.json')
 
 describe('insights', () => {
   it('gets first portuguese day', async () => {

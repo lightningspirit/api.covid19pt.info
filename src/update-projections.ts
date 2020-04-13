@@ -2,7 +2,7 @@ import { Config } from "./types";
 import GetProjections from "./sources/projections"
 import { write, namespace } from "./data";
 
-const config: Config = require("./config.json");
+const config: Config = require("../config.json");
 
 (async () => {
   console.log('Retrieving Projections')

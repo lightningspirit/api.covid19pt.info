@@ -1,5 +1,5 @@
-const CountriesEn = require('./countries-en.json')
-const CountriesPt = require('./countries-pt.json')
+const CountriesEn = require('../../countries-en.json')
+const CountriesPt = require('../../countries-pt.json')
 
 export const en = (CountryCode: string) => {
   const country = CountriesEn.find(({iso2}: {iso2: string}) => iso2 === CountryCode)

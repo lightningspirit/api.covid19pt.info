@@ -3,8 +3,9 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cd $DIR/../
 
-node ./dist/build-world.js
+node ./dist/build-events.js
+node ./dist/build-categories.js
 
 AWS_REGION=eu-west-1 AWS_BUCKET=api.covid19pt.info API_VERSION=v6 node ./dist/deploy.js
 
-echo "World last deployed at $( date )"
+echo "Events last deployed at $( date )"
