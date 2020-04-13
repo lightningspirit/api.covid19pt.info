@@ -6,3 +6,4 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:~/bin
 */30 * * * * ./api.covid19pt.info/bin/build-countries 2>&1 | /usr/bin/logger -t build-countries
 0 */4 * * * ./api.covid19pt.info/bin/build-events 2>&1 | /usr/bin/logger -t build-events
 0 1 * * * ./api.covid19pt.info/bin/update-population 2>&1 | /usr/bin/logger -t build-population
+0 8 * * * ./api.covid19pt.info/bin/update-insights 2>&1 | /usr/bin/logger -t update-insights
