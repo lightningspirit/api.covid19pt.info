@@ -72,9 +72,17 @@ export interface InsightsApiResponse {
 
 export interface NovelCovidWorldApiResponse {
   cases: number
+  todayCases: number
+  casesPerOneMillion: number
   deaths: number
+  todayDeaths: number
+  deathsPerOneMillion: number
+  critical: number
   active: number
   recovered: number
+  tests: number
+  testsPerOneMillion: number
+  affectedCountries: number
   updated: number
 }
 

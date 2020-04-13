@@ -106,7 +106,9 @@ export interface Population {
 }
 
 export interface World {
-  stats: Stats
+  stats: Stats & {
+    affectedCountries?: number
+  }
   population: Population
 }
 
