@@ -1,6 +1,10 @@
-import fetch from "node-fetch";
+import nodeFetch from "node-fetch";
 import parse from "csv-parse";
 import { Feed } from "./types";
+import fetchRetry from "fetch-retry"
+
+// @ts-ignore
+const fetch = fetchRetry(nodeFetch)
 
 export default async <T, E>({
   url,
