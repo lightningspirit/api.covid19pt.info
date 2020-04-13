@@ -26,6 +26,17 @@ const population: {
     population: population.world
   })
 
+  world.stats = normalizer([world.stats], [
+    'cases.confirmed',
+    'cases.active',
+    'recovered',
+    'deaths',
+    'critical',
+    'testing',
+  ], {
+    enablePerOneMillion: true
+  }, population.world.everyone.total)[0]
+
   let timeline = await GetTimeline(config.urls.historical, 'all')
 
   timeline = normalizer(timeline, [
