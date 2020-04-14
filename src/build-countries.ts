@@ -9,6 +9,7 @@ import GetCountryName from "./sources/countryName";
 import { write, namespace } from "./data";
 import { resource, collection } from "./responses/Hal";
 import continentPt, { ContinentNames } from "./sources/continentPt";
+import { merge } from "lodash"
 
 const config: Config = require("../config.json");
 
@@ -151,7 +152,8 @@ const continents: {
     })
 
     if (country.timeline.length > 0) {
-      country.stats = country.timeline[country.timeline.length - 1]
+      const previous = country!.timeline![country.timeline!.length - 1]
+      country.stats = merge(country.stats, previous)
     }
 
     const thisCountryContinent = continents.find(({iso2: i2}) => i2 === iso2)
@@ -195,6 +197,8 @@ const continents: {
           cases: stats?.cases,
           deaths: stats?.deaths,
           recovered: stats?.recovered,
+          critical: stats?.critical,
+          testing: stats?.testing,
         }
       })
     })

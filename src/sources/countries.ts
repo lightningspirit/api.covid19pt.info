@@ -21,6 +21,8 @@ export default ({ url }: { url: string }): Promise<Country[]> =>
         recovered,
         active,
         critical,
+        tests,
+        testsPerOneMillion,
         casesPerOneMillion,
         deathsPerOneMillion,
         updated
@@ -59,6 +61,10 @@ export default ({ url }: { url: string }): Promise<Country[]> =>
           },
           critical: {
             total: critical,
+          },
+          testing: {
+            total: tests,
+            perOneMillion: testsPerOneMillion,
           },
           metadata: {
             sources: []

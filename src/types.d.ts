@@ -153,8 +153,10 @@ export interface NovelCovidCountriesApiResponse {
   recovered: number
   active: number
   critical: number
+  tests: number
   casesPerOneMillion: number
   deathsPerOneMillion: number
+  testsPerOneMillion: number
   updated: number
 }
 
