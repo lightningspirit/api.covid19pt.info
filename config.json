@@ -151,7 +151,7 @@
       }
     },
 
-    "world": "https://corona.lmao.ninja/all",
+    "world": "https://corona.lmao.ninja/v2/all",
     "countries": "https://corona.lmao.ninja/v2/countries",
     "historical": {
       "url": "https://corona.lmao.ninja/v2/historical/{iso2}?lastdays=all",
