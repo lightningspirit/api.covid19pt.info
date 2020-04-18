@@ -1,5 +1,379 @@
 [
   {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Portugal begins another 15 days of state of emergency until April 17. The state of emergency has been in force in Portugal since March 19 and, according to the Constitution, cannot last longer than 15 days, without prejudice to any renewals with the same time limit"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/portugal-begins-another-15-days-of-state-of-emergency/53632"
+    }
+  },
+  {
+    "date": "2020-04-09T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE: Portugal will also shut down all airports for passenger traffic during the Easter period, between the 9th and 13th of this month, except for State, cargo or humanitarian flights."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/portugal-begins-another-15-days-of-state-of-emergency/53632"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:The rules already enacted in the first period of state of emergency remain, including the duty of home isolation, leaving only for strictly necessary situations."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/portugal-begins-another-15-days-of-state-of-emergency/53632"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:The Govt has announced the reinforcement of the means and powers of the Authority for Working Conditions (ACT), allowing that whenever there is evidence of an illegal dismissal, the labour inspector draws up a report and notifies the employer to rectify the situation."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/portugal-begins-another-15-days-of-state-of-emergency/53632"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:Parliament approves legislation providing for moratorium on payment of rent for tenants in difficulties during the state of emergency and the following month"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/portugal-begins-another-15-days-of-state-of-emergency/53632"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:In retail or service establishments that maintain activity, \"a minimum distance of two metres between people\" must be guaranteed."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:Retail or service establishments that continue to operate must give priority to “persons subject to a special duty of protection”, as well as health professionals, members of the security, protection and rescue forces and services, armed forces personnel and the provision of social support services."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:During the validity of the state of emergency, the possibility of terminating the employment contracts of health professionals linked to services and establishments integrated in the National Health Service is temporarily and exceptionally suspended."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:Passenger vehicles have their capacity reduced to one third of the maximum number of seats available to “guarantee the adequate distance between transport users”."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:The Government will take the necessary and indispensable measures to guarantee normality in the “production, transport, distribution and supply of agricultural and livestock goods and services, and those essential to the agrifood chain”."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE:Civil requisition - Any goods or services from legal persons under public or private law that may be necessary to combat the covid-19 pandemic may be requested, namely health equipment, respiratory protection masks or ventilators, which are in stock or which come to produced by decision of health authorities or civil protection authorities."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE: Free movement of goods - Movement restrictions, including in municipalities where a sanitary fence has been determined, do not affect the free movement of goods."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/essential-points-covid-19-restrictions-and-rules-for-renewing-the-state-of-emergency/53630"
+    }
+  },
+  {
+    "date": "2020-04-03T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE: Foreign Minister asks emigrants not to come home"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/foreign-minister-asks-emigrants-not-to-come-home/53617"
+    }
+  },
+  {
+    "date": "2020-04-02T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE: To avoid the spread of coronavirus in prisons, the government decided to give partial pardons to those facing two-year prison sentences or those who only have two years left behind bars."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "usnews.com",
+      "url": "https://www.usnews.com/news/world/articles/2020-04-02/portugal-extends-state-of-emergency-to-halt-spread-of-coronavirus"
+    }
+  },
+  {
+    "date": "2020-04-09T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Extended SoE: Domestic travel banned from April 9-13 (Easter period). People will not be allowed to travel outside the municipalities where they live during the five-day period, except for work reasons"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "usnews.com",
+      "url": "https://www.usnews.com/news/world/articles/2020-04-02/portugal-extends-state-of-emergency-to-halt-spread-of-coronavirus"
+    }
+  },
+  {
+    "date": "2020-04-11T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Government creates temporary structures for victims of domestic violence"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/government-creates-temporary-structures-for-victims-of-domestic-violence/53720"
+    }
+  },
+  {
+    "date": "2020-04-10T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Portugal state of emergency to be extended until May 1"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/portugal-state-of-emergency-to-be-extended-until-may-1/53717"
+    }
+  },
+  {
+    "date": "2020-04-10T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "Civil protection messages sent to 10.5 million mobile phones: “COVID19: Special circulation restrictions 9 to 13 April. This Easter stay at home. Prevent contagion. Info at covid19estamoson.gov.pt / www.prociv.pt / ANEPC ”, was the SMS content received in Portuguese and in English."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/civil-protection-messages-sent-to-105-million-mobile-phones/53708"
+    }
+  },
+  {
+    "date": "2020-04-14T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "The Prime Minister announced today that for students up until the 9th year, the entire third period will continue with distance learning, with assessment, but without tests or exams."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/schools-to-remain-closed-for-majority-of-students/53705"
+    }
+  },
+  {
+    "date": "2020-04-12T00:00:00.000Z",
+    "title": {
+      "pt": "",
+      "en": "The second plane chartered by the Portuguese State to transport medical equipment from China arrived in Lisbon today, with 700,000 respiratory protection masks, visors and gloves, destined for the National Health System, announced the Portuguese embassy."
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "pt"
+    },
+    "source": {
+      "name": "theportugalnews.com",
+      "url": "https://www.theportugalnews.com/news/medical-equipment-arrives-from-china/53728"
+    }
+  },
+  {
+    "date": "2020-04-11T00:00:00.000Z",
+    "title": {
+      "pt": "Itália extende restrições até 3 de Maio",
+      "en": "Italy extends lockdown till 3 May"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "it"
+    },
+    "source": {
+      "name": "theguardian.com",
+      "url": "https://www.theguardian.com/world/2020/apr/11/coronavirus-us-records-2000-dead-in-a-day-as-italy-and-india-extend-lockdowns"
+    }
+  },
+  {
+    "date": "2020-04-13T00:00:00.000Z",
+    "title": {
+      "pt": "Espanha autoriza trabalhadores em  actividades não essenciais a voltar ao trabalho",
+      "en": "Spain allows some non-essential workers to return work"
+    },
+    "category": {
+      "id": 0
+    },
+    "country": {
+      "iso2": "es"
+    },
+    "source": {
+      "name": "theguardian.com",
+      "url": "https://www.theguardian.com/world/2020/apr/11/spain-to-begin-return-to-work-despite-fears-of-resurgence"
+    }
+  },
+  {
     "date": "2020-03-28T00:00:00.000Z",
     "title": {
       "pt": "Espanha ordena trabalho de casa para todos os trabalhadores nao essenciais",
