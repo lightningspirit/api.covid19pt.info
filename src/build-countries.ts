@@ -3,7 +3,7 @@ import GetCountries from "./sources/countries";
 import GetEvents from "./sources/events"
 import GetTimeline from "./sources/timeline";
 import GetProjections from "./sources/projections"
-import { Population, Stats, Event, Projection } from "./api.types";
+import { Population, Stats, Event, Projection, Country } from "./api.types";
 import normalizer from "./normalizer";
 import GetCountryName from "./sources/countryName";
 import { write, namespace } from "./data";
@@ -41,7 +41,12 @@ const continents: {
     url: config.urls.countries
   })
 
-  const normalizedCountries = await Promise.all(countries.map(async country => {
+  const normalizedCountries: Country[] = []
+
+  await namespace('build')
+  await namespace('build/countries')
+
+  for (let country of countries) {
     const { info: { iso2 } } = country
 
     console.log(`Retrieving ${country.info.name.en} Timeline`)
@@ -167,48 +172,10 @@ const continents: {
 
     country.info.name.pt = GetCountryName.pt(iso2) || country.info.name.en
 
-    return country
-  }))
-
-  await namespace('build')
-  await namespace('build/countries')
-
-  await write(`build/countries/index`, collection(
-    "Current Countries Statistics",
-    {
-      self: {
-        href: `${config.apiUrl}/countries/`
-      },
-      country: {
-        templated: true,
-        href: `${config.apiUrl}/countries/{iso2}/`
-      }
-    },
-    normalizedCountries.map(({
-      info, stats
-    }) => {
-      return resource(undefined, {
-        self: {
-          href: `${config.apiUrl}/countries/${info.iso2}/`
-        },
-      }, {
-        info,
-        stats: {
-          cases: stats?.cases,
-          deaths: stats?.deaths,
-          recovered: stats?.recovered,
-          critical: stats?.critical,
-          testing: stats?.testing,
-        }
-      })
+    normalizedCountries.push({
+      info: country.info, stats: country.stats
     })
-  ))
 
-  console.log('Saved Countries Index')
-
-  await namespace('build/countries')
-
-  normalizedCountries.forEach(async country => {
     await namespace(`build/countries/${country.info.iso2}`)
     await write(`build/countries/${country.info.iso2}/index`, resource(
       country.info.name.en,
@@ -247,6 +214,39 @@ const continents: {
     ))
 
     console.log(`Saved ${country.info.name.en}`)
-  })
+  }
+
+  await write(`build/countries/index`, collection(
+    "Current Countries Statistics",
+    {
+      self: {
+        href: `${config.apiUrl}/countries/`
+      },
+      country: {
+        templated: true,
+        href: `${config.apiUrl}/countries/{iso2}/`
+      }
+    },
+    normalizedCountries.map(({
+      info, stats
+    }) => {
+      return resource(undefined, {
+        self: {
+          href: `${config.apiUrl}/countries/${info.iso2}/`
+        },
+      }, {
+        info,
+        stats: {
+          cases: stats?.cases,
+          deaths: stats?.deaths,
+          recovered: stats?.recovered,
+          critical: stats?.critical,
+          testing: stats?.testing,
+        }
+      })
+    })
+  ))
+
+  console.log('Saved Countries Index')
 
 })()
