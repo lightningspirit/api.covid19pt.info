@@ -17576,5 +17576,1875 @@
         }
       }
     ]
+  },
+  {
+    "cases": {
+      "confirmed": {
+        "total": 20206
+      },
+      "nonConfirmed": {
+        "total": 162439
+      },
+      "suspects": {
+        "total": 187604
+      },
+      "active": {
+        "total": 18882
+      },
+      "imported": {
+        "total": 735
+      },
+      "exposure": {
+        "total": 19471
+      },
+      "surveillance": {
+        "total": 27947
+      }
+    },
+    "date": "2020-04-19T00:00:00.000Z",
+    "transmission": {
+      "knownChains": 0
+    },
+    "deaths": {
+      "total": 714
+    },
+    "recovered": {
+      "total": 610
+    },
+    "hospitalization": {
+      "total": 1243
+    },
+    "critical": {
+      "total": 224
+    },
+    "testing": {
+      "total": 260457,
+      "waiting": 4959
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "covid19.min-saude.pt",
+          "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "0-19",
+          "en": "0-19"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 881
+          },
+          "active": {
+            "total": 881
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "20-39",
+          "en": "20-39"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4980
+          },
+          "active": {
+            "total": 4980
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "40-59",
+          "en": "40-59"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 6983
+          },
+          "active": {
+            "total": 6955
+          }
+        },
+        "deaths": {
+          "total": 28
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "60-79",
+          "en": "60-79"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4270
+          },
+          "active": {
+            "total": 4054
+          }
+        },
+        "deaths": {
+          "total": 216
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "80+",
+          "en": "80+"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3092
+          },
+          "active": {
+            "total": 2622
+          }
+        },
+        "deaths": {
+          "total": 470
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Norte",
+          "en": "North"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 12148
+          },
+          "active": {
+            "total": 11739
+          }
+        },
+        "deaths": {
+          "total": 409
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Centro",
+          "en": "Center"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 2923
+          },
+          "active": {
+            "total": 2759
+          }
+        },
+        "deaths": {
+          "total": 164
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Lisboa",
+          "en": "Lisbon"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4500
+          },
+          "active": {
+            "total": 4374
+          }
+        },
+        "deaths": {
+          "total": 126
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Algarve",
+          "en": "Algarve"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 158
+          },
+          "active": {
+            "total": 158
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Madeira",
+          "en": "Madeira"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 61
+          },
+          "active": {
+            "total": 61
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Açores",
+          "en": "Azores"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 106
+          },
+          "active": {
+            "total": 101
+          }
+        },
+        "deaths": {
+          "total": 5
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/48_DGS_boletim_20200419.pdf"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "cases": {
+      "confirmed": {
+        "total": 20863
+      },
+      "nonConfirmed": {
+        "total": 172751
+      },
+      "suspects": {
+        "total": 198353
+      },
+      "active": {
+        "total": 19518
+      },
+      "imported": {
+        "total": 735
+      },
+      "exposure": {
+        "total": 20128
+      },
+      "surveillance": {
+        "total": 30805
+      }
+    },
+    "date": "2020-04-20T00:00:00.000Z",
+    "transmission": {
+      "knownChains": 0
+    },
+    "deaths": {
+      "total": 735
+    },
+    "recovered": {
+      "total": 610
+    },
+    "hospitalization": {
+      "total": 1208
+    },
+    "critical": {
+      "total": 215
+    },
+    "testing": {
+      "total": 270769,
+      "waiting": 4739
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "dgs.pt",
+          "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "0-19",
+          "en": "0-19"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 940
+          },
+          "active": {
+            "total": 940
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "20-39",
+          "en": "20-39"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5231
+          },
+          "active": {
+            "total": 5231
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "40-59",
+          "en": "40-59"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 7180
+          },
+          "active": {
+            "total": 7152
+          }
+        },
+        "deaths": {
+          "total": 28
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "60-79",
+          "en": "60-79"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4380
+          },
+          "active": {
+            "total": 4160
+          }
+        },
+        "deaths": {
+          "total": 220
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "80+",
+          "en": "80+"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3132
+          },
+          "active": {
+            "total": 2645
+          }
+        },
+        "deaths": {
+          "total": 487
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Norte",
+          "en": "North"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 12543
+          },
+          "active": {
+            "total": 12119
+          }
+        },
+        "deaths": {
+          "total": 424
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Centro",
+          "en": "Center"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 2952
+          },
+          "active": {
+            "total": 2788
+          }
+        },
+        "deaths": {
+          "total": 164
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Lisboa",
+          "en": "Lisbon"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4709
+          },
+          "active": {
+            "total": 4579
+          }
+        },
+        "deaths": {
+          "total": 130
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Algarve",
+          "en": "Algarve"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 161
+          },
+          "active": {
+            "total": 161
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Madeira",
+          "en": "Madeira"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 80
+          },
+          "active": {
+            "total": 80
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Açores",
+          "en": "Azores"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 107
+          },
+          "active": {
+            "total": 101
+          }
+        },
+        "deaths": {
+          "total": 6
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-049-20042020-pdf.aspx"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "cases": {
+      "confirmed": {
+        "total": 21379
+      },
+      "nonConfirmed": {
+        "total": 176381
+      },
+      "suspects": {
+        "total": 202769
+      },
+      "active": {
+        "total": 19700
+      },
+      "imported": {
+        "total": 735
+      },
+      "exposure": {
+        "total": 20644
+      },
+      "surveillance": {
+        "total": 30646
+      }
+    },
+    "date": "2020-04-21T00:00:00.000Z",
+    "transmission": {
+      "knownChains": 0
+    },
+    "deaths": {
+      "total": 762
+    },
+    "recovered": {
+      "total": 917
+    },
+    "hospitalization": {
+      "total": 1172
+    },
+    "critical": {
+      "total": 213
+    },
+    "testing": {
+      "total": 274399,
+      "waiting": 5009
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "dgs.pt",
+          "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "0-19",
+          "en": "0-19"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 946
+          },
+          "active": {
+            "total": 946
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "20-39",
+          "en": "20-39"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5362
+          },
+          "active": {
+            "total": 5362
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "40-59",
+          "en": "40-59"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 7290
+          },
+          "active": {
+            "total": 7261
+          }
+        },
+        "deaths": {
+          "total": 29
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "60-79",
+          "en": "60-79"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4462
+          },
+          "active": {
+            "total": 4236
+          }
+        },
+        "deaths": {
+          "total": 226
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "80+",
+          "en": "80+"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3319
+          },
+          "active": {
+            "total": 2812
+          }
+        },
+        "deaths": {
+          "total": 507
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Norte",
+          "en": "North"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 12806
+          },
+          "active": {
+            "total": 12365
+          }
+        },
+        "deaths": {
+          "total": 441
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Centro",
+          "en": "Center"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 2999
+          },
+          "active": {
+            "total": 2828
+          }
+        },
+        "deaths": {
+          "total": 171
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Lisboa",
+          "en": "Lisbon"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4896
+          },
+          "active": {
+            "total": 4763
+          }
+        },
+        "deaths": {
+          "total": 133
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Algarve",
+          "en": "Algarve"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 173
+          },
+          "active": {
+            "total": 173
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Madeira",
+          "en": "Madeira"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 85
+          },
+          "active": {
+            "total": 85
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Açores",
+          "en": "Azores"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 107
+          },
+          "active": {
+            "total": 101
+          }
+        },
+        "deaths": {
+          "total": 6
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-050-21042020-pdf.aspx"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "cases": {
+      "confirmed": {
+        "total": 21982
+      },
+      "nonConfirmed": {
+        "total": 185101
+      },
+      "suspects": {
+        "total": 210302
+      },
+      "active": {
+        "total": 20054
+      },
+      "imported": {
+        "total": 735
+      },
+      "exposure": {
+        "total": 21247
+      },
+      "surveillance": {
+        "total": 30646
+      }
+    },
+    "date": "2020-04-22T00:00:00.000Z",
+    "transmission": {
+      "knownChains": 0
+    },
+    "deaths": {
+      "total": 785
+    },
+    "recovered": {
+      "total": 1143
+    },
+    "hospitalization": {
+      "total": 1146
+    },
+    "critical": {
+      "total": 207
+    },
+    "testing": {
+      "total": 283119,
+      "waiting": 3219
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "dgs.pt",
+          "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "0-19",
+          "en": "0-19"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 1008
+          },
+          "active": {
+            "total": 1008
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "20-39",
+          "en": "20-39"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5532
+          },
+          "active": {
+            "total": 5532
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "40-59",
+          "en": "40-59"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 7510
+          },
+          "active": {
+            "total": 7481
+          }
+        },
+        "deaths": {
+          "total": 29
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "60-79",
+          "en": "60-79"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4582
+          },
+          "active": {
+            "total": 4354
+          }
+        },
+        "deaths": {
+          "total": 228
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "80+",
+          "en": "80+"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3350
+          },
+          "active": {
+            "total": 2822
+          }
+        },
+        "deaths": {
+          "total": 528
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Norte",
+          "en": "North"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 13150
+          },
+          "active": {
+            "total": 12696
+          }
+        },
+        "deaths": {
+          "total": 454
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Centro",
+          "en": "Center"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3053
+          },
+          "active": {
+            "total": 2878
+          }
+        },
+        "deaths": {
+          "total": 175
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Lisboa",
+          "en": "Lisbon"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5093
+          },
+          "active": {
+            "total": 4955
+          }
+        },
+        "deaths": {
+          "total": 138
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Algarve",
+          "en": "Algarve"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 176
+          },
+          "active": {
+            "total": 175
+          }
+        },
+        "deaths": {
+          "total": 1
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Madeira",
+          "en": "Madeira"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 85
+          },
+          "active": {
+            "total": 85
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Açores",
+          "en": "Azores"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 109
+          },
+          "active": {
+            "total": 103
+          }
+        },
+        "deaths": {
+          "total": 6
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "dgs.pt",
+              "url": "https://www.dgs.pt/em-destaque/relatorio-de-situacao-n-051--22042020.aspx"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "cases": {
+      "confirmed": {
+        "total": 22353
+      },
+      "nonConfirmed": {
+        "total": 193447
+      },
+      "suspects": {
+        "total": 219848
+      },
+      "active": {
+        "total": 20332
+      },
+      "imported": {
+        "total": 741
+      },
+      "exposure": {
+        "total": 21612
+      },
+      "surveillance": {
+        "total": 30342
+      }
+    },
+    "date": "2020-04-23T00:00:00.000Z",
+    "transmission": {
+      "knownChains": 0
+    },
+    "deaths": {
+      "total": 820
+    },
+    "recovered": {
+      "total": 1201
+    },
+    "hospitalization": {
+      "total": 1095
+    },
+    "critical": {
+      "total": 204
+    },
+    "testing": {
+      "total": 291465,
+      "waiting": 4048
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "covid19.min-saude.pt",
+          "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "0-19",
+          "en": "0-19"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 1019
+          },
+          "active": {
+            "total": 1019
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "20-39",
+          "en": "20-39"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5661
+          },
+          "active": {
+            "total": 5661
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "40-59",
+          "en": "40-59"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 7603
+          },
+          "active": {
+            "total": 7573
+          }
+        },
+        "deaths": {
+          "total": 30
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "60-79",
+          "en": "60-79"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 4656
+          },
+          "active": {
+            "total": 4417
+          }
+        },
+        "deaths": {
+          "total": 239
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "age-group",
+        "label": {
+          "pt": "80+",
+          "en": "80+"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3414
+          },
+          "active": {
+            "total": 2863
+          }
+        },
+        "deaths": {
+          "total": 551
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Norte",
+          "en": "North"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 13382
+          },
+          "active": {
+            "total": 12907
+          }
+        },
+        "deaths": {
+          "total": 475
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Centro",
+          "en": "Center"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 3084
+          },
+          "active": {
+            "total": 2905
+          }
+        },
+        "deaths": {
+          "total": 179
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Lisboa",
+          "en": "Lisbon"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 5194
+          },
+          "active": {
+            "total": 5048
+          }
+        },
+        "deaths": {
+          "total": 146
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Algarve",
+          "en": "Algarve"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 181
+          },
+          "active": {
+            "total": 180
+          }
+        },
+        "deaths": {
+          "total": 1
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Madeira",
+          "en": "Madeira"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 85
+          },
+          "active": {
+            "total": 85
+          }
+        },
+        "deaths": {
+          "total": 0
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      },
+      {
+        "type": "region",
+        "label": {
+          "pt": "Açores",
+          "en": "Azores"
+        },
+        "cases": {
+          "confirmed": {
+            "total": 109
+          },
+          "active": {
+            "total": 101
+          }
+        },
+        "deaths": {
+          "total": 8
+        },
+        "recovered": {
+          "total": null
+        },
+        "metadata": {
+          "sources": [
+            {
+              "name": "covid19.min-saude.pt",
+              "url": "https://covid19.min-saude.pt/wp-content/uploads/2020/04/52_DGS_boletim_20200423.pdf"
+            }
+          ]
+        }
+      }
+    ]
   }
 ]
