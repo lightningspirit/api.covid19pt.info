@@ -19,19 +19,22 @@ const config: Config = require("../config.json");
 
       const groups = flatten(await Promise.all(config.urls.insights[iso2].groups!.map(async ({
         type, label, feed
-      }) => (await GetInsights(feed)).map(stats => ({
+      }) => {
+        return (await GetInsights(feed)).map(stats => ({
         type,
         label,
         ...stats
-      })))))
+      }))})))
 
-      timeline = timeline.map((stats) => ({
-        ...stats,
-        groups: groups.filter(({date}) => date?.getTime() === stats.date?.getTime()).map(group => {
-          delete group.date
-          return group
+      timeline = timeline.map((stats) => {
+        return ({
+          ...stats,
+          groups: groups.filter(({date}) => date?.getTime() === stats.date?.getTime()).map(group => {
+            delete group.date
+            return group
+          })
         })
-      }))
+      })
     }
 
 

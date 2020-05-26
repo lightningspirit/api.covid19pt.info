@@ -110,6 +110,17 @@
           {
             "type": "region",
             "label": {
+              "pt": "Alentejo",
+              "en": "Alentejo"
+            },
+            "feed": {
+              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1034796781&single=true&output=csv",
+              "mime": "text/csv"
+            }
+          },
+          {
+            "type": "region",
+            "label": {
               "pt": "Algarve",
               "en": "Algarve"
             },
