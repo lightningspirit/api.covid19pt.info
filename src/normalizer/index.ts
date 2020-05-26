@@ -77,7 +77,7 @@ export default (stats: Stats[], metrics = [
 
       // @ts-ignore
       today[index][key] = index > 0
-        ? Math.abs(get(record, totalKey) - get(stats[previousOne], totalKey))
+        ? Math.round(get(record, totalKey) - get(stats[previousOne], totalKey))
         : Number(get(record, totalKey))
 
       // @ts-ignore

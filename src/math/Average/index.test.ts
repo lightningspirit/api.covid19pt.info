@@ -7,6 +7,7 @@ describe('Average', () => {
     [[2, 4, 6], 4],
     [[2, Infinity], Infinity],
     [[2, -1], 0.5],
+    [[-2, 1], -0.5],
   ]
 
   it.each(samples)('Average(%p) = %d', (
