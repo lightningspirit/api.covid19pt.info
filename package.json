@@ -16,12 +16,14 @@
     "commander": "^5.1.0",
     "csv-parse": "^4.8.8",
     "fetch-retry": "^3.1.0",
+    "glob": "^7.1.6",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
     "simple-text-search": "^1.0.3"
   },
   "devDependencies": {
     "@akud/aws-s3-sync-by-hash": "^1.0.5",
+    "@types/glob": "^7.1.1",
     "@types/jest": "^25.1.4",
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.9.5",
