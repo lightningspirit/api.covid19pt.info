@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+cd $DIR/../
+
+node ./dist/build-countries.js $@ -c $1 && AWS_REGION=eu-west-1 AWS_BUCKET=api.covid19pt.info API_VERSION=v6 node ./dist/deploy.js && echo "Countries last deployed at $( date )"

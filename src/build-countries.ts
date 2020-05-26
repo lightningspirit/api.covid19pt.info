@@ -1,8 +1,8 @@
+#!/usr/bin/env node
+
 import { Config } from "./types";
 import GetCountries from "./sources/countries";
-import GetEvents from "./sources/events"
 import GetTimeline from "./sources/timeline";
-import GetProjections from "./sources/projections"
 import { Population, Stats, Event, Projection, Country } from "./api.types";
 import normalizer from "./normalizer";
 import GetCountryName from "./sources/countryName";
@@ -10,8 +10,15 @@ import { write, namespace } from "./data";
 import { resource, collection } from "./responses/Hal";
 import continentPt, { ContinentNames } from "./sources/continentPt";
 import { merge } from "lodash"
+import { program } from "commander"
 
 const config: Config = require("../config.json");
+const { version, name }: {[s:string]: any} = require("../package.json");
+
+program
+  .version(version)
+  .option('-c, --countries <country>', 'comma-split country codes, otherwise all', 'all')
+  .parse(process.argv)
 
 const {
   countries: population
@@ -48,6 +55,9 @@ const continents: {
 
   for (let country of countries) {
     const { info: { iso2 } } = country
+
+    if (program.countries !== "all" && !(program.countries as string).toLowerCase().includes(iso2))
+      continue
 
     console.log(`Retrieving ${country.info.name.en} Timeline`)
 
