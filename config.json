@@ -15,143 +15,17 @@
     "insights": {
       "pt": {
         "country": {
-          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=0&single=true&output=csv",
+          "url": "https://raw.githubusercontent.com/dssg-pt/covid19pt-data/master/data.csv",
           "mime": "text/csv"
         },
-        "groups": [
-          {
-            "type": "age-group",
-            "label": {
-              "pt": "0-19",
-              "en": "0-19"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1435848506&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "age-group",
-            "label": {
-              "pt": "20-39",
-              "en": "20-39"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1819938018&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "age-group",
-            "label": {
-              "pt": "40-59",
-              "en": "40-59"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=744659754&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "age-group",
-            "label": {
-              "pt": "60-79",
-              "en": "60-79"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=303021732&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "age-group",
-            "label": {
-              "pt": "80+",
-              "en": "80+"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=364007255&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Norte",
-              "en": "North"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1614378566&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Centro",
-              "en": "Center"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=18836309&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Lisboa",
-              "en": "Lisbon"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1269445788&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Alentejo",
-              "en": "Alentejo"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1034796781&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Algarve",
-              "en": "Algarve"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=345882448&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Madeira",
-              "en": "Madeira"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1160592087&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          },
-          {
-            "type": "region",
-            "label": {
-              "pt": "Açores",
-              "en": "Azores"
-            },
-            "feed": {
-              "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4u1uA7ioWNa7VZSzYVnEdL-B5GTktP9SUf6racFSaAciQhA6neH-BbpkgWDL7UC9YE01FAX35zXYH/pub?gid=1352925441&single=true&output=csv",
-              "mime": "text/csv"
-            }
-          }
-        ]
+        "concelhos": {
+          "url": "https://raw.githubusercontent.com/dssg-pt/covid19pt-data/master/data_concelhos.csv",
+          "mime": "text/csv"
+        },
+        "testing": {
+          "url": "https://raw.githubusercontent.com/dssg-pt/covid19pt-data/master/amostras.csv",
+          "mime": "text/csv"
+        }
       }
     },
 
