@@ -17,7 +17,7 @@
     "fetch-retry": "^3.1.0",
     "glob": "^7.1.6",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "simple-text-search": "^1.0.3"
   },
   "devDependencies": {
